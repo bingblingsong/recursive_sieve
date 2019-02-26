@@ -1,0 +1,35 @@
+LLL success
+# [info] running 2-sieve
+# [info] nc = 51
+# [info] nr = 51
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 6.09049e+06
+# [info] done initialization, size(List)=37
+# [info] done initialization, size(Queue)=14
+# [info] done initialization, mem_est=580.037
+# [info] [200] cols=27 (217.7) reds=436 |L|=178 |Q|=0 |samples|=154 |sv|^2=4599509
+# [info] [400] cols=56 (229.5) reds=960 |L|=296 |Q|=0 |samples|=301 |sv|^2=4599509
+# [info] [600] cols=84 (241.1) reds=1570 |L|=412 |Q|=0 |samples|=445 |sv|^2=4599509
+# [info] [800] cols=103 (249.2) reds=2058 |L|=493 |Q|=0 |samples|=545 |sv|^2=4599509
+# [info] [1000] cols=122 (259.2) reds=2604 |L|=593 |Q|=0 |samples|=664 |sv|^2=4599509
+# [info] [1200] cols=139 (269.1) reds=3273 |L|=692 |Q|=0 |samples|=780 |sv|^2=4599509
+# [info] [1400] cols=163 (278.5) reds=3884 |L|=785 |Q|=0 |samples|=897 |sv|^2=4599509
+# [info] [1600] cols=186 (288.8) reds=4585 |L|=887 |Q|=2 |samples|=1024 |sv|^2=4599509
+# [info] [1800] cols=204 (298) reds=5284 |L|=970 |Q|=11 |samples|=1134 |sv|^2=4599509
+# [info] [2000] cols=224 (307) reds=5931 |L|=1071 |Q|=0 |samples|=1244 |sv|^2=4599509
+# [info] [2200] cols=242 (314.5) reds=6583 |L|=1143 |Q|=3 |samples|=1337 |sv|^2=4599509
+# [info] [2400] cols=254 (322.8) reds=7228 |L|=1228 |Q|=1 |samples|=1432 |sv|^2=4599509
+# [info] [2600] cols=275 (331.1) reds=7989 |L|=1312 |Q|=0 |samples|=1536 |sv|^2=4599509
+# [info] [2800] cols=296 (341.1) reds=8784 |L|=1411 |Q|=0 |samples|=1656 |sv|^2=4599509
+# [info] [3000] cols=309 (349.2) reds=9499 |L|=1493 |Q|=0 |samples|=1751 |sv|^2=4599509
+# [info] [3200] cols=333 (359) reds=10287 |L|=1583 |Q|=8 |samples|=1873 |sv|^2=4599509
+# [info] [3400] cols=349 (368.6) reds=11048 |L|=1686 |Q|=1 |samples|=1985 |sv|^2=4599509
+# [info] [3600] cols=361 (376.4) reds=11792 |L|=1764 |Q|=1 |samples|=2075 |sv|^2=4599509
+# [info] [3800] cols=368 (381.4) reds=12373 |L|=1815 |Q|=0 |samples|=2132 |sv|^2=4599509
+# [****] done!
+# [info] [3976] cols=386 (385.8) reds=12916 |L|=1858 |Q|=0 |samples|=2193
+# [info] max(|L|)=1858 log2(max|L|)/n=0.212932
+# [info] true max|L| = 37
+# [info] true log2(max|L|)/n = 0.102146
+# [info] sv is
+# [info] |sv| = 2144.65 (4599509)

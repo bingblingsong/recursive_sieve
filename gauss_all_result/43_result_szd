@@ -1,0 +1,32 @@
+LLL success
+# [info] running 2-sieve
+# [info] nc = 43
+# [info] nr = 43
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 4.80901e+06
+# [info] done initialization, size(List)=34
+# [info] done initialization, size(Queue)=9
+# [info] done initialization, mem_est=213.783
+# [info] [200] cols=35 (215.7) reds=452 |L|=158 |Q|=0 |samples|=150 |sv|^2=4427132
+# [info] [400] cols=68 (225.4) reds=941 |L|=253 |Q|=2 |samples|=280 |sv|^2=3814370
+# [info] [600] cols=110 (235.7) reds=1548 |L|=357 |Q|=0 |samples|=424 |sv|^2=3814370
+# [info] [800] cols=135 (244.6) reds=2167 |L|=447 |Q|=0 |samples|=539 |sv|^2=3404416
+# [info] [1000] cols=161 (252.7) reds=2781 |L|=527 |Q|=1 |samples|=646 |sv|^2=3404416
+# [info] [1200] cols=184 (260.9) reds=3444 |L|=605 |Q|=5 |samples|=751 |sv|^2=3404416
+# [info] [1400] cols=210 (268.9) reds=4126 |L|=689 |Q|=1 |samples|=857 |sv|^2=3404416
+# [info] [1600] cols=230 (275.5) reds=4754 |L|=756 |Q|=0 |samples|=943 |sv|^2=3404416
+# [info] [1800] cols=246 (280.4) reds=5347 |L|=802 |Q|=3 |samples|=1008 |sv|^2=3404416
+# [info] [2000] cols=264 (288.1) reds=6150 |L|=881 |Q|=1 |samples|=1103 |sv|^2=3404416
+# [info] [2200] cols=277 (292.2) reds=6725 |L|=912 |Q|=11 |samples|=1157 |sv|^2=3254490
+# [info] [2400] cols=277 (292.2) reds=7088 |L|=896 |Q|=27 |samples|=1157 |sv|^2=3134264
+# [info] [2600] cols=277 (292.2) reds=7492 |L|=890 |Q|=33 |samples|=1157 |sv|^2=3134264
+# [info] [2800] cols=285 (293.9) reds=7948 |L|=940 |Q|=0 |samples|=1182 |sv|^2=3134264
+# [info] [3000] cols=289 (294.8) reds=8363 |L|=938 |Q|=10 |samples|=1194 |sv|^2=3058930
+# [info] [3200] cols=292 (296.7) reds=8868 |L|=956 |Q|=11 |samples|=1216 |sv|^2=3058930
+# [****] done!
+# [info] [3261] cols=299 (298.6) reds=9100 |L|=986 |Q|=0 |samples|=1242
+# [info] max(|L|)=986 log2(max|L|)/n=0.231289
+# [info] true max|L| = 948
+# [info] true log2(max|L|)/n = 0.229971
+# [info] sv is
+# [info] |sv| = 1748.98 (3058930)
