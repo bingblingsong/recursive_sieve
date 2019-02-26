@@ -1,0 +1,2158 @@
+LLL success
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 37
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 1.64485e+07
+# [info] done initialization, size(List)=30
+# [info] done initialization, size(Queue)=7
+# [info] done initialization, mem_est=4269.94
+# [info] [200] cols=25 (214.2) reds=482 |L|=143 |Q|=0 |samples|=131 |sv|^2=12482791
+# [info] [400] cols=47 (222.5) reds=1060 |L|=223 |Q|=3 |samples|=236 |sv|^2=11465109
+# [info] [600] cols=63 (229.9) reds=1726 |L|=298 |Q|=2 |samples|=326 |sv|^2=10836412
+# [info] [800] cols=71 (233.6) reds=2217 |L|=337 |Q|=0 |samples|=371 |sv|^2=10836412
+# [info] [1000] cols=80 (236.2) reds=2647 |L|=362 |Q|=1 |samples|=406 |sv|^2=10309007
+# [info] [1200] cols=97 (243.8) reds=3457 |L|=437 |Q|=2 |samples|=499 |sv|^2=10309007
+# [info] [1400] cols=113 (248.9) reds=4190 |L|=490 |Q|=0 |samples|=566 |sv|^2=9289389
+# [info] [1600] cols=143 (255) reds=5145 |L|=538 |Q|=11 |samples|=655 |sv|^2=9289389
+# [info] [1800] cols=192 (259) reds=6114 |L|=590 |Q|=0 |samples|=745 |sv|^2=9289389
+# [info] [2000] cols=251 (264.7) reds=7353 |L|=647 |Q|=0 |samples|=861 |sv|^2=9289389
+# [****] done!
+# [info] [2034] cols=266 (265.6) reds=7626 |L|=656 |Q|=0 |samples|=885
+# [info] max(|L|)=656 log2(max|L|)/n=0.139665
+# [info] true max|L| = 484
+# [info] true log2(max|L|)/n = 0.133117
+# [info] sv is
+# [info] |sv| = 3047.85 (9289389)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 37
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 2.01436e+07
+# [info] done initialization, size(List)=30
+# [info] done initialization, size(Queue)=7
+# [info] done initialization, mem_est=4269.94
+# [info] [200] cols=13 (216.2) reds=789 |L|=158 |Q|=5 |samples|=139 |sv|^2=12850590
+# [info] [400] cols=25 (224) reds=1557 |L|=241 |Q|=0 |samples|=229 |sv|^2=12472128
+# [info] [600] cols=34 (231.5) reds=2401 |L|=316 |Q|=0 |samples|=313 |sv|^2=12472128
+# [info] [800] cols=53 (237.1) reds=3299 |L|=372 |Q|=0 |samples|=388 |sv|^2=12472128
+# [info] [1000] cols=84 (243.8) reds=4383 |L|=438 |Q|=1 |samples|=486 |sv|^2=12071888
+# [info] [1200] cols=118 (249.8) reds=5578 |L|=499 |Q|=0 |samples|=580 |sv|^2=12071888
+# [info] [1400] cols=184 (255.9) reds=7089 |L|=558 |Q|=0 |samples|=705 |sv|^2=12071888
+# [****] done!
+# [info] [1579] cols=263 (262.2) reds=8731 |L|=622 |Q|=0 |samples|=848
+# [info] max(|L|)=622 log2(max|L|)/n=0.138519
+# [info] true max|L| = 377
+# [info] true log2(max|L|)/n = 0.127738
+# [info] sv is
+# [info] |sv| = 3474.46 (12071888)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 37
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 2.21746e+07
+# [info] done initialization, size(List)=32
+# [info] done initialization, size(Queue)=5
+# [info] done initialization, mem_est=4269.94
+# [info] [200] cols=9 (217.2) reds=1017 |L|=172 |Q|=1 |samples|=145 |sv|^2=13380633
+# [info] [400] cols=23 (226.4) reds=2070 |L|=265 |Q|=0 |samples|=251 |sv|^2=13380633
+# [info] [600] cols=50 (234.6) reds=3217 |L|=344 |Q|=1 |samples|=358 |sv|^2=13380633
+# [info] [800] cols=81 (241.1) reds=4382 |L|=412 |Q|=0 |samples|=456 |sv|^2=13380633
+# [info] [1000] cols=126 (248) reds=5782 |L|=480 |Q|=1 |samples|=570 |sv|^2=13380633
+# [info] [1200] cols=191 (252.3) reds=7222 |L|=523 |Q|=0 |samples|=677 |sv|^2=13380633
+# [****] done!
+# [info] [1342] cols=256 (255.6) reds=8504 |L|=556 |Q|=0 |samples|=775
+# [info] max(|L|)=556 log2(max|L|)/n=0.136104
+# [info] true max|L| = 32
+# [info] true log2(max|L|)/n = 0.0746269
+# [info] sv is
+# [info] |sv| = 3657.95 (13380633)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 47
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 1.64485e+07
+# [info] done initialization, size(List)=38
+# [info] done initialization, size(Queue)=9
+# [info] done initialization, mem_est=4269.94
+ayamayaqhy   1203    
+ # [info] [200] cols=38 (320.8) reds=6895 |L|=1183 |Q|=533 |samples|=0 |sv|^2=8607861
+# [info] [400] cols=62 (320.8) reds=7329 |L|=1179 |Q|=513 |samples|=0 |sv|^2=8607861
+# [info] [600] cols=73 (321.3) reds=7722 |L|=1212 |Q|=469 |samples|=0 |sv|^2=8607861
+# [info] [800] cols=89 (325.9) reds=8105 |L|=1260 |Q|=405 |samples|=0 |sv|^2=8607861
+# [info] [1000] cols=95 (330.5) reds=8453 |L|=1306 |Q|=353 |samples|=0 |sv|^2=8466786
+# [info] [1200] cols=110 (336.8) reds=8768 |L|=1367 |Q|=277 |samples|=0 |sv|^2=8466786
+# [info] [1400] cols=115 (341.5) reds=9088 |L|=1416 |Q|=223 |samples|=0 |sv|^2=8466786
+# [info] [1600] cols=117 (344.5) reds=9410 |L|=1441 |Q|=196 |samples|=0 |sv|^2=8466786
+# [info] [1800] cols=121 (345.8) reds=9749 |L|=1452 |Q|=181 |samples|=0 |sv|^2=7029076
+# [info] [2000] cols=123 (352) reds=10036 |L|=1517 |Q|=114 |samples|=0 |sv|^2=7029076
+# [info] [2200] cols=125 (357.8) reds=10288 |L|=1578 |Q|=51 |samples|=0 |sv|^2=7029076
+# [info] [2400] cols=129 (360.4) reds=10592 |L|=1605 |Q|=20 |samples|=0 |sv|^2=7029076
+# [info] [2600] cols=135 (368.3) reds=11637 |L|=1683 |Q|=1 |samples|=65 |sv|^2=7029076
+# [info] [2800] cols=140 (375.5) reds=12897 |L|=1754 |Q|=2 |samples|=142 |sv|^2=7029076
+# [info] [3000] cols=151 (382.7) reds=14230 |L|=1828 |Q|=0 |samples|=225 |sv|^2=7029076
+# [info] [3200] cols=159 (389.5) reds=15519 |L|=1892 |Q|=4 |samples|=301 |sv|^2=7029076
+# [info] [3400] cols=176 (394.3) reds=16517 |L|=1944 |Q|=0 |samples|=366 |sv|^2=7029076
+# [info] [3600] cols=188 (399.8) reds=17642 |L|=1997 |Q|=2 |samples|=433 |sv|^2=7029076
+# [info] [3800] cols=208 (406.7) reds=19044 |L|=2056 |Q|=6 |samples|=516 |sv|^2=7029076
+# [info] [4000] cols=226 (411) reds=20234 |L|=2109 |Q|=1 |samples|=582 |sv|^2=7029076
+# [info] [4200] cols=243 (416.3) reds=21459 |L|=2160 |Q|=4 |samples|=653 |sv|^2=7029076
+# [info] [4400] cols=266 (422) reds=22830 |L|=2217 |Q|=3 |samples|=732 |sv|^2=7029076
+# [info] [4600] cols=289 (424.9) reds=23837 |L|=2246 |Q|=3 |samples|=784 |sv|^2=7029076
+# [info] [4800] cols=325 (430.9) reds=25401 |L|=2309 |Q|=0 |samples|=880 |sv|^2=7029076
+# [info] [5000] cols=361 (437.6) reds=27028 |L|=2375 |Q|=2 |samples|=984 |sv|^2=7029076
+# [info] [5200] cols=388 (442.8) reds=28553 |L|=2429 |Q|=0 |samples|=1063 |sv|^2=7029076
+# [info] [5400] cols=436 (450.2) reds=30616 |L|=2503 |Q|=0 |samples|=1185 |sv|^2=7029076
+# [****] done!
+# [info] [5454] cols=453 (452.9) reds=31311 |L|=2529 |Q|=0 |samples|=1228
+# [info] max(|L|)=2529 log2(max|L|)/n=0.168722
+# [info] true max|L| = 1458
+# [info] true log2(max|L|)/n = 0.156862
+# [info] sv is
+# [info] |sv| = 2651.24 (7029076)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 37
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 2.01436e+07
+# [info] done initialization, size(List)=30
+# [info] done initialization, size(Queue)=7
+# [info] done initialization, mem_est=4269.94
+# [info] [200] cols=13 (216.2) reds=789 |L|=158 |Q|=5 |samples|=139 |sv|^2=12850590
+# [info] [400] cols=25 (224) reds=1557 |L|=241 |Q|=0 |samples|=229 |sv|^2=12472128
+# [info] [600] cols=34 (231.5) reds=2401 |L|=316 |Q|=0 |samples|=313 |sv|^2=12472128
+# [info] [800] cols=53 (237.1) reds=3299 |L|=372 |Q|=0 |samples|=388 |sv|^2=12472128
+# [info] [1000] cols=84 (243.8) reds=4383 |L|=438 |Q|=1 |samples|=486 |sv|^2=12071888
+# [info] [1200] cols=118 (249.8) reds=5578 |L|=499 |Q|=0 |samples|=580 |sv|^2=12071888
+# [info] [1400] cols=184 (255.9) reds=7089 |L|=558 |Q|=0 |samples|=705 |sv|^2=12071888
+# [****] done!
+# [info] [1579] cols=263 (262.2) reds=8731 |L|=622 |Q|=0 |samples|=848
+# [info] max(|L|)=622 log2(max|L|)/n=0.138519
+# [info] true max|L| = 377
+# [info] true log2(max|L|)/n = 0.127738
+# [info] sv is
+# [info] |sv| = 3474.46 (12071888)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 37
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 2.0397e+07
+# [info] done initialization, size(List)=32
+# [info] done initialization, size(Queue)=5
+# [info] done initialization, mem_est=4269.94
+# [info] [200] cols=21 (215.7) reds=844 |L|=157 |Q|=0 |samples|=141 |sv|^2=13380633
+# [info] [400] cols=43 (224.3) reds=1748 |L|=244 |Q|=0 |samples|=250 |sv|^2=13380633
+# [info] [600] cols=70 (230.8) reds=2640 |L|=309 |Q|=0 |samples|=342 |sv|^2=13380633
+# [info] [800] cols=105 (236.7) reds=3701 |L|=368 |Q|=0 |samples|=436 |sv|^2=13380633
+# [info] [1000] cols=154 (242.9) reds=4886 |L|=430 |Q|=0 |samples|=547 |sv|^2=13380633
+# [info] [1200] cols=235 (248.9) reds=6389 |L|=490 |Q|=0 |samples|=688 |sv|^2=13380633
+# [****] done!
+# [info] [1223] cols=250 (249.4) reds=6570 |L|=494 |Q|=0 |samples|=707
+# [info] max(|L|)=494 log2(max|L|)/n=0.133558
+# [info] true max|L| = 32
+# [info] true log2(max|L|)/n = 0.0746269
+# [info] sv is
+# [info] |sv| = 3657.95 (13380633)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 37
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 1.73798e+07
+# [info] done initialization, size(List)=30
+# [info] done initialization, size(Queue)=7
+# [info] done initialization, mem_est=4269.94
+# [info] [200] cols=48 (214.2) reds=827 |L|=141 |Q|=2 |samples|=154 |sv|^2=13380633
+# [info] [400] cols=114 (222.3) reds=1710 |L|=223 |Q|=1 |samples|=301 |sv|^2=13380633
+# [info] [600] cols=176 (227) reds=2610 |L|=271 |Q|=0 |samples|=410 |sv|^2=13380633
+# [****] done!
+# [info] [748] cols=232 (232) reds=3297 |L|=320 |Q|=0 |samples|=515
+# [info] max(|L|)=320 log2(max|L|)/n=0.124208
+# [info] true max|L| = 30
+# [info] true log2(max|L|)/n = 0.0732372
+# [info] sv is
+# [info] |sv| = 3657.95 (13380633)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 47
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 2.01436e+07
+# [info] done initialization, size(List)=34
+# [info] done initialization, size(Queue)=13
+# [info] done initialization, mem_est=4269.94
+ayamayaqhy   967    
+ # [info] [200] cols=35 (299.8) reds=3082 |L|=999 |Q|=280 |samples|=0 |sv|^2=11476082
+# [info] [400] cols=44 (301.2) reds=3489 |L|=1006 |Q|=264 |samples|=0 |sv|^2=11476082
+# [info] [600] cols=65 (304.7) reds=3871 |L|=1042 |Q|=207 |samples|=0 |sv|^2=11476082
+# [info] [800] cols=75 (310.7) reds=4209 |L|=1091 |Q|=148 |samples|=0 |sv|^2=10503388
+# [info] [1000] cols=79 (313.9) reds=4525 |L|=1139 |Q|=96 |samples|=0 |sv|^2=10503388
+# [info] [1200] cols=82 (319.7) reds=4797 |L|=1196 |Q|=36 |samples|=0 |sv|^2=10503388
+# [info] [1400] cols=84 (329.9) reds=6010 |L|=1293 |Q|=7 |samples|=70 |sv|^2=10503388
+# [info] [1600] cols=87 (339.9) reds=7742 |L|=1400 |Q|=0 |samples|=173 |sv|^2=10503388
+# [info] [1800] cols=90 (350.7) reds=9534 |L|=1495 |Q|=13 |samples|=284 |sv|^2=10503388
+# [info] [2000] cols=92 (355.7) reds=10581 |L|=1556 |Q|=2 |samples|=336 |sv|^2=10503388
+# [info] [2200] cols=96 (359.8) reds=11478 |L|=1593 |Q|=6 |samples|=381 |sv|^2=10503388
+# [info] [2400] cols=103 (367.8) reds=12934 |L|=1679 |Q|=0 |samples|=468 |sv|^2=10503388
+# [info] [2600] cols=109 (376.2) reds=14587 |L|=1763 |Q|=0 |samples|=558 |sv|^2=10503388
+# [info] [2800] cols=113 (380.2) reds=15505 |L|=1796 |Q|=6 |samples|=601 |sv|^2=10503388
+# [info] [3000] cols=121 (387.1) reds=17001 |L|=1872 |Q|=0 |samples|=679 |sv|^2=10503388
+# [info] [3200] cols=128 (392.7) reds=18247 |L|=1928 |Q|=0 |samples|=742 |sv|^2=10503388
+# [info] [3400] cols=136 (400.7) reds=19872 |L|=2007 |Q|=1 |samples|=830 |sv|^2=10503388
+# [info] [3600] cols=144 (404.4) reds=20897 |L|=2043 |Q|=2 |samples|=875 |sv|^2=10503388
+# [info] [3800] cols=159 (408.3) reds=22120 |L|=2077 |Q|=5 |samples|=927 |sv|^2=10503388
+# [info] [4000] cols=173 (413.7) reds=23462 |L|=2138 |Q|=0 |samples|=997 |sv|^2=10503388
+# [info] [4200] cols=195 (417.2) reds=24796 |L|=2171 |Q|=1 |samples|=1053 |sv|^2=10503388
+# [info] [4400] cols=219 (422.6) reds=26384 |L|=2227 |Q|=0 |samples|=1132 |sv|^2=10503388
+# [info] [4600] cols=240 (427.5) reds=27618 |L|=2254 |Q|=13 |samples|=1193 |sv|^2=10503388
+# [info] [4800] cols=271 (431.3) reds=29232 |L|=2313 |Q|=0 |samples|=1270 |sv|^2=10503388
+# [info] [5000] cols=301 (437.2) reds=31163 |L|=2370 |Q|=1 |samples|=1358 |sv|^2=10503388
+# [info] [5200] cols=336 (443.8) reds=33099 |L|=2439 |Q|=0 |samples|=1461 |sv|^2=10503388
+# [info] [5400] cols=380 (450.2) reds=35201 |L|=2503 |Q|=0 |samples|=1569 |sv|^2=10503388
+# [info] [5600] cols=429 (453.3) reds=36859 |L|=2524 |Q|=5 |samples|=1644 |sv|^2=10503388
+# [****] done!
+# [info] [5714] cols=457 (456.2) reds=38020 |L|=2562 |Q|=0 |samples|=1705
+# [info] max(|L|)=2562 log2(max|L|)/n=0.169001
+# [info] true max|L| = 1107
+# [info] true log2(max|L|)/n = 0.150932
+# [info] sv is
+# [info] |sv| = 3240.89 (10503388)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 37
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 2.21746e+07
+# [info] done initialization, size(List)=32
+# [info] done initialization, size(Queue)=5
+# [info] done initialization, mem_est=4269.94
+# [info] [200] cols=9 (217.2) reds=1017 |L|=172 |Q|=1 |samples|=145 |sv|^2=13380633
+# [info] [400] cols=23 (226.4) reds=2070 |L|=265 |Q|=0 |samples|=251 |sv|^2=13380633
+# [info] [600] cols=50 (234.6) reds=3217 |L|=344 |Q|=1 |samples|=358 |sv|^2=13380633
+# [info] [800] cols=81 (241.1) reds=4382 |L|=412 |Q|=0 |samples|=456 |sv|^2=13380633
+# [info] [1000] cols=126 (248) reds=5782 |L|=480 |Q|=1 |samples|=570 |sv|^2=13380633
+# [info] [1200] cols=191 (252.3) reds=7222 |L|=523 |Q|=0 |samples|=677 |sv|^2=13380633
+# [****] done!
+# [info] [1342] cols=256 (255.6) reds=8504 |L|=556 |Q|=0 |samples|=775
+# [info] max(|L|)=556 log2(max|L|)/n=0.136104
+# [info] true max|L| = 32
+# [info] true log2(max|L|)/n = 0.0746269
+# [info] sv is
+# [info] |sv| = 3657.95 (13380633)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 37
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 1.73798e+07
+# [info] done initialization, size(List)=30
+# [info] done initialization, size(Queue)=7
+# [info] done initialization, mem_est=4269.94
+# [info] [200] cols=48 (214.2) reds=827 |L|=141 |Q|=2 |samples|=154 |sv|^2=13380633
+# [info] [400] cols=114 (222.3) reds=1710 |L|=223 |Q|=1 |samples|=301 |sv|^2=13380633
+# [info] [600] cols=176 (227) reds=2610 |L|=271 |Q|=0 |samples|=410 |sv|^2=13380633
+# [****] done!
+# [info] [748] cols=232 (232) reds=3297 |L|=320 |Q|=0 |samples|=515
+# [info] max(|L|)=320 log2(max|L|)/n=0.124208
+# [info] true max|L| = 30
+# [info] true log2(max|L|)/n = 0.0732372
+# [info] sv is
+# [info] |sv| = 3657.95 (13380633)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 37
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 1.9029e+07
+# [info] done initialization, size(List)=30
+# [info] done initialization, size(Queue)=7
+# [info] done initialization, mem_est=4269.94
+# [info] [200] cols=38 (215) reds=962 |L|=151 |Q|=0 |samples|=152 |sv|^2=9790477
+# [info] [400] cols=86 (224.1) reds=2052 |L|=242 |Q|=0 |samples|=291 |sv|^2=9790477
+# [info] [600] cols=150 (229.8) reds=3215 |L|=298 |Q|=0 |samples|=411 |sv|^2=9790477
+# [****] done!
+# [info] [785] cols=234 (233.2) reds=4402 |L|=330 |Q|=0 |samples|=527
+# [info] max(|L|)=332 log2(max|L|)/n=0.125001
+# [info] true max|L| = 30
+# [info] true log2(max|L|)/n = 0.0732372
+# [info] sv is
+# [info] |sv| = 3128.97 (9790477)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 47
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 2.21746e+07
+# [info] done initialization, size(List)=35
+# [info] done initialization, size(Queue)=12
+# [info] done initialization, mem_est=4269.94
+ayamayaqhy   811    
+ # [info] [200] cols=36 (283.4) reds=1758 |L|=822 |Q|=248 |samples|=0 |sv|^2=9790477
+# [info] [400] cols=49 (287.6) reds=2108 |L|=876 |Q|=181 |samples|=0 |sv|^2=9790477
+# [info] [600] cols=56 (293.6) reds=2418 |L|=937 |Q|=113 |samples|=0 |sv|^2=9790477
+# [info] [800] cols=62 (302.4) reds=2680 |L|=1024 |Q|=20 |samples|=0 |sv|^2=9790477
+# [info] [1000] cols=69 (310.6) reds=3884 |L|=1107 |Q|=0 |samples|=70 |sv|^2=9790477
+# [info] [1200] cols=74 (320.2) reds=5534 |L|=1203 |Q|=0 |samples|=171 |sv|^2=9790477
+# [info] [1400] cols=78 (332.3) reds=7539 |L|=1324 |Q|=0 |samples|=296 |sv|^2=9790477
+# [info] [1600] cols=83 (342.3) reds=9273 |L|=1422 |Q|=2 |samples|=401 |sv|^2=9790477
+# [info] [1800] cols=89 (349.9) reds=10714 |L|=1497 |Q|=3 |samples|=483 |sv|^2=9790477
+# [info] [2000] cols=96 (358.7) reds=12453 |L|=1587 |Q|=1 |samples|=578 |sv|^2=9790477
+# [info] [2200] cols=102 (363.6) reds=13586 |L|=1636 |Q|=1 |samples|=633 |sv|^2=9790477
+# [info] [2400] cols=108 (371.4) reds=15138 |L|=1713 |Q|=2 |samples|=717 |sv|^2=9790477
+# [info] [2600] cols=119 (374.4) reds=16104 |L|=1745 |Q|=0 |samples|=758 |sv|^2=9790477
+# [info] [2800] cols=132 (381.1) reds=17666 |L|=1804 |Q|=7 |samples|=837 |sv|^2=9790477
+# [info] [3000] cols=145 (384.2) reds=18637 |L|=1840 |Q|=1 |samples|=880 |sv|^2=9790477
+# [info] [3200] cols=162 (388.1) reds=19840 |L|=1869 |Q|=9 |samples|=934 |sv|^2=9790477
+# [info] [3400] cols=185 (393.7) reds=21543 |L|=1938 |Q|=0 |samples|=1017 |sv|^2=9790477
+# [info] [3600] cols=207 (395.7) reds=22603 |L|=1957 |Q|=1 |samples|=1059 |sv|^2=9790477
+# [info] [3800] cols=238 (402) reds=24404 |L|=2021 |Q|=0 |samples|=1153 |sv|^2=9790477
+# [info] [4000] cols=267 (409.4) reds=26444 |L|=2090 |Q|=5 |samples|=1256 |sv|^2=9790477
+# [info] [4200] cols=300 (413) reds=27948 |L|=2131 |Q|=0 |samples|=1325 |sv|^2=9790477
+# [info] [4400] cols=336 (421.4) reds=30291 |L|=2213 |Q|=1 |samples|=1444 |sv|^2=9790477
+# [info] [4600] cols=387 (429.6) reds=32822 |L|=2296 |Q|=0 |samples|=1577 |sv|^2=9790477
+# [info] [4800] cols=432 (436.4) reds=34984 |L|=2363 |Q|=0 |samples|=1689 |sv|^2=9790477
+# [****] done!
+# [info] [4817] cols=437 (436.6) reds=35161 |L|=2366 |Q|=0 |samples|=1697
+# [info] max(|L|)=2366 log2(max|L|)/n=0.167287
+# [info] true max|L| = 811
+# [info] true log2(max|L|)/n = 0.144232
+# [info] sv is
+# [info] |sv| = 3128.97 (9790477)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 57
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 1.64485e+07
+# [info] done initialization, size(List)=42
+# [info] done initialization, size(Queue)=15
+# [info] done initialization, mem_est=4269.94
+ayamayaqhy   5080    
+ # [info] [200] cols=7 (709) reds=32141 |L|=5032 |Q|=2393 |samples|=0 |sv|^2=6786697
+# [info] [400] cols=9 (709) reds=32604 |L|=4978 |Q|=2445 |samples|=0 |sv|^2=6786697
+# [info] [600] cols=16 (709) reds=33134 |L|=4944 |Q|=2472 |samples|=0 |sv|^2=6786697
+# [info] [800] cols=21 (709) reds=33615 |L|=4906 |Q|=2505 |samples|=0 |sv|^2=6786697
+# [info] [1000] cols=26 (709) reds=34087 |L|=4897 |Q|=2509 |samples|=0 |sv|^2=6786697
+# [info] [1200] cols=30 (709) reds=34597 |L|=4868 |Q|=2534 |samples|=0 |sv|^2=6786697
+# [info] [1400] cols=37 (709) reds=35067 |L|=4846 |Q|=2549 |samples|=0 |sv|^2=6786697
+# [info] [1600] cols=40 (709) reds=35481 |L|=4866 |Q|=2526 |samples|=0 |sv|^2=6786697
+# [info] [1800] cols=41 (709) reds=35862 |L|=4919 |Q|=2472 |samples|=0 |sv|^2=6786697
+# [info] [2000] cols=43 (709) reds=36268 |L|=4973 |Q|=2416 |samples|=0 |sv|^2=6786697
+# [info] [2200] cols=45 (709) reds=36643 |L|=5064 |Q|=2323 |samples|=0 |sv|^2=6786697
+# [info] [2400] cols=46 (717.2) reds=36968 |L|=5172 |Q|=2214 |samples|=0 |sv|^2=6786697
+# [info] [2600] cols=49 (722.1) reds=37359 |L|=5213 |Q|=2170 |samples|=0 |sv|^2=6786697
+# [info] [2800] cols=53 (722.3) reds=37821 |L|=5223 |Q|=2156 |samples|=0 |sv|^2=6786697
+# [info] [3000] cols=56 (723.3) reds=38274 |L|=5228 |Q|=2148 |samples|=0 |sv|^2=6786697
+# [info] [3200] cols=59 (725.8) reds=38674 |L|=5258 |Q|=2115 |samples|=0 |sv|^2=6786697
+# [info] [3400] cols=66 (727.4) reds=39133 |L|=5253 |Q|=2113 |samples|=0 |sv|^2=6786697
+# [info] [3600] cols=71 (732.2) reds=39522 |L|=5322 |Q|=2039 |samples|=0 |sv|^2=6786697
+# [info] [3800] cols=74 (736.1) reds=39952 |L|=5359 |Q|=1999 |samples|=0 |sv|^2=6786697
+# [info] [4000] cols=79 (737.1) reds=40409 |L|=5363 |Q|=1990 |samples|=0 |sv|^2=6786697
+# [info] [4200] cols=82 (742.1) reds=40776 |L|=5419 |Q|=1931 |samples|=0 |sv|^2=6786697
+# [info] [4400] cols=83 (747.7) reds=41123 |L|=5460 |Q|=1889 |samples|=0 |sv|^2=6687707
+# [info] [4600] cols=84 (753.7) reds=41479 |L|=5536 |Q|=1812 |samples|=0 |sv|^2=6687707
+# [info] [4800] cols=86 (756.9) reds=41840 |L|=5558 |Q|=1788 |samples|=0 |sv|^2=6687707
+# [info] [5000] cols=89 (759.8) reds=42232 |L|=5595 |Q|=1748 |samples|=0 |sv|^2=6687707
+# [info] [5200] cols=92 (763.1) reds=42610 |L|=5632 |Q|=1708 |samples|=0 |sv|^2=6687707
+# [info] [5400] cols=95 (766.5) reds=42985 |L|=5661 |Q|=1676 |samples|=0 |sv|^2=6359212
+# [info] [5600] cols=96 (770.4) reds=43331 |L|=5705 |Q|=1631 |samples|=0 |sv|^2=6359212
+# [info] [5800] cols=97 (774.3) reds=43698 |L|=5742 |Q|=1593 |samples|=0 |sv|^2=6359212
+# [info] [6000] cols=98 (777) reds=44060 |L|=5750 |Q|=1584 |samples|=0 |sv|^2=6359212
+# [info] [6200] cols=100 (778.2) reds=44407 |L|=5779 |Q|=1553 |samples|=0 |sv|^2=6359212
+# [info] [6400] cols=101 (780.6) reds=44755 |L|=5807 |Q|=1524 |samples|=0 |sv|^2=6359212
+# [info] [6600] cols=104 (782.9) reds=45084 |L|=5827 |Q|=1501 |samples|=0 |sv|^2=6359212
+# [info] [6800] cols=105 (786.3) reds=45466 |L|=5858 |Q|=1469 |samples|=0 |sv|^2=6359212
+# [info] [7000] cols=107 (791.5) reds=45809 |L|=5911 |Q|=1414 |samples|=0 |sv|^2=6359212
+# [info] [7200] cols=108 (797.4) reds=46106 |L|=5973 |Q|=1351 |samples|=0 |sv|^2=6359212
+# [info] [7400] cols=110 (800.5) reds=46461 |L|=6006 |Q|=1316 |samples|=0 |sv|^2=6359212
+# [info] [7600] cols=110 (805.4) reds=46798 |L|=6055 |Q|=1267 |samples|=0 |sv|^2=6359212
+# [info] [7800] cols=110 (809) reds=47145 |L|=6088 |Q|=1234 |samples|=0 |sv|^2=6359212
+# [info] [8000] cols=111 (812.9) reds=47486 |L|=6129 |Q|=1192 |samples|=0 |sv|^2=6359212
+# [info] [8200] cols=112 (818.7) reds=47789 |L|=6184 |Q|=1136 |samples|=0 |sv|^2=6359212
+# [info] [8400] cols=112 (824.9) reds=48098 |L|=6246 |Q|=1074 |samples|=0 |sv|^2=6359212
+# [info] [8600] cols=113 (830.5) reds=48391 |L|=6306 |Q|=1013 |samples|=0 |sv|^2=6359212
+# [info] [8800] cols=115 (832) reds=48753 |L|=6314 |Q|=1003 |samples|=0 |sv|^2=6359212
+# [info] [9000] cols=115 (835.4) reds=49085 |L|=6353 |Q|=964 |samples|=0 |sv|^2=6359212
+# [info] [9200] cols=116 (840.4) reds=49423 |L|=6404 |Q|=912 |samples|=0 |sv|^2=6359212
+# [info] [9400] cols=116 (845.6) reds=49749 |L|=6455 |Q|=861 |samples|=0 |sv|^2=6359212
+# [info] [9600] cols=117 (848.7) reds=50066 |L|=6488 |Q|=827 |samples|=0 |sv|^2=6359212
+# [info] [9800] cols=117 (850.4) reds=50407 |L|=6495 |Q|=820 |samples|=0 |sv|^2=6359212
+# [info] [10000] cols=119 (853.4) reds=50715 |L|=6531 |Q|=782 |samples|=0 |sv|^2=6206058
+# [info] [10200] cols=120 (856.1) reds=51037 |L|=6547 |Q|=765 |samples|=0 |sv|^2=6206058
+# [info] [10400] cols=120 (858.3) reds=51353 |L|=6584 |Q|=728 |samples|=0 |sv|^2=6206058
+# [info] [10600] cols=121 (860.4) reds=51699 |L|=6601 |Q|=710 |samples|=0 |sv|^2=6206058
+# [info] [10800] cols=121 (866.3) reds=51968 |L|=6664 |Q|=647 |samples|=0 |sv|^2=6206058
+# [info] [11000] cols=121 (869.9) reds=52328 |L|=6694 |Q|=617 |samples|=0 |sv|^2=6206058
+# [info] [11200] cols=121 (876.6) reds=52591 |L|=6767 |Q|=544 |samples|=0 |sv|^2=6206058
+# [info] [11400] cols=122 (880.8) reds=52895 |L|=6802 |Q|=508 |samples|=0 |sv|^2=6206058
+# [info] [11600] cols=122 (884.5) reds=53215 |L|=6846 |Q|=464 |samples|=0 |sv|^2=6206058
+# [info] [11800] cols=123 (889.3) reds=53504 |L|=6894 |Q|=415 |samples|=0 |sv|^2=6206058
+# [info] [12000] cols=124 (893.4) reds=53793 |L|=6935 |Q|=373 |samples|=0 |sv|^2=6206058
+# [info] [12200] cols=126 (898.3) reds=54097 |L|=6984 |Q|=322 |samples|=0 |sv|^2=6206058
+# [info] [12400] cols=126 (899.3) reds=54476 |L|=6981 |Q|=325 |samples|=0 |sv|^2=6081899
+# [info] [12600] cols=127 (903.7) reds=54761 |L|=7034 |Q|=271 |samples|=0 |sv|^2=6081899
+# [info] [12800] cols=128 (908.5) reds=55055 |L|=7084 |Q|=220 |samples|=0 |sv|^2=6081899
+# [info] [13000] cols=129 (911.7) reds=55358 |L|=7109 |Q|=194 |samples|=0 |sv|^2=6081899
+# [info] [13200] cols=130 (911.7) reds=55704 |L|=7111 |Q|=191 |samples|=0 |sv|^2=6081899
+# [info] [13400] cols=131 (915.9) reds=56059 |L|=7160 |Q|=141 |samples|=0 |sv|^2=6081899
+# [info] [13600] cols=132 (923.4) reds=56313 |L|=7235 |Q|=65 |samples|=0 |sv|^2=6081899
+# [info] [13800] cols=134 (926.8) reds=56617 |L|=7263 |Q|=35 |samples|=0 |sv|^2=6081899
+# [info] [14000] cols=135 (928.8) reds=56923 |L|=7277 |Q|=20 |samples|=0 |sv|^2=6081899
+# [info] [14200] cols=137 (930.3) reds=57424 |L|=7303 |Q|=1 |samples|=9 |sv|^2=6081899
+# [info] [14400] cols=138 (937.6) reds=59210 |L|=7377 |Q|=0 |samples|=83 |sv|^2=6081899
+# [info] [14600] cols=142 (942) reds=60474 |L|=7418 |Q|=3 |samples|=131 |sv|^2=6081899
+# [info] [14800] cols=145 (947.1) reds=61876 |L|=7461 |Q|=11 |samples|=185 |sv|^2=6081899
+# [info] [15000] cols=147 (952.7) reds=63371 |L|=7528 |Q|=0 |samples|=243 |sv|^2=6081899
+# [info] [15200] cols=154 (960.5) reds=65430 |L|=7606 |Q|=0 |samples|=328 |sv|^2=6081899
+# [info] [15400] cols=159 (969.6) reds=67703 |L|=7696 |Q|=1 |samples|=424 |sv|^2=6081899
+# [info] [15600] cols=163 (976.4) reds=69500 |L|=7763 |Q|=1 |samples|=495 |sv|^2=6081899
+# [info] [15800] cols=165 (983.2) reds=71185 |L|=7833 |Q|=0 |samples|=566 |sv|^2=6081899
+# [info] [16000] cols=166 (984.5) reds=71826 |L|=7838 |Q|=7 |samples|=579 |sv|^2=6081899
+# [info] [16200] cols=167 (988.2) reds=72944 |L|=7880 |Q|=3 |samples|=618 |sv|^2=6081899
+# [info] [16400] cols=171 (991.4) reds=73890 |L|=7910 |Q|=3 |samples|=652 |sv|^2=6081899
+# [info] [16600] cols=175 (993.4) reds=74734 |L|=7933 |Q|=2 |samples|=678 |sv|^2=6081899
+# [info] [16800] cols=178 (996.5) reds=75793 |L|=7960 |Q|=6 |samples|=712 |sv|^2=6081899
+# [info] [17000] cols=179 (998) reds=76461 |L|=7980 |Q|=1 |samples|=728 |sv|^2=6081899
+# [info] [17200] cols=189 (1004.6) reds=78256 |L|=8045 |Q|=2 |samples|=804 |sv|^2=6081899
+# [info] [17400] cols=193 (1009) reds=79645 |L|=8091 |Q|=0 |samples|=852 |sv|^2=6081899
+# [info] [17600] cols=198 (1015) reds=81258 |L|=8137 |Q|=14 |samples|=917 |sv|^2=6081899
+# [info] [17800] cols=200 (1015) reds=81689 |L|=8135 |Q|=16 |samples|=919 |sv|^2=5902842
+# [info] [18000] cols=204 (1020.5) reds=83229 |L|=8203 |Q|=3 |samples|=978 |sv|^2=5902842
+# [info] [18200] cols=205 (1020.5) reds=83551 |L|=8192 |Q|=13 |samples|=978 |sv|^2=5902842
+# [info] [18400] cols=209 (1022.9) reds=84437 |L|=8203 |Q|=26 |samples|=1006 |sv|^2=5902842
+# [info] [18600] cols=213 (1022.9) reds=84875 |L|=8219 |Q|=9 |samples|=1009 |sv|^2=5902842
+# [info] [18800] cols=213 (1027.1) reds=86193 |L|=8272 |Q|=0 |samples|=1053 |sv|^2=5902842
+# [info] [19000] cols=222 (1030) reds=87277 |L|=8293 |Q|=8 |samples|=1091 |sv|^2=5902842
+# [info] [19200] cols=227 (1035.7) reds=88894 |L|=8356 |Q|=2 |samples|=1153 |sv|^2=5902842
+# [info] [19400] cols=233 (1039.3) reds=90091 |L|=8392 |Q|=2 |samples|=1195 |sv|^2=5902842
+# [info] [19600] cols=238 (1041.9) reds=91161 |L|=8409 |Q|=9 |samples|=1224 |sv|^2=5902842
+# [info] [19800] cols=239 (1043.4) reds=91890 |L|=8409 |Q|=26 |samples|=1242 |sv|^2=5902842
+# [info] [20000] cols=245 (1043.4) reds=92281 |L|=8391 |Q|=38 |samples|=1242 |sv|^2=5902842
+# [info] [20200] cols=246 (1043.4) reds=92614 |L|=8391 |Q|=37 |samples|=1242 |sv|^2=5902842
+# [info] [20400] cols=249 (1043.4) reds=92956 |L|=8398 |Q|=27 |samples|=1242 |sv|^2=5902842
+# [info] [20600] cols=254 (1043.7) reds=93637 |L|=8435 |Q|=3 |samples|=1260 |sv|^2=5902842
+# [info] [20800] cols=263 (1049.3) reds=95329 |L|=8492 |Q|=2 |samples|=1325 |sv|^2=5902842
+# [info] [21000] cols=271 (1051.6) reds=96340 |L|=8514 |Q|=3 |samples|=1356 |sv|^2=5902842
+# [info] [21200] cols=282 (1056.3) reds=97876 |L|=8561 |Q|=3 |samples|=1414 |sv|^2=5902842
+# [info] [21400] cols=287 (1062.7) reds=99711 |L|=8623 |Q|=5 |samples|=1483 |sv|^2=5902842
+# [info] [21600] cols=294 (1063.5) reds=100294 |L|=8624 |Q|=9 |samples|=1495 |sv|^2=5902842
+# [info] [21800] cols=302 (1067.6) reds=101799 |L|=8672 |Q|=5 |samples|=1547 |sv|^2=5902842
+# [info] [22000] cols=307 (1071.3) reds=103034 |L|=8713 |Q|=1 |samples|=1589 |sv|^2=5902842
+# [info] [22200] cols=319 (1074.8) reds=104360 |L|=8743 |Q|=3 |samples|=1633 |sv|^2=5902842
+# [info] [22400] cols=332 (1083.9) reds=106971 |L|=8840 |Q|=0 |samples|=1740 |sv|^2=5902842
+# [info] [22600] cols=340 (1091.5) reds=109154 |L|=8904 |Q|=11 |samples|=1823 |sv|^2=5902842
+# [info] [22800] cols=349 (1095.6) reds=110602 |L|=8955 |Q|=1 |samples|=1873 |sv|^2=5902842
+# [info] [23000] cols=362 (1100.1) reds=112216 |L|=8991 |Q|=11 |samples|=1932 |sv|^2=5902842
+# [info] [23200] cols=370 (1104) reds=113569 |L|=9023 |Q|=16 |samples|=1977 |sv|^2=5902842
+# [info] [23400] cols=385 (1110.9) reds=115750 |L|=9101 |Q|=9 |samples|=2063 |sv|^2=5902842
+# [info] [23600] cols=397 (1118.7) reds=118140 |L|=9188 |Q|=0 |samples|=2153 |sv|^2=5902842
+# [info] [23800] cols=411 (1120.5) reds=119033 |L|=9184 |Q|=14 |samples|=2177 |sv|^2=5902842
+# [info] [24000] cols=421 (1121.9) reds=120128 |L|=9218 |Q|=1 |samples|=2208 |sv|^2=5902842
+# [info] [24200] cols=436 (1129.3) reds=122435 |L|=9293 |Q|=1 |samples|=2298 |sv|^2=5902842
+# [info] [24400] cols=455 (1135.3) reds=124455 |L|=9342 |Q|=11 |samples|=2376 |sv|^2=5902842
+# [info] [24600] cols=465 (1136.8) reds=125329 |L|=9360 |Q|=6 |samples|=2399 |sv|^2=5902842
+# [info] [24800] cols=475 (1139.8) reds=126645 |L|=9397 |Q|=1 |samples|=2441 |sv|^2=5902842
+# [info] [25000] cols=488 (1143.7) reds=128196 |L|=9432 |Q|=6 |samples|=2494 |sv|^2=5902842
+# [info] [25200] cols=505 (1148.4) reds=129948 |L|=9481 |Q|=4 |samples|=2558 |sv|^2=5902842
+# [info] [25400] cols=526 (1153.4) reds=131833 |L|=9525 |Q|=9 |samples|=2628 |sv|^2=5902842
+# [info] [25600] cols=546 (1153.7) reds=132630 |L|=9531 |Q|=1 |samples|=2646 |sv|^2=5902842
+# [info] [25800] cols=563 (1160.4) reds=135152 |L|=9605 |Q|=0 |samples|=2736 |sv|^2=5902842
+# [info] [26000] cols=585 (1164.5) reds=136901 |L|=9631 |Q|=13 |samples|=2797 |sv|^2=5902842
+# [info] [26200] cols=601 (1167.7) reds=138364 |L|=9677 |Q|=1 |samples|=2847 |sv|^2=5902842
+# [info] [26400] cols=626 (1175.3) reds=140863 |L|=9752 |Q|=2 |samples|=2948 |sv|^2=5902842
+# [info] [26600] cols=644 (1182) reds=143140 |L|=9821 |Q|=0 |samples|=3033 |sv|^2=5902842
+# [info] [26800] cols=657 (1183) reds=143824 |L|=9801 |Q|=18 |samples|=3044 |sv|^2=5902842
+# [info] [27000] cols=684 (1184) reds=145206 |L|=9834 |Q|=7 |samples|=3093 |sv|^2=5902842
+# [info] [27200] cols=710 (1190.4) reds=147530 |L|=9903 |Q|=2 |samples|=3183 |sv|^2=5902842
+# [info] [27400] cols=731 (1193.4) reds=149108 |L|=9934 |Q|=1 |samples|=3234 |sv|^2=5902842
+# [info] [27600] cols=750 (1202.2) reds=151740 |L|=10022 |Q|=1 |samples|=3341 |sv|^2=5902842
+# [info] [27800] cols=777 (1205.6) reds=153548 |L|=10055 |Q|=2 |samples|=3402 |sv|^2=5902842
+# [info] [28000] cols=804 (1206.7) reds=154497 |L|=10053 |Q|=1 |samples|=3426 |sv|^2=5902842
+# [info] [28200] cols=830 (1209.2) reds=156366 |L|=10093 |Q|=0 |samples|=3491 |sv|^2=5902842
+# [info] [28400] cols=860 (1215.4) reds=158855 |L|=10155 |Q|=0 |samples|=3583 |sv|^2=5902842
+# [info] [28600] cols=883 (1222.3) reds=161390 |L|=10223 |Q|=1 |samples|=3675 |sv|^2=5902842
+# [info] [28800] cols=910 (1225.6) reds=163128 |L|=10257 |Q|=0 |samples|=3735 |sv|^2=5902842
+# [info] [29000] cols=936 (1230.5) reds=165236 |L|=10304 |Q|=2 |samples|=3810 |sv|^2=5902842
+# [info] [29200] cols=963 (1235.5) reds=167349 |L|=10352 |Q|=4 |samples|=3887 |sv|^2=5902842
+# [info] [29400] cols=988 (1240.6) reds=169210 |L|=10400 |Q|=4 |samples|=3960 |sv|^2=5902842
+# [info] [29600] cols=1023 (1245.9) reds=171687 |L|=10452 |Q|=7 |samples|=4050 |sv|^2=5902842
+# [info] [29800] cols=1044 (1249.5) reds=173268 |L|=10495 |Q|=0 |samples|=4107 |sv|^2=5902842
+# [info] [30000] cols=1085 (1255.6) reds=175857 |L|=10556 |Q|=1 |samples|=4210 |sv|^2=5902842
+# [info] [30200] cols=1115 (1261.8) reds=178540 |L|=10619 |Q|=0 |samples|=4302 |sv|^2=5902842
+# [info] [30400] cols=1138 (1269.1) reds=181194 |L|=10692 |Q|=0 |samples|=4398 |sv|^2=5902842
+# [info] [30600] cols=1178 (1278.5) reds=184680 |L|=10786 |Q|=0 |samples|=4532 |sv|^2=5902842
+# [info] [30800] cols=1204 (1287.5) reds=187769 |L|=10875 |Q|=0 |samples|=4647 |sv|^2=5902842
+# [info] [31000] cols=1245 (1293.3) reds=190435 |L|=10934 |Q|=0 |samples|=4747 |sv|^2=5902842
+# [info] [31200] cols=1287 (1300) reds=193407 |L|=11000 |Q|=1 |samples|=4856 |sv|^2=5902842
+# [****] done!
+# [info] [31271] cols=1302 (1302) reds=194234 |L|=11020 |Q|=0 |samples|=4890
+# [info] max(|L|)=11020 log2(max|L|)/n=0.200415
+# [info] true max|L| = 8150
+# [info] true log2(max|L|)/n = 0.193919
+# [info] sv is
+# [info] |sv| = 2429.58 (5902842)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 37
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 2.01436e+07
+# [info] done initialization, size(List)=30
+# [info] done initialization, size(Queue)=7
+# [info] done initialization, mem_est=4269.94
+# [info] [200] cols=13 (216.2) reds=789 |L|=158 |Q|=5 |samples|=139 |sv|^2=12850590
+# [info] [400] cols=25 (224) reds=1557 |L|=241 |Q|=0 |samples|=229 |sv|^2=12472128
+# [info] [600] cols=34 (231.5) reds=2401 |L|=316 |Q|=0 |samples|=313 |sv|^2=12472128
+# [info] [800] cols=53 (237.1) reds=3299 |L|=372 |Q|=0 |samples|=388 |sv|^2=12472128
+# [info] [1000] cols=84 (243.8) reds=4383 |L|=438 |Q|=1 |samples|=486 |sv|^2=12071888
+# [info] [1200] cols=118 (249.8) reds=5578 |L|=499 |Q|=0 |samples|=580 |sv|^2=12071888
+# [info] [1400] cols=184 (255.9) reds=7089 |L|=558 |Q|=0 |samples|=705 |sv|^2=12071888
+# [****] done!
+# [info] [1579] cols=263 (262.2) reds=8731 |L|=622 |Q|=0 |samples|=848
+# [info] max(|L|)=622 log2(max|L|)/n=0.138519
+# [info] true max|L| = 377
+# [info] true log2(max|L|)/n = 0.127738
+# [info] sv is
+# [info] |sv| = 3474.46 (12071888)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 37
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 2.0397e+07
+# [info] done initialization, size(List)=32
+# [info] done initialization, size(Queue)=5
+# [info] done initialization, mem_est=4269.94
+# [info] [200] cols=21 (215.7) reds=844 |L|=157 |Q|=0 |samples|=141 |sv|^2=13380633
+# [info] [400] cols=43 (224.3) reds=1748 |L|=244 |Q|=0 |samples|=250 |sv|^2=13380633
+# [info] [600] cols=70 (230.8) reds=2640 |L|=309 |Q|=0 |samples|=342 |sv|^2=13380633
+# [info] [800] cols=105 (236.7) reds=3701 |L|=368 |Q|=0 |samples|=436 |sv|^2=13380633
+# [info] [1000] cols=154 (242.9) reds=4886 |L|=430 |Q|=0 |samples|=547 |sv|^2=13380633
+# [info] [1200] cols=235 (248.9) reds=6389 |L|=490 |Q|=0 |samples|=688 |sv|^2=13380633
+# [****] done!
+# [info] [1223] cols=250 (249.4) reds=6570 |L|=494 |Q|=0 |samples|=707
+# [info] max(|L|)=494 log2(max|L|)/n=0.133558
+# [info] true max|L| = 32
+# [info] true log2(max|L|)/n = 0.0746269
+# [info] sv is
+# [info] |sv| = 3657.95 (13380633)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 37
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 1.73798e+07
+# [info] done initialization, size(List)=30
+# [info] done initialization, size(Queue)=7
+# [info] done initialization, mem_est=4269.94
+# [info] [200] cols=48 (214.2) reds=827 |L|=141 |Q|=2 |samples|=154 |sv|^2=13380633
+# [info] [400] cols=114 (222.3) reds=1710 |L|=223 |Q|=1 |samples|=301 |sv|^2=13380633
+# [info] [600] cols=176 (227) reds=2610 |L|=271 |Q|=0 |samples|=410 |sv|^2=13380633
+# [****] done!
+# [info] [748] cols=232 (232) reds=3297 |L|=320 |Q|=0 |samples|=515
+# [info] max(|L|)=320 log2(max|L|)/n=0.124208
+# [info] true max|L| = 30
+# [info] true log2(max|L|)/n = 0.0732372
+# [info] sv is
+# [info] |sv| = 3657.95 (13380633)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 47
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 2.01436e+07
+# [info] done initialization, size(List)=34
+# [info] done initialization, size(Queue)=13
+# [info] done initialization, mem_est=4269.94
+ayamayaqhy   967    
+ # [info] [200] cols=35 (299.8) reds=3082 |L|=999 |Q|=280 |samples|=0 |sv|^2=11476082
+# [info] [400] cols=44 (301.2) reds=3489 |L|=1006 |Q|=264 |samples|=0 |sv|^2=11476082
+# [info] [600] cols=65 (304.7) reds=3871 |L|=1042 |Q|=207 |samples|=0 |sv|^2=11476082
+# [info] [800] cols=75 (310.7) reds=4209 |L|=1091 |Q|=148 |samples|=0 |sv|^2=10503388
+# [info] [1000] cols=79 (313.9) reds=4525 |L|=1139 |Q|=96 |samples|=0 |sv|^2=10503388
+# [info] [1200] cols=82 (319.7) reds=4797 |L|=1196 |Q|=36 |samples|=0 |sv|^2=10503388
+# [info] [1400] cols=84 (329.9) reds=6010 |L|=1293 |Q|=7 |samples|=70 |sv|^2=10503388
+# [info] [1600] cols=87 (339.9) reds=7742 |L|=1400 |Q|=0 |samples|=173 |sv|^2=10503388
+# [info] [1800] cols=90 (350.7) reds=9534 |L|=1495 |Q|=13 |samples|=284 |sv|^2=10503388
+# [info] [2000] cols=92 (355.7) reds=10581 |L|=1556 |Q|=2 |samples|=336 |sv|^2=10503388
+# [info] [2200] cols=96 (359.8) reds=11478 |L|=1593 |Q|=6 |samples|=381 |sv|^2=10503388
+# [info] [2400] cols=103 (367.8) reds=12934 |L|=1679 |Q|=0 |samples|=468 |sv|^2=10503388
+# [info] [2600] cols=109 (376.2) reds=14587 |L|=1763 |Q|=0 |samples|=558 |sv|^2=10503388
+# [info] [2800] cols=113 (380.2) reds=15505 |L|=1796 |Q|=6 |samples|=601 |sv|^2=10503388
+# [info] [3000] cols=121 (387.1) reds=17001 |L|=1872 |Q|=0 |samples|=679 |sv|^2=10503388
+# [info] [3200] cols=128 (392.7) reds=18247 |L|=1928 |Q|=0 |samples|=742 |sv|^2=10503388
+# [info] [3400] cols=136 (400.7) reds=19872 |L|=2007 |Q|=1 |samples|=830 |sv|^2=10503388
+# [info] [3600] cols=144 (404.4) reds=20897 |L|=2043 |Q|=2 |samples|=875 |sv|^2=10503388
+# [info] [3800] cols=159 (408.3) reds=22120 |L|=2077 |Q|=5 |samples|=927 |sv|^2=10503388
+# [info] [4000] cols=173 (413.7) reds=23462 |L|=2138 |Q|=0 |samples|=997 |sv|^2=10503388
+# [info] [4200] cols=195 (417.2) reds=24796 |L|=2171 |Q|=1 |samples|=1053 |sv|^2=10503388
+# [info] [4400] cols=219 (422.6) reds=26384 |L|=2227 |Q|=0 |samples|=1132 |sv|^2=10503388
+# [info] [4600] cols=240 (427.5) reds=27618 |L|=2254 |Q|=13 |samples|=1193 |sv|^2=10503388
+# [info] [4800] cols=271 (431.3) reds=29232 |L|=2313 |Q|=0 |samples|=1270 |sv|^2=10503388
+# [info] [5000] cols=301 (437.2) reds=31163 |L|=2370 |Q|=1 |samples|=1358 |sv|^2=10503388
+# [info] [5200] cols=336 (443.8) reds=33099 |L|=2439 |Q|=0 |samples|=1461 |sv|^2=10503388
+# [info] [5400] cols=380 (450.2) reds=35201 |L|=2503 |Q|=0 |samples|=1569 |sv|^2=10503388
+# [info] [5600] cols=429 (453.3) reds=36859 |L|=2524 |Q|=5 |samples|=1644 |sv|^2=10503388
+# [****] done!
+# [info] [5714] cols=457 (456.2) reds=38020 |L|=2562 |Q|=0 |samples|=1705
+# [info] max(|L|)=2562 log2(max|L|)/n=0.169001
+# [info] true max|L| = 1107
+# [info] true log2(max|L|)/n = 0.150932
+# [info] sv is
+# [info] |sv| = 3240.89 (10503388)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 37
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 2.0397e+07
+# [info] done initialization, size(List)=32
+# [info] done initialization, size(Queue)=5
+# [info] done initialization, mem_est=4269.94
+# [info] [200] cols=21 (215.7) reds=844 |L|=157 |Q|=0 |samples|=141 |sv|^2=13380633
+# [info] [400] cols=43 (224.3) reds=1748 |L|=244 |Q|=0 |samples|=250 |sv|^2=13380633
+# [info] [600] cols=70 (230.8) reds=2640 |L|=309 |Q|=0 |samples|=342 |sv|^2=13380633
+# [info] [800] cols=105 (236.7) reds=3701 |L|=368 |Q|=0 |samples|=436 |sv|^2=13380633
+# [info] [1000] cols=154 (242.9) reds=4886 |L|=430 |Q|=0 |samples|=547 |sv|^2=13380633
+# [info] [1200] cols=235 (248.9) reds=6389 |L|=490 |Q|=0 |samples|=688 |sv|^2=13380633
+# [****] done!
+# [info] [1223] cols=250 (249.4) reds=6570 |L|=494 |Q|=0 |samples|=707
+# [info] max(|L|)=494 log2(max|L|)/n=0.133558
+# [info] true max|L| = 32
+# [info] true log2(max|L|)/n = 0.0746269
+# [info] sv is
+# [info] |sv| = 3657.95 (13380633)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 37
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 1.94812e+07
+# [info] done initialization, size(List)=33
+# [info] done initialization, size(Queue)=4
+# [info] done initialization, mem_est=4269.94
+# [info] [200] cols=28 (216.1) reds=879 |L|=162 |Q|=0 |samples|=153 |sv|^2=13380633
+# [info] [400] cols=70 (226.2) reds=1963 |L|=258 |Q|=5 |samples|=296 |sv|^2=13380633
+# [info] [600] cols=114 (232.7) reds=2943 |L|=327 |Q|=1 |samples|=405 |sv|^2=13380633
+# [info] [800] cols=158 (238.5) reds=4010 |L|=385 |Q|=0 |samples|=506 |sv|^2=13380633
+# [info] [1000] cols=234 (244.6) reds=5293 |L|=444 |Q|=3 |samples|=644 |sv|^2=13380633
+# [****] done!
+# [info] [1047] cols=246 (245.7) reds=5514 |L|=453 |Q|=1 |samples|=663
+# [info] max(|L|)=457 log2(max|L|)/n=0.131881
+# [info] true max|L| = 33
+# [info] true log2(max|L|)/n = 0.0752895
+# [info] sv is
+# [info] |sv| = 3657.95 (13380633)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 37
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 2.07449e+07
+# [info] done initialization, size(List)=30
+# [info] done initialization, size(Queue)=7
+# [info] done initialization, mem_est=4269.94
+# [info] [200] cols=26 (214.8) reds=1120 |L|=148 |Q|=1 |samples|=138 |sv|^2=9790477
+# [info] [400] cols=63 (224.3) reds=2322 |L|=243 |Q|=0 |samples|=269 |sv|^2=9790477
+# [info] [600] cols=111 (229.4) reds=3506 |L|=290 |Q|=3 |samples|=367 |sv|^2=9790477
+# [info] [800] cols=199 (234) reds=4966 |L|=341 |Q|=0 |samples|=503 |sv|^2=9790477
+# [****] done!
+# [info] [878] cols=237 (236.7) reds=5603 |L|=367 |Q|=0 |samples|=567
+# [info] max(|L|)=367 log2(max|L|)/n=0.127159
+# [info] true max|L| = 30
+# [info] true log2(max|L|)/n = 0.0732372
+# [info] sv is
+# [info] |sv| = 3128.97 (9790477)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 47
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 2.0397e+07
+# [info] done initialization, size(List)=35
+# [info] done initialization, size(Queue)=12
+# [info] done initialization, mem_est=4269.94
+ayamayaqhy   826    
+ # [info] [200] cols=24 (283.8) reds=2065 |L|=832 |Q|=362 |samples|=0 |sv|^2=9790477
+# [info] [400] cols=39 (287.2) reds=2394 |L|=871 |Q|=308 |samples|=0 |sv|^2=9790477
+# [info] [600] cols=53 (292.5) reds=2763 |L|=926 |Q|=239 |samples|=0 |sv|^2=9790477
+# [info] [800] cols=57 (299.3) reds=3101 |L|=991 |Q|=170 |samples|=0 |sv|^2=9790477
+# [info] [1000] cols=63 (306.6) reds=3376 |L|=1066 |Q|=89 |samples|=0 |sv|^2=9790477
+# [info] [1200] cols=66 (311.9) reds=3680 |L|=1120 |Q|=32 |samples|=0 |sv|^2=9790477
+# [info] [1400] cols=70 (320.5) reds=4654 |L|=1204 |Q|=2 |samples|=58 |sv|^2=9790477
+# [info] [1600] cols=73 (330) reds=6146 |L|=1297 |Q|=4 |samples|=156 |sv|^2=9790477
+# [info] [1800] cols=74 (339.7) reds=7592 |L|=1398 |Q|=0 |samples|=254 |sv|^2=9790477
+# [info] [2000] cols=77 (346.4) reds=8849 |L|=1464 |Q|=1 |samples|=324 |sv|^2=9790477
+# [info] [2200] cols=78 (354.5) reds=10214 |L|=1544 |Q|=2 |samples|=406 |sv|^2=9790477
+# [info] [2400] cols=81 (361.8) reds=11468 |L|=1615 |Q|=4 |samples|=482 |sv|^2=9790477
+# [info] [2600] cols=87 (369.7) reds=13012 |L|=1697 |Q|=1 |samples|=567 |sv|^2=9790477
+# [info] [2800] cols=89 (374.5) reds=14069 |L|=1734 |Q|=12 |samples|=617 |sv|^2=9790477
+# [info] [3000] cols=93 (377.9) reds=14949 |L|=1768 |Q|=11 |samples|=654 |sv|^2=9790477
+# [info] [3200] cols=103 (382.8) reds=16124 |L|=1829 |Q|=0 |samples|=714 |sv|^2=9790477
+# [info] [3400] cols=115 (389.4) reds=17487 |L|=1875 |Q|=15 |samples|=787 |sv|^2=9790477
+# [info] [3600] cols=127 (391.8) reds=18363 |L|=1907 |Q|=5 |samples|=821 |sv|^2=9790477
+# [info] [3800] cols=148 (397.5) reds=19869 |L|=1971 |Q|=5 |samples|=906 |sv|^2=9790477
+# [info] [4000] cols=168 (399.4) reds=20788 |L|=1988 |Q|=5 |samples|=943 |sv|^2=9790477
+# [info] [4200] cols=187 (406) reds=22445 |L|=2061 |Q|=0 |samples|=1030 |sv|^2=9790477
+# [info] [4400] cols=220 (412.4) reds=24368 |L|=2113 |Q|=8 |samples|=1123 |sv|^2=9790477
+# [info] [4600] cols=257 (417.5) reds=26048 |L|=2175 |Q|=0 |samples|=1214 |sv|^2=9790477
+# [info] [4800] cols=283 (427.7) reds=28388 |L|=2277 |Q|=1 |samples|=1343 |sv|^2=9790477
+# [info] [5000] cols=320 (435) reds=30485 |L|=2351 |Q|=0 |samples|=1453 |sv|^2=9790477
+# [info] [5200] cols=365 (441.8) reds=32759 |L|=2418 |Q|=0 |samples|=1565 |sv|^2=9790477
+# [info] [5400] cols=414 (445.2) reds=34502 |L|=2450 |Q|=1 |samples|=1647 |sv|^2=9790477
+# [****] done!
+# [info] [5520] cols=449 (448.9) reds=35934 |L|=2488 |Q|=0 |samples|=1719
+# [info] max(|L|)=2489 log2(max|L|)/n=0.168378
+# [info] true max|L| = 826
+# [info] true log2(max|L|)/n = 0.144627
+# [info] sv is
+# [info] |sv| = 3128.97 (9790477)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 37
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 1.73798e+07
+# [info] done initialization, size(List)=30
+# [info] done initialization, size(Queue)=7
+# [info] done initialization, mem_est=4269.94
+# [info] [200] cols=48 (214.2) reds=827 |L|=141 |Q|=2 |samples|=154 |sv|^2=13380633
+# [info] [400] cols=114 (222.3) reds=1710 |L|=223 |Q|=1 |samples|=301 |sv|^2=13380633
+# [info] [600] cols=176 (227) reds=2610 |L|=271 |Q|=0 |samples|=410 |sv|^2=13380633
+# [****] done!
+# [info] [748] cols=232 (232) reds=3297 |L|=320 |Q|=0 |samples|=515
+# [info] max(|L|)=320 log2(max|L|)/n=0.124208
+# [info] true max|L| = 30
+# [info] true log2(max|L|)/n = 0.0732372
+# [info] sv is
+# [info] |sv| = 3657.95 (13380633)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 37
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 2.07449e+07
+# [info] done initialization, size(List)=30
+# [info] done initialization, size(Queue)=7
+# [info] done initialization, mem_est=4269.94
+# [info] [200] cols=26 (214.8) reds=1120 |L|=148 |Q|=1 |samples|=138 |sv|^2=9790477
+# [info] [400] cols=63 (224.3) reds=2322 |L|=243 |Q|=0 |samples|=269 |sv|^2=9790477
+# [info] [600] cols=111 (229.4) reds=3506 |L|=290 |Q|=3 |samples|=367 |sv|^2=9790477
+# [info] [800] cols=199 (234) reds=4966 |L|=341 |Q|=0 |samples|=503 |sv|^2=9790477
+# [****] done!
+# [info] [878] cols=237 (236.7) reds=5603 |L|=367 |Q|=0 |samples|=567
+# [info] max(|L|)=367 log2(max|L|)/n=0.127159
+# [info] true max|L| = 30
+# [info] true log2(max|L|)/n = 0.0732372
+# [info] sv is
+# [info] |sv| = 3128.97 (9790477)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 37
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 2.0838e+07
+# [info] done initialization, size(List)=29
+# [info] done initialization, size(Queue)=8
+# [info] done initialization, mem_est=4269.94
+# [info] [200] cols=21 (214.8) reds=1054 |L|=149 |Q|=0 |samples|=133 |sv|^2=9790477
+# [info] [400] cols=61 (223.3) reds=2189 |L|=233 |Q|=0 |samples|=257 |sv|^2=9790477
+# [info] [600] cols=121 (231.7) reds=3655 |L|=314 |Q|=3 |samples|=401 |sv|^2=9790477
+# [info] [800] cols=214 (236.1) reds=5128 |L|=359 |Q|=2 |samples|=538 |sv|^2=9790477
+# [****] done!
+# [info] [840] cols=237 (236.2) reds=5416 |L|=362 |Q|=0 |samples|=562
+# [info] max(|L|)=362 log2(max|L|)/n=0.126863
+# [info] true max|L| = 29
+# [info] true log2(max|L|)/n = 0.0725072
+# [info] sv is
+# [info] |sv| = 3128.97 (9790477)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 47
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 1.73798e+07
+# [info] done initialization, size(List)=35
+# [info] done initialization, size(Queue)=12
+# [info] done initialization, mem_est=4269.94
+ayamayaqhy   666    
+ # [info] [200] cols=52 (269.3) reds=1677 |L|=679 |Q|=228 |samples|=0 |sv|^2=9790477
+# [info] [400] cols=66 (277.4) reds=1981 |L|=775 |Q|=118 |samples|=0 |sv|^2=9790477
+# [info] [600] cols=83 (286.8) reds=2295 |L|=866 |Q|=10 |samples|=0 |sv|^2=9790477
+# [info] [800] cols=100 (296.1) reds=3441 |L|=962 |Q|=0 |samples|=103 |sv|^2=9790477
+# [info] [1000] cols=115 (308.4) reds=4852 |L|=1076 |Q|=8 |samples|=240 |sv|^2=9790477
+# [info] [1200] cols=129 (316) reds=5935 |L|=1161 |Q|=0 |samples|=331 |sv|^2=9790477
+# [info] [1400] cols=149 (325.6) reds=7215 |L|=1257 |Q|=0 |samples|=447 |sv|^2=9790477
+# [info] [1600] cols=164 (333.9) reds=8438 |L|=1339 |Q|=1 |samples|=545 |sv|^2=9790477
+# [info] [1800] cols=188 (344.4) reds=9782 |L|=1444 |Q|=1 |samples|=674 |sv|^2=9790477
+# [info] [2000] cols=198 (349.8) reds=10755 |L|=1495 |Q|=4 |samples|=738 |sv|^2=9790477
+# [info] [2200] cols=209 (353.9) reds=11621 |L|=1536 |Q|=4 |samples|=790 |sv|^2=9790477
+# [info] [2400] cols=226 (362.6) reds=12946 |L|=1621 |Q|=6 |samples|=894 |sv|^2=9790477
+# [info] [2600] cols=244 (368) reds=14053 |L|=1678 |Q|=2 |samples|=965 |sv|^2=9790477
+# [info] [2800] cols=267 (371.4) reds=14988 |L|=1708 |Q|=7 |samples|=1023 |sv|^2=9790477
+# [info] [3000] cols=286 (378.8) reds=16289 |L|=1787 |Q|=1 |samples|=1115 |sv|^2=9790477
+# [info] [3200] cols=315 (384.6) reds=17556 |L|=1847 |Q|=0 |samples|=1203 |sv|^2=9790477
+# [info] [3400] cols=342 (389.7) reds=18762 |L|=1893 |Q|=3 |samples|=1279 |sv|^2=9790477
+# [info] [3600] cols=373 (393.6) reds=19881 |L|=1936 |Q|=1 |samples|=1351 |sv|^2=9790477
+# [****] done!
+# [info] [3723] cols=397 (396.6) reds=20645 |L|=1966 |Q|=0 |samples|=1404
+# [info] max(|L|)=1966 log2(max|L|)/n=0.163299
+# [info] true max|L| = 666
+# [info] true log2(max|L|)/n = 0.139991
+# [info] sv is
+# [info] |sv| = 3128.97 (9790477)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 57
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 2.01436e+07
+# [info] done initialization, size(List)=38
+# [info] done initialization, size(Queue)=19
+# [info] done initialization, mem_est=4269.94
+ayamayaqhy   4708    
+ # [info] [200] cols=13 (671.9) reds=17286 |L|=4668 |Q|=2247 |samples|=0 |sv|^2=8054980
+# [info] [400] cols=23 (671.9) reds=17733 |L|=4600 |Q|=2305 |samples|=0 |sv|^2=8054980
+# [info] [600] cols=32 (671.9) reds=18210 |L|=4527 |Q|=2369 |samples|=0 |sv|^2=8054980
+# [info] [800] cols=47 (671.9) reds=18618 |L|=4510 |Q|=2371 |samples|=0 |sv|^2=8054980
+# [info] [1000] cols=60 (671.9) reds=19051 |L|=4514 |Q|=2354 |samples|=0 |sv|^2=8054980
+# [info] [1200] cols=66 (671.9) reds=19492 |L|=4524 |Q|=2338 |samples|=0 |sv|^2=8054980
+# [info] [1400] cols=75 (671.9) reds=19910 |L|=4525 |Q|=2328 |samples|=0 |sv|^2=8054980
+# [info] [1600] cols=83 (671.9) reds=20314 |L|=4547 |Q|=2298 |samples|=0 |sv|^2=8054980
+# [info] [1800] cols=84 (671.9) reds=20703 |L|=4608 |Q|=2236 |samples|=0 |sv|^2=8054980
+# [info] [2000] cols=84 (671.9) reds=21051 |L|=4664 |Q|=2180 |samples|=0 |sv|^2=8054980
+# [info] [2200] cols=87 (675.4) reds=21422 |L|=4753 |Q|=2088 |samples|=0 |sv|^2=8054980
+# [info] [2400] cols=90 (680.2) reds=21803 |L|=4802 |Q|=2036 |samples|=0 |sv|^2=8054980
+# [info] [2600] cols=93 (684.1) reds=22203 |L|=4835 |Q|=2000 |samples|=0 |sv|^2=8054980
+# [info] [2800] cols=100 (688.9) reds=22613 |L|=4867 |Q|=1961 |samples|=0 |sv|^2=8054980
+# [info] [3000] cols=105 (691.7) reds=22997 |L|=4917 |Q|=1906 |samples|=0 |sv|^2=8054980
+# [info] [3200] cols=111 (695.2) reds=23379 |L|=4952 |Q|=1865 |samples|=0 |sv|^2=8054980
+# [info] [3400] cols=115 (697.1) reds=23782 |L|=4967 |Q|=1846 |samples|=0 |sv|^2=8054980
+# [info] [3600] cols=119 (699.9) reds=24191 |L|=4999 |Q|=1810 |samples|=0 |sv|^2=8054980
+# [info] [3800] cols=121 (707.4) reds=24561 |L|=5074 |Q|=1733 |samples|=0 |sv|^2=8054980
+# [info] [4000] cols=122 (710.9) reds=24925 |L|=5110 |Q|=1696 |samples|=0 |sv|^2=8054980
+# [info] [4200] cols=123 (719.8) reds=25245 |L|=5196 |Q|=1609 |samples|=0 |sv|^2=8054980
+# [info] [4400] cols=126 (725) reds=25593 |L|=5251 |Q|=1551 |samples|=0 |sv|^2=8054980
+# [info] [4600] cols=131 (728.1) reds=25975 |L|=5274 |Q|=1523 |samples|=0 |sv|^2=8054980
+# [info] [4800] cols=133 (733.5) reds=26294 |L|=5334 |Q|=1461 |samples|=0 |sv|^2=8054980
+# [info] [5000] cols=141 (737.8) reds=26658 |L|=5378 |Q|=1409 |samples|=0 |sv|^2=8054980
+# [info] [5200] cols=149 (743.3) reds=27028 |L|=5434 |Q|=1345 |samples|=0 |sv|^2=8054980
+# [info] [5400] cols=158 (747.8) reds=27398 |L|=5465 |Q|=1305 |samples|=0 |sv|^2=8054980
+# [info] [5600] cols=161 (750.5) reds=27740 |L|=5506 |Q|=1261 |samples|=0 |sv|^2=8054980
+# [info] [5800] cols=161 (755.5) reds=28044 |L|=5552 |Q|=1215 |samples|=0 |sv|^2=8054980
+# [info] [6000] cols=163 (763) reds=28332 |L|=5631 |Q|=1134 |samples|=0 |sv|^2=8054980
+# [info] [6200] cols=165 (768.9) reds=28652 |L|=5682 |Q|=1081 |samples|=0 |sv|^2=8054980
+# [info] [6400] cols=167 (775.1) reds=28939 |L|=5752 |Q|=1009 |samples|=0 |sv|^2=8054980
+# [info] [6600] cols=167 (779.3) reds=29251 |L|=5791 |Q|=970 |samples|=0 |sv|^2=8054980
+# [info] [6800] cols=167 (782.6) reds=29530 |L|=5826 |Q|=935 |samples|=0 |sv|^2=8054980
+# [info] [7000] cols=168 (786.4) reds=29856 |L|=5865 |Q|=895 |samples|=0 |sv|^2=8054980
+# [info] [7200] cols=169 (788) reds=30183 |L|=5877 |Q|=882 |samples|=0 |sv|^2=8054980
+# [info] [7400] cols=169 (794.3) reds=30474 |L|=5944 |Q|=815 |samples|=0 |sv|^2=8054980
+# [info] [7600] cols=170 (798.6) reds=30770 |L|=5987 |Q|=771 |samples|=0 |sv|^2=8054980
+# [info] [7800] cols=170 (802.2) reds=31108 |L|=6014 |Q|=744 |samples|=0 |sv|^2=8054980
+# [info] [8000] cols=171 (809.3) reds=31423 |L|=6080 |Q|=677 |samples|=0 |sv|^2=8054980
+# [info] [8200] cols=171 (812.1) reds=31710 |L|=6112 |Q|=645 |samples|=0 |sv|^2=8054980
+# [info] [8400] cols=173 (815.8) reds=31978 |L|=6156 |Q|=599 |samples|=0 |sv|^2=8054980
+# [info] [8600] cols=174 (818.6) reds=32303 |L|=6186 |Q|=568 |samples|=0 |sv|^2=8054980
+# [info] [8800] cols=176 (821.7) reds=32619 |L|=6215 |Q|=537 |samples|=0 |sv|^2=8054980
+# [info] [9000] cols=176 (828.7) reds=32904 |L|=6280 |Q|=472 |samples|=0 |sv|^2=8054980
+# [info] [9200] cols=176 (833.9) reds=33163 |L|=6339 |Q|=413 |samples|=0 |sv|^2=8054980
+# [info] [9400] cols=177 (842.3) reds=33417 |L|=6424 |Q|=327 |samples|=0 |sv|^2=8054980
+# [info] [9600] cols=178 (848.7) reds=33684 |L|=6488 |Q|=262 |samples|=0 |sv|^2=8054980
+# [info] [9800] cols=178 (852) reds=34038 |L|=6515 |Q|=235 |samples|=0 |sv|^2=8054980
+# [info] [10000] cols=179 (856.9) reds=34307 |L|=6570 |Q|=179 |samples|=0 |sv|^2=8054980
+# [info] [10200] cols=179 (860) reds=34624 |L|=6599 |Q|=150 |samples|=0 |sv|^2=8054980
+# [info] [10400] cols=179 (866) reds=34895 |L|=6656 |Q|=93 |samples|=0 |sv|^2=8054980
+# [info] [10600] cols=180 (869.2) reds=35202 |L|=6690 |Q|=58 |samples|=0 |sv|^2=8054980
+# [info] [10800] cols=182 (874.2) reds=35486 |L|=6742 |Q|=4 |samples|=0 |sv|^2=8054980
+# [info] [11000] cols=183 (882.7) reds=37648 |L|=6822 |Q|=6 |samples|=83 |sv|^2=8054980
+# [info] [11200] cols=184 (890.1) reds=39636 |L|=6899 |Q|=3 |samples|=158 |sv|^2=8054980
+# [info] [11400] cols=185 (896.8) reds=41514 |L|=6962 |Q|=7 |samples|=226 |sv|^2=8054980
+# [info] [11600] cols=186 (906.3) reds=43917 |L|=7064 |Q|=0 |samples|=322 |sv|^2=8054980
+# [info] [11800] cols=189 (912.9) reds=45860 |L|=7130 |Q|=0 |samples|=391 |sv|^2=8054980
+# [info] [12000] cols=192 (922.2) reds=48315 |L|=7223 |Q|=0 |samples|=487 |sv|^2=8054980
+# [info] [12200] cols=194 (926) reds=49615 |L|=7245 |Q|=15 |samples|=526 |sv|^2=8054980
+# [info] [12400] cols=196 (931.1) reds=51099 |L|=7306 |Q|=6 |samples|=580 |sv|^2=8054980
+# [info] [12600] cols=196 (938.7) reds=53047 |L|=7384 |Q|=4 |samples|=656 |sv|^2=8054980
+# [info] [12800] cols=196 (943.4) reds=54394 |L|=7434 |Q|=1 |samples|=703 |sv|^2=8054980
+# [info] [13000] cols=196 (951.2) reds=56566 |L|=7494 |Q|=19 |samples|=781 |sv|^2=8054980
+# [info] [13200] cols=198 (958.4) reds=58528 |L|=7583 |Q|=1 |samples|=854 |sv|^2=8054980
+# [info] [13400] cols=200 (964.2) reds=60301 |L|=7634 |Q|=9 |samples|=915 |sv|^2=8054980
+# [info] [13600] cols=201 (967.2) reds=61413 |L|=7666 |Q|=7 |samples|=946 |sv|^2=8054980
+# [info] [13800] cols=201 (974.1) reds=63353 |L|=7742 |Q|=0 |samples|=1015 |sv|^2=8054980
+# [info] [14000] cols=202 (979.4) reds=64872 |L|=7795 |Q|=0 |samples|=1069 |sv|^2=8054980
+# [info] [14200] cols=203 (985.9) reds=66813 |L|=7843 |Q|=17 |samples|=1135 |sv|^2=7707568
+# [info] [14400] cols=204 (989.5) reds=67957 |L|=7874 |Q|=22 |samples|=1172 |sv|^2=7707568
+# [info] [14600] cols=206 (989.5) reds=68306 |L|=7865 |Q|=29 |samples|=1172 |sv|^2=7707568
+# [info] [14800] cols=210 (989.7) reds=68802 |L|=7897 |Q|=1 |samples|=1180 |sv|^2=7707568
+# [info] [15000] cols=212 (998.2) reds=71184 |L|=7983 |Q|=0 |samples|=1267 |sv|^2=7707568
+# [info] [15200] cols=213 (1002.4) reds=72513 |L|=8022 |Q|=3 |samples|=1310 |sv|^2=7707568
+# [info] [15400] cols=218 (1004.3) reds=73384 |L|=8044 |Q|=0 |samples|=1334 |sv|^2=7707568
+# [info] [15600] cols=221 (1010.9) reds=75344 |L|=8099 |Q|=11 |samples|=1403 |sv|^2=7707568
+# [info] [15800] cols=223 (1010.9) reds=75671 |L|=8101 |Q|=7 |samples|=1403 |sv|^2=7707568
+# [info] [16000] cols=227 (1014.1) reds=76958 |L|=8141 |Q|=1 |samples|=1441 |sv|^2=7707568
+# [info] [16200] cols=233 (1014.9) reds=77628 |L|=8112 |Q|=35 |samples|=1452 |sv|^2=7707568
+# [info] [16400] cols=234 (1014.9) reds=77924 |L|=8133 |Q|=13 |samples|=1452 |sv|^2=7707568
+# [info] [16600] cols=237 (1018) reds=79181 |L|=8181 |Q|=0 |samples|=1490 |sv|^2=7707568
+# [info] [16800] cols=239 (1022.4) reds=80546 |L|=8194 |Q|=29 |samples|=1534 |sv|^2=7707568
+# [info] [17000] cols=243 (1022.4) reds=80860 |L|=8198 |Q|=21 |samples|=1534 |sv|^2=7707568
+# [info] [17200] cols=245 (1022.4) reds=81226 |L|=8178 |Q|=39 |samples|=1534 |sv|^2=7707568
+# [info] [17400] cols=248 (1022.4) reds=81554 |L|=8195 |Q|=19 |samples|=1534 |sv|^2=7707568
+# [info] [17600] cols=253 (1025) reds=82913 |L|=8248 |Q|=3 |samples|=1576 |sv|^2=7707568
+# [info] [17800] cols=256 (1028.3) reds=84130 |L|=8264 |Q|=18 |samples|=1610 |sv|^2=7707568
+# [info] [18000] cols=261 (1031.1) reds=85237 |L|=8312 |Q|=0 |samples|=1645 |sv|^2=7707568
+# [info] [18200] cols=268 (1038.9) reds=87647 |L|=8389 |Q|=1 |samples|=1730 |sv|^2=7707568
+# [info] [18400] cols=271 (1044.6) reds=89411 |L|=8447 |Q|=0 |samples|=1790 |sv|^2=7707568
+# [info] [18600] cols=281 (1049) reds=91094 |L|=8490 |Q|=1 |samples|=1844 |sv|^2=7707568
+# [info] [18800] cols=284 (1052.5) reds=92351 |L|=8525 |Q|=1 |samples|=1882 |sv|^2=7707568
+# [info] [19000] cols=291 (1055.6) reds=93643 |L|=8556 |Q|=1 |samples|=1920 |sv|^2=7707568
+# [info] [19200] cols=298 (1058.1) reds=94698 |L|=8565 |Q|=13 |samples|=1948 |sv|^2=7707568
+# [info] [19400] cols=299 (1058.1) reds=95038 |L|=8555 |Q|=22 |samples|=1948 |sv|^2=7707568
+# [info] [19600] cols=306 (1058.1) reds=95402 |L|=8545 |Q|=25 |samples|=1948 |sv|^2=7707568
+# [info] [19800] cols=312 (1058.1) reds=96172 |L|=8581 |Q|=0 |samples|=1965 |sv|^2=7707568
+# [info] [20000] cols=318 (1061.7) reds=97645 |L|=8604 |Q|=13 |samples|=2007 |sv|^2=7707568
+# [info] [20200] cols=325 (1063.8) reds=98693 |L|=8634 |Q|=5 |samples|=2036 |sv|^2=7707568
+# [info] [20400] cols=334 (1068.6) reds=100297 |L|=8683 |Q|=1 |samples|=2090 |sv|^2=7707568
+# [info] [20600] cols=345 (1074.5) reds=102523 |L|=8746 |Q|=0 |samples|=2163 |sv|^2=7707568
+# [info] [20800] cols=353 (1077.1) reds=103675 |L|=8771 |Q|=1 |samples|=2197 |sv|^2=7707568
+# [info] [21000] cols=365 (1079.3) reds=104698 |L|=8787 |Q|=4 |samples|=2228 |sv|^2=7707568
+# [info] [21200] cols=376 (1079.3) reds=105043 |L|=8770 |Q|=10 |samples|=2228 |sv|^2=7707568
+# [info] [21400] cols=388 (1084.7) reds=107353 |L|=8839 |Q|=8 |samples|=2307 |sv|^2=7707568
+# [info] [21600] cols=395 (1087.8) reds=108638 |L|=8870 |Q|=9 |samples|=2346 |sv|^2=7707568
+# [info] [21800] cols=406 (1092.5) reds=110387 |L|=8926 |Q|=0 |samples|=2404 |sv|^2=7707568
+# [info] [22000] cols=412 (1095.3) reds=111521 |L|=8948 |Q|=3 |samples|=2435 |sv|^2=7707568
+# [info] [22200] cols=423 (1098.3) reds=112909 |L|=8984 |Q|=0 |samples|=2479 |sv|^2=7707568
+# [info] [22400] cols=434 (1104.9) reds=115153 |L|=9050 |Q|=0 |samples|=2556 |sv|^2=7707568
+# [info] [22600] cols=448 (1108.7) reds=116807 |L|=9088 |Q|=0 |samples|=2608 |sv|^2=7707568
+# [info] [22800] cols=460 (1112.3) reds=118282 |L|=9121 |Q|=1 |samples|=2654 |sv|^2=7707568
+# [info] [23000] cols=476 (1115.4) reds=119868 |L|=9153 |Q|=2 |samples|=2703 |sv|^2=7707568
+# [info] [23200] cols=492 (1121.8) reds=122186 |L|=9211 |Q|=8 |samples|=2783 |sv|^2=7707568
+# [info] [23400] cols=508 (1129) reds=124587 |L|=9291 |Q|=0 |samples|=2871 |sv|^2=7707568
+# [info] [23600] cols=524 (1132.7) reds=126148 |L|=9314 |Q|=10 |samples|=2920 |sv|^2=7707568
+# [info] [23800] cols=546 (1135.8) reds=127918 |L|=9359 |Q|=0 |samples|=2977 |sv|^2=7707568
+# [info] [24000] cols=569 (1141.1) reds=130196 |L|=9410 |Q|=2 |samples|=3053 |sv|^2=7707568
+# [info] [24200] cols=589 (1146.8) reds=132416 |L|=9462 |Q|=4 |samples|=3127 |sv|^2=7707568
+# [info] [24400] cols=615 (1154) reds=135332 |L|=9537 |Q|=1 |samples|=3225 |sv|^2=7707568
+# [info] [24600] cols=637 (1162.5) reds=138228 |L|=9626 |Q|=0 |samples|=3335 |sv|^2=7707568
+# [info] [24800] cols=655 (1171.6) reds=141264 |L|=9717 |Q|=0 |samples|=3444 |sv|^2=7707568
+# [info] [25000] cols=683 (1179.2) reds=144150 |L|=9789 |Q|=3 |samples|=3547 |sv|^2=7707568
+# [info] [25200] cols=704 (1184.9) reds=146435 |L|=9849 |Q|=1 |samples|=3626 |sv|^2=7707568
+# [info] [25400] cols=719 (1191.9) reds=148808 |L|=9919 |Q|=1 |samples|=3711 |sv|^2=7707568
+# [info] [25600] cols=748 (1199.2) reds=151686 |L|=9993 |Q|=0 |samples|=3813 |sv|^2=7707568
+# [info] [25800] cols=779 (1203.7) reds=154019 |L|=10038 |Q|=0 |samples|=3889 |sv|^2=7707568
+# [info] [26000] cols=806 (1209.2) reds=156503 |L|=10091 |Q|=2 |samples|=3971 |sv|^2=7707568
+# [info] [26200] cols=833 (1218.3) reds=159879 |L|=10181 |Q|=3 |samples|=4089 |sv|^2=7707568
+# [info] [26400] cols=863 (1224) reds=162417 |L|=10239 |Q|=1 |samples|=4175 |sv|^2=7707568
+# [info] [26600] cols=885 (1229.1) reds=164689 |L|=10292 |Q|=0 |samples|=4249 |sv|^2=7707568
+# [info] [26800] cols=919 (1233.7) reds=167062 |L|=10334 |Q|=3 |samples|=4328 |sv|^2=7707568
+# [info] [27000] cols=944 (1238.6) reds=169257 |L|=10387 |Q|=0 |samples|=4403 |sv|^2=7707568
+# [info] [27200] cols=981 (1246.9) reds=172600 |L|=10469 |Q|=1 |samples|=4523 |sv|^2=7707568
+# [info] [27400] cols=1010 (1252.7) reds=175135 |L|=10528 |Q|=0 |samples|=4610 |sv|^2=7707568
+# [info] [27600] cols=1047 (1261.1) reds=178568 |L|=10612 |Q|=0 |samples|=4731 |sv|^2=7707568
+# [info] [27800] cols=1082 (1269.1) reds=181778 |L|=10692 |Q|=0 |samples|=4846 |sv|^2=7707568
+# [info] [28000] cols=1118 (1275.4) reds=184760 |L|=10753 |Q|=1 |samples|=4944 |sv|^2=7707568
+# [info] [28200] cols=1150 (1283.3) reds=188198 |L|=10834 |Q|=0 |samples|=5056 |sv|^2=7707568
+# [info] [28400] cols=1175 (1290.8) reds=191039 |L|=10906 |Q|=3 |samples|=5156 |sv|^2=7707568
+# [info] [28600] cols=1209 (1296.6) reds=193612 |L|=10960 |Q|=2 |samples|=5243 |sv|^2=7707568
+# [info] [28800] cols=1249 (1302.6) reds=196496 |L|=11020 |Q|=1 |samples|=5342 |sv|^2=7707568
+# [info] [29000] cols=1287 (1308.8) reds=199594 |L|=11088 |Q|=1 |samples|=5448 |sv|^2=7707568
+# [****] done!
+# [info] [29132] cols=1314 (1314) reds=201767 |L|=11140 |Q|=0 |samples|=5526
+# [info] max(|L|)=11140 log2(max|L|)/n=0.200649
+# [info] true max|L| = 7859
+# [info] true log2(max|L|)/n = 0.193136
+# [info] sv is
+# [info] |sv| = 2776.25 (7707568)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 37
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 2.21746e+07
+# [info] done initialization, size(List)=32
+# [info] done initialization, size(Queue)=5
+# [info] done initialization, mem_est=4269.94
+# [info] [200] cols=9 (217.2) reds=1017 |L|=172 |Q|=1 |samples|=145 |sv|^2=13380633
+# [info] [400] cols=23 (226.4) reds=2070 |L|=265 |Q|=0 |samples|=251 |sv|^2=13380633
+# [info] [600] cols=50 (234.6) reds=3217 |L|=344 |Q|=1 |samples|=358 |sv|^2=13380633
+# [info] [800] cols=81 (241.1) reds=4382 |L|=412 |Q|=0 |samples|=456 |sv|^2=13380633
+# [info] [1000] cols=126 (248) reds=5782 |L|=480 |Q|=1 |samples|=570 |sv|^2=13380633
+# [info] [1200] cols=191 (252.3) reds=7222 |L|=523 |Q|=0 |samples|=677 |sv|^2=13380633
+# [****] done!
+# [info] [1342] cols=256 (255.6) reds=8504 |L|=556 |Q|=0 |samples|=775
+# [info] max(|L|)=556 log2(max|L|)/n=0.136104
+# [info] true max|L| = 32
+# [info] true log2(max|L|)/n = 0.0746269
+# [info] sv is
+# [info] |sv| = 3657.95 (13380633)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 37
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 1.73798e+07
+# [info] done initialization, size(List)=30
+# [info] done initialization, size(Queue)=7
+# [info] done initialization, mem_est=4269.94
+# [info] [200] cols=48 (214.2) reds=827 |L|=141 |Q|=2 |samples|=154 |sv|^2=13380633
+# [info] [400] cols=114 (222.3) reds=1710 |L|=223 |Q|=1 |samples|=301 |sv|^2=13380633
+# [info] [600] cols=176 (227) reds=2610 |L|=271 |Q|=0 |samples|=410 |sv|^2=13380633
+# [****] done!
+# [info] [748] cols=232 (232) reds=3297 |L|=320 |Q|=0 |samples|=515
+# [info] max(|L|)=320 log2(max|L|)/n=0.124208
+# [info] true max|L| = 30
+# [info] true log2(max|L|)/n = 0.0732372
+# [info] sv is
+# [info] |sv| = 3657.95 (13380633)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 37
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 1.9029e+07
+# [info] done initialization, size(List)=30
+# [info] done initialization, size(Queue)=7
+# [info] done initialization, mem_est=4269.94
+# [info] [200] cols=38 (215) reds=962 |L|=151 |Q|=0 |samples|=152 |sv|^2=9790477
+# [info] [400] cols=86 (224.1) reds=2052 |L|=242 |Q|=0 |samples|=291 |sv|^2=9790477
+# [info] [600] cols=150 (229.8) reds=3215 |L|=298 |Q|=0 |samples|=411 |sv|^2=9790477
+# [****] done!
+# [info] [785] cols=234 (233.2) reds=4402 |L|=330 |Q|=0 |samples|=527
+# [info] max(|L|)=332 log2(max|L|)/n=0.125001
+# [info] true max|L| = 30
+# [info] true log2(max|L|)/n = 0.0732372
+# [info] sv is
+# [info] |sv| = 3128.97 (9790477)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 47
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 2.21746e+07
+# [info] done initialization, size(List)=35
+# [info] done initialization, size(Queue)=12
+# [info] done initialization, mem_est=4269.94
+ayamayaqhy   811    
+ # [info] [200] cols=36 (283.4) reds=1758 |L|=822 |Q|=248 |samples|=0 |sv|^2=9790477
+# [info] [400] cols=49 (287.6) reds=2108 |L|=876 |Q|=181 |samples|=0 |sv|^2=9790477
+# [info] [600] cols=56 (293.6) reds=2418 |L|=937 |Q|=113 |samples|=0 |sv|^2=9790477
+# [info] [800] cols=62 (302.4) reds=2680 |L|=1024 |Q|=20 |samples|=0 |sv|^2=9790477
+# [info] [1000] cols=69 (310.6) reds=3884 |L|=1107 |Q|=0 |samples|=70 |sv|^2=9790477
+# [info] [1200] cols=74 (320.2) reds=5534 |L|=1203 |Q|=0 |samples|=171 |sv|^2=9790477
+# [info] [1400] cols=78 (332.3) reds=7539 |L|=1324 |Q|=0 |samples|=296 |sv|^2=9790477
+# [info] [1600] cols=83 (342.3) reds=9273 |L|=1422 |Q|=2 |samples|=401 |sv|^2=9790477
+# [info] [1800] cols=89 (349.9) reds=10714 |L|=1497 |Q|=3 |samples|=483 |sv|^2=9790477
+# [info] [2000] cols=96 (358.7) reds=12453 |L|=1587 |Q|=1 |samples|=578 |sv|^2=9790477
+# [info] [2200] cols=102 (363.6) reds=13586 |L|=1636 |Q|=1 |samples|=633 |sv|^2=9790477
+# [info] [2400] cols=108 (371.4) reds=15138 |L|=1713 |Q|=2 |samples|=717 |sv|^2=9790477
+# [info] [2600] cols=119 (374.4) reds=16104 |L|=1745 |Q|=0 |samples|=758 |sv|^2=9790477
+# [info] [2800] cols=132 (381.1) reds=17666 |L|=1804 |Q|=7 |samples|=837 |sv|^2=9790477
+# [info] [3000] cols=145 (384.2) reds=18637 |L|=1840 |Q|=1 |samples|=880 |sv|^2=9790477
+# [info] [3200] cols=162 (388.1) reds=19840 |L|=1869 |Q|=9 |samples|=934 |sv|^2=9790477
+# [info] [3400] cols=185 (393.7) reds=21543 |L|=1938 |Q|=0 |samples|=1017 |sv|^2=9790477
+# [info] [3600] cols=207 (395.7) reds=22603 |L|=1957 |Q|=1 |samples|=1059 |sv|^2=9790477
+# [info] [3800] cols=238 (402) reds=24404 |L|=2021 |Q|=0 |samples|=1153 |sv|^2=9790477
+# [info] [4000] cols=267 (409.4) reds=26444 |L|=2090 |Q|=5 |samples|=1256 |sv|^2=9790477
+# [info] [4200] cols=300 (413) reds=27948 |L|=2131 |Q|=0 |samples|=1325 |sv|^2=9790477
+# [info] [4400] cols=336 (421.4) reds=30291 |L|=2213 |Q|=1 |samples|=1444 |sv|^2=9790477
+# [info] [4600] cols=387 (429.6) reds=32822 |L|=2296 |Q|=0 |samples|=1577 |sv|^2=9790477
+# [info] [4800] cols=432 (436.4) reds=34984 |L|=2363 |Q|=0 |samples|=1689 |sv|^2=9790477
+# [****] done!
+# [info] [4817] cols=437 (436.6) reds=35161 |L|=2366 |Q|=0 |samples|=1697
+# [info] max(|L|)=2366 log2(max|L|)/n=0.167287
+# [info] true max|L| = 811
+# [info] true log2(max|L|)/n = 0.144232
+# [info] sv is
+# [info] |sv| = 3128.97 (9790477)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 37
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 1.73798e+07
+# [info] done initialization, size(List)=30
+# [info] done initialization, size(Queue)=7
+# [info] done initialization, mem_est=4269.94
+# [info] [200] cols=48 (214.2) reds=827 |L|=141 |Q|=2 |samples|=154 |sv|^2=13380633
+# [info] [400] cols=114 (222.3) reds=1710 |L|=223 |Q|=1 |samples|=301 |sv|^2=13380633
+# [info] [600] cols=176 (227) reds=2610 |L|=271 |Q|=0 |samples|=410 |sv|^2=13380633
+# [****] done!
+# [info] [748] cols=232 (232) reds=3297 |L|=320 |Q|=0 |samples|=515
+# [info] max(|L|)=320 log2(max|L|)/n=0.124208
+# [info] true max|L| = 30
+# [info] true log2(max|L|)/n = 0.0732372
+# [info] sv is
+# [info] |sv| = 3657.95 (13380633)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 37
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 2.07449e+07
+# [info] done initialization, size(List)=30
+# [info] done initialization, size(Queue)=7
+# [info] done initialization, mem_est=4269.94
+# [info] [200] cols=26 (214.8) reds=1120 |L|=148 |Q|=1 |samples|=138 |sv|^2=9790477
+# [info] [400] cols=63 (224.3) reds=2322 |L|=243 |Q|=0 |samples|=269 |sv|^2=9790477
+# [info] [600] cols=111 (229.4) reds=3506 |L|=290 |Q|=3 |samples|=367 |sv|^2=9790477
+# [info] [800] cols=199 (234) reds=4966 |L|=341 |Q|=0 |samples|=503 |sv|^2=9790477
+# [****] done!
+# [info] [878] cols=237 (236.7) reds=5603 |L|=367 |Q|=0 |samples|=567
+# [info] max(|L|)=367 log2(max|L|)/n=0.127159
+# [info] true max|L| = 30
+# [info] true log2(max|L|)/n = 0.0732372
+# [info] sv is
+# [info] |sv| = 3128.97 (9790477)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 37
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 2.0838e+07
+# [info] done initialization, size(List)=29
+# [info] done initialization, size(Queue)=8
+# [info] done initialization, mem_est=4269.94
+# [info] [200] cols=21 (214.8) reds=1054 |L|=149 |Q|=0 |samples|=133 |sv|^2=9790477
+# [info] [400] cols=61 (223.3) reds=2189 |L|=233 |Q|=0 |samples|=257 |sv|^2=9790477
+# [info] [600] cols=121 (231.7) reds=3655 |L|=314 |Q|=3 |samples|=401 |sv|^2=9790477
+# [info] [800] cols=214 (236.1) reds=5128 |L|=359 |Q|=2 |samples|=538 |sv|^2=9790477
+# [****] done!
+# [info] [840] cols=237 (236.2) reds=5416 |L|=362 |Q|=0 |samples|=562
+# [info] max(|L|)=362 log2(max|L|)/n=0.126863
+# [info] true max|L| = 29
+# [info] true log2(max|L|)/n = 0.0725072
+# [info] sv is
+# [info] |sv| = 3128.97 (9790477)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 47
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 1.73798e+07
+# [info] done initialization, size(List)=35
+# [info] done initialization, size(Queue)=12
+# [info] done initialization, mem_est=4269.94
+ayamayaqhy   666    
+ # [info] [200] cols=52 (269.3) reds=1677 |L|=679 |Q|=228 |samples|=0 |sv|^2=9790477
+# [info] [400] cols=66 (277.4) reds=1981 |L|=775 |Q|=118 |samples|=0 |sv|^2=9790477
+# [info] [600] cols=83 (286.8) reds=2295 |L|=866 |Q|=10 |samples|=0 |sv|^2=9790477
+# [info] [800] cols=100 (296.1) reds=3441 |L|=962 |Q|=0 |samples|=103 |sv|^2=9790477
+# [info] [1000] cols=115 (308.4) reds=4852 |L|=1076 |Q|=8 |samples|=240 |sv|^2=9790477
+# [info] [1200] cols=129 (316) reds=5935 |L|=1161 |Q|=0 |samples|=331 |sv|^2=9790477
+# [info] [1400] cols=149 (325.6) reds=7215 |L|=1257 |Q|=0 |samples|=447 |sv|^2=9790477
+# [info] [1600] cols=164 (333.9) reds=8438 |L|=1339 |Q|=1 |samples|=545 |sv|^2=9790477
+# [info] [1800] cols=188 (344.4) reds=9782 |L|=1444 |Q|=1 |samples|=674 |sv|^2=9790477
+# [info] [2000] cols=198 (349.8) reds=10755 |L|=1495 |Q|=4 |samples|=738 |sv|^2=9790477
+# [info] [2200] cols=209 (353.9) reds=11621 |L|=1536 |Q|=4 |samples|=790 |sv|^2=9790477
+# [info] [2400] cols=226 (362.6) reds=12946 |L|=1621 |Q|=6 |samples|=894 |sv|^2=9790477
+# [info] [2600] cols=244 (368) reds=14053 |L|=1678 |Q|=2 |samples|=965 |sv|^2=9790477
+# [info] [2800] cols=267 (371.4) reds=14988 |L|=1708 |Q|=7 |samples|=1023 |sv|^2=9790477
+# [info] [3000] cols=286 (378.8) reds=16289 |L|=1787 |Q|=1 |samples|=1115 |sv|^2=9790477
+# [info] [3200] cols=315 (384.6) reds=17556 |L|=1847 |Q|=0 |samples|=1203 |sv|^2=9790477
+# [info] [3400] cols=342 (389.7) reds=18762 |L|=1893 |Q|=3 |samples|=1279 |sv|^2=9790477
+# [info] [3600] cols=373 (393.6) reds=19881 |L|=1936 |Q|=1 |samples|=1351 |sv|^2=9790477
+# [****] done!
+# [info] [3723] cols=397 (396.6) reds=20645 |L|=1966 |Q|=0 |samples|=1404
+# [info] max(|L|)=1966 log2(max|L|)/n=0.163299
+# [info] true max|L| = 666
+# [info] true log2(max|L|)/n = 0.139991
+# [info] sv is
+# [info] |sv| = 3128.97 (9790477)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 37
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 1.9029e+07
+# [info] done initialization, size(List)=30
+# [info] done initialization, size(Queue)=7
+# [info] done initialization, mem_est=4269.94
+# [info] [200] cols=38 (215) reds=962 |L|=151 |Q|=0 |samples|=152 |sv|^2=9790477
+# [info] [400] cols=86 (224.1) reds=2052 |L|=242 |Q|=0 |samples|=291 |sv|^2=9790477
+# [info] [600] cols=150 (229.8) reds=3215 |L|=298 |Q|=0 |samples|=411 |sv|^2=9790477
+# [****] done!
+# [info] [785] cols=234 (233.2) reds=4402 |L|=330 |Q|=0 |samples|=527
+# [info] max(|L|)=332 log2(max|L|)/n=0.125001
+# [info] true max|L| = 30
+# [info] true log2(max|L|)/n = 0.0732372
+# [info] sv is
+# [info] |sv| = 3128.97 (9790477)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 37
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 2.0838e+07
+# [info] done initialization, size(List)=29
+# [info] done initialization, size(Queue)=8
+# [info] done initialization, mem_est=4269.94
+# [info] [200] cols=21 (214.8) reds=1054 |L|=149 |Q|=0 |samples|=133 |sv|^2=9790477
+# [info] [400] cols=61 (223.3) reds=2189 |L|=233 |Q|=0 |samples|=257 |sv|^2=9790477
+# [info] [600] cols=121 (231.7) reds=3655 |L|=314 |Q|=3 |samples|=401 |sv|^2=9790477
+# [info] [800] cols=214 (236.1) reds=5128 |L|=359 |Q|=2 |samples|=538 |sv|^2=9790477
+# [****] done!
+# [info] [840] cols=237 (236.2) reds=5416 |L|=362 |Q|=0 |samples|=562
+# [info] max(|L|)=362 log2(max|L|)/n=0.126863
+# [info] true max|L| = 29
+# [info] true log2(max|L|)/n = 0.0725072
+# [info] sv is
+# [info] |sv| = 3128.97 (9790477)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 37
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 2.10811e+07
+# [info] done initialization, size(List)=29
+# [info] done initialization, size(Queue)=8
+# [info] done initialization, mem_est=4269.94
+# [info] [200] cols=27 (215) reds=1088 |L|=151 |Q|=0 |samples|=141 |sv|^2=9790477
+# [info] [400] cols=71 (222.9) reds=2331 |L|=230 |Q|=0 |samples|=264 |sv|^2=9790477
+# [info] [600] cols=135 (228.5) reds=3641 |L|=284 |Q|=2 |samples|=384 |sv|^2=9790477
+# [info] [800] cols=220 (235) reds=5189 |L|=350 |Q|=0 |samples|=533 |sv|^2=9790477
+# [****] done!
+# [info] [837] cols=237 (236.1) reds=5500 |L|=361 |Q|=0 |samples|=561
+# [info] max(|L|)=361 log2(max|L|)/n=0.126804
+# [info] true max|L| = 29
+# [info] true log2(max|L|)/n = 0.0725072
+# [info] sv is
+# [info] |sv| = 3128.97 (9790477)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 47
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 1.9029e+07
+# [info] done initialization, size(List)=36
+# [info] done initialization, size(Queue)=11
+# [info] done initialization, mem_est=4269.94
+ayamayaqhy   658    
+ # [info] [200] cols=61 (271.9) reds=1780 |L|=720 |Q|=142 |samples|=0 |sv|^2=9790477
+# [info] [400] cols=77 (282.4) reds=2081 |L|=825 |Q|=21 |samples|=0 |sv|^2=9790477
+# [info] [600] cols=98 (293.1) reds=3309 |L|=930 |Q|=2 |samples|=107 |sv|^2=9790477
+# [info] [800] cols=119 (301.1) reds=4604 |L|=1012 |Q|=0 |samples|=208 |sv|^2=9790477
+# [info] [1000] cols=138 (313.2) reds=6434 |L|=1132 |Q|=1 |samples|=348 |sv|^2=9790477
+# [info] [1200] cols=162 (322.9) reds=7927 |L|=1227 |Q|=2 |samples|=468 |sv|^2=9790477
+# [info] [1400] cols=181 (332.2) reds=9350 |L|=1317 |Q|=4 |samples|=579 |sv|^2=9790477
+# [info] [1600] cols=206 (340.3) reds=10811 |L|=1404 |Q|=0 |samples|=687 |sv|^2=9790477
+# [info] [1800] cols=224 (349.7) reds=12372 |L|=1498 |Q|=0 |samples|=799 |sv|^2=9790477
+# [info] [2000] cols=248 (357.3) reds=13813 |L|=1574 |Q|=0 |samples|=899 |sv|^2=9790477
+# [info] [2200] cols=272 (363.9) reds=15186 |L|=1638 |Q|=2 |samples|=989 |sv|^2=9790477
+# [info] [2400] cols=299 (368.8) reds=16451 |L|=1687 |Q|=2 |samples|=1065 |sv|^2=9790477
+# [info] [2600] cols=320 (377.3) reds=17981 |L|=1751 |Q|=19 |samples|=1167 |sv|^2=9790477
+# [info] [2800] cols=351 (380.5) reds=19118 |L|=1806 |Q|=0 |samples|=1234 |sv|^2=9790477
+# [info] [3000] cols=377 (388) reds=20723 |L|=1879 |Q|=1 |samples|=1334 |sv|^2=9790477
+# [****] done!
+# [info] [3085] cols=391 (390.9) reds=21389 |L|=1909 |Q|=0 |samples|=1377
+# [info] max(|L|)=1909 log2(max|L|)/n=0.162666
+# [info] true max|L| = 658
+# [info] true log2(max|L|)/n = 0.139731
+# [info] sv is
+# [info] |sv| = 3128.97 (9790477)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 57
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 2.21746e+07
+# [info] done initialization, size(List)=39
+# [info] done initialization, size(Queue)=18
+# [info] done initialization, mem_est=4269.94
+ayamayaqhy   4190    
+ # [info] [200] cols=23 (619.4) reds=11306 |L|=4180 |Q|=1845 |samples|=0 |sv|^2=9790477
+# [info] [400] cols=35 (620.2) reds=11736 |L|=4182 |Q|=1831 |samples|=0 |sv|^2=9790477
+# [info] [600] cols=54 (620.2) reds=12165 |L|=4146 |Q|=1848 |samples|=0 |sv|^2=9790477
+# [info] [800] cols=68 (620.2) reds=12578 |L|=4160 |Q|=1820 |samples|=0 |sv|^2=9790477
+# [info] [1000] cols=78 (620.3) reds=12932 |L|=4204 |Q|=1766 |samples|=0 |sv|^2=9790477
+# [info] [1200] cols=95 (622.5) reds=13327 |L|=4214 |Q|=1739 |samples|=0 |sv|^2=9790477
+# [info] [1400] cols=99 (627.2) reds=13661 |L|=4273 |Q|=1676 |samples|=0 |sv|^2=9790477
+# [info] [1600] cols=100 (635) reds=13981 |L|=4348 |Q|=1600 |samples|=0 |sv|^2=9790477
+# [info] [1800] cols=102 (645) reds=14284 |L|=4451 |Q|=1495 |samples|=0 |sv|^2=9790477
+# [info] [2000] cols=104 (653.3) reds=14602 |L|=4530 |Q|=1414 |samples|=0 |sv|^2=9790477
+# [info] [2200] cols=114 (658.6) reds=14953 |L|=4587 |Q|=1347 |samples|=0 |sv|^2=9790477
+# [info] [2400] cols=121 (664.2) reds=15315 |L|=4635 |Q|=1292 |samples|=0 |sv|^2=9790477
+# [info] [2600] cols=129 (665.3) reds=15715 |L|=4643 |Q|=1276 |samples|=0 |sv|^2=9790477
+# [info] [2800] cols=137 (670.2) reds=16066 |L|=4700 |Q|=1211 |samples|=0 |sv|^2=9790477
+# [info] [3000] cols=138 (674.6) reds=16412 |L|=4746 |Q|=1164 |samples|=0 |sv|^2=9790477
+# [info] [3200] cols=140 (679.2) reds=16731 |L|=4793 |Q|=1115 |samples|=0 |sv|^2=9790477
+# [info] [3400] cols=143 (685.1) reds=17066 |L|=4852 |Q|=1053 |samples|=0 |sv|^2=9790477
+# [info] [3600] cols=148 (691.6) reds=17365 |L|=4917 |Q|=983 |samples|=0 |sv|^2=9790477
+# [info] [3800] cols=155 (695.8) reds=17727 |L|=4958 |Q|=935 |samples|=0 |sv|^2=9790477
+# [info] [4000] cols=159 (701.3) reds=18051 |L|=5008 |Q|=881 |samples|=0 |sv|^2=9790477
+# [info] [4200] cols=162 (704.9) reds=18380 |L|=5050 |Q|=836 |samples|=0 |sv|^2=9790477
+# [info] [4400] cols=164 (710.8) reds=18684 |L|=5107 |Q|=777 |samples|=0 |sv|^2=9790477
+# [info] [4600] cols=168 (715) reds=18992 |L|=5151 |Q|=729 |samples|=0 |sv|^2=9790477
+# [info] [4800] cols=173 (719.3) reds=19337 |L|=5189 |Q|=686 |samples|=0 |sv|^2=9790477
+# [info] [5000] cols=179 (723.2) reds=19693 |L|=5220 |Q|=649 |samples|=0 |sv|^2=9790477
+# [info] [5200] cols=179 (726.1) reds=19984 |L|=5261 |Q|=608 |samples|=0 |sv|^2=9790477
+# [info] [5400] cols=179 (731.1) reds=20261 |L|=5310 |Q|=559 |samples|=0 |sv|^2=9790477
+# [info] [5600] cols=181 (736.8) reds=20570 |L|=5358 |Q|=509 |samples|=0 |sv|^2=9790477
+# [info] [5800] cols=185 (743.4) reds=20808 |L|=5435 |Q|=428 |samples|=0 |sv|^2=9790477
+# [info] [6000] cols=185 (749.3) reds=21092 |L|=5482 |Q|=381 |samples|=0 |sv|^2=9790477
+# [info] [6200] cols=187 (754.4) reds=21362 |L|=5544 |Q|=317 |samples|=0 |sv|^2=9790477
+# [info] [6400] cols=189 (757.8) reds=21674 |L|=5575 |Q|=284 |samples|=0 |sv|^2=9790477
+# [info] [6600] cols=189 (762.9) reds=21941 |L|=5625 |Q|=234 |samples|=0 |sv|^2=9790477
+# [info] [6800] cols=189 (767.6) reds=22222 |L|=5675 |Q|=184 |samples|=0 |sv|^2=9790477
+# [info] [7000] cols=189 (774.7) reds=22452 |L|=5748 |Q|=111 |samples|=0 |sv|^2=9790477
+# [info] [7200] cols=189 (781.9) reds=22709 |L|=5817 |Q|=42 |samples|=0 |sv|^2=9790477
+# [info] [7400] cols=190 (790.8) reds=24045 |L|=5902 |Q|=7 |samples|=51 |sv|^2=9790477
+# [info] [7600] cols=191 (800.5) reds=26377 |L|=6005 |Q|=1 |samples|=149 |sv|^2=9790477
+# [info] [7800] cols=193 (813.4) reds=29457 |L|=6134 |Q|=1 |samples|=280 |sv|^2=9790477
+# [info] [8000] cols=194 (821.6) reds=31596 |L|=6217 |Q|=0 |samples|=363 |sv|^2=9790477
+# [info] [8200] cols=195 (831.3) reds=34013 |L|=6313 |Q|=1 |samples|=461 |sv|^2=9790477
+# [info] [8400] cols=195 (838.5) reds=35942 |L|=6386 |Q|=0 |samples|=533 |sv|^2=9790477
+# [info] [8600] cols=196 (846.5) reds=37978 |L|=6460 |Q|=5 |samples|=613 |sv|^2=9790477
+# [info] [8800] cols=196 (856) reds=40380 |L|=6561 |Q|=0 |samples|=709 |sv|^2=9790477
+# [info] [9000] cols=198 (862.8) reds=42348 |L|=6617 |Q|=12 |samples|=779 |sv|^2=9790477
+# [info] [9200] cols=198 (871.8) reds=44687 |L|=6716 |Q|=3 |samples|=869 |sv|^2=9790477
+# [info] [9400] cols=199 (880.6) reds=47027 |L|=6797 |Q|=10 |samples|=958 |sv|^2=9790477
+# [info] [9600] cols=199 (886.5) reds=48762 |L|=6866 |Q|=0 |samples|=1017 |sv|^2=9790477
+# [info] [9800] cols=200 (894.8) reds=51009 |L|=6944 |Q|=5 |samples|=1101 |sv|^2=9790477
+# [info] [10000] cols=201 (903.1) reds=53161 |L|=7032 |Q|=0 |samples|=1185 |sv|^2=9790477
+# [info] [10200] cols=202 (906) reds=54129 |L|=7037 |Q|=23 |samples|=1214 |sv|^2=9790477
+# [info] [10400] cols=203 (912.2) reds=55842 |L|=7118 |Q|=5 |samples|=1278 |sv|^2=9790477
+# [info] [10600] cols=204 (921.1) reds=58119 |L|=7200 |Q|=12 |samples|=1368 |sv|^2=9790477
+# [info] [10800] cols=204 (921.4) reds=58529 |L|=7208 |Q|=7 |samples|=1371 |sv|^2=9790477
+# [info] [11000] cols=204 (925.7) reds=59855 |L|=7258 |Q|=0 |samples|=1414 |sv|^2=9790477
+# [info] [11200] cols=205 (930.7) reds=61466 |L|=7308 |Q|=0 |samples|=1465 |sv|^2=9790477
+# [info] [11400] cols=207 (939.8) reds=63935 |L|=7393 |Q|=6 |samples|=1558 |sv|^2=9790477
+# [info] [11600] cols=207 (944.7) reds=65368 |L|=7445 |Q|=3 |samples|=1607 |sv|^2=9790477
+# [info] [11800] cols=208 (951.2) reds=67287 |L|=7505 |Q|=8 |samples|=1673 |sv|^2=9790477
+# [info] [12000] cols=208 (954.2) reds=68227 |L|=7540 |Q|=3 |samples|=1703 |sv|^2=9790477
+# [info] [12200] cols=211 (956) reds=69088 |L|=7558 |Q|=3 |samples|=1724 |sv|^2=9790477
+# [info] [12400] cols=213 (964) reds=71380 |L|=7641 |Q|=0 |samples|=1806 |sv|^2=9790477
+# [info] [12600] cols=214 (971) reds=73372 |L|=7708 |Q|=3 |samples|=1877 |sv|^2=9790477
+# [info] [12800] cols=216 (971.4) reds=73846 |L|=7713 |Q|=2 |samples|=1883 |sv|^2=9790477
+# [info] [13000] cols=218 (977.7) reds=75663 |L|=7770 |Q|=8 |samples|=1948 |sv|^2=9790477
+# [info] [13200] cols=218 (983.6) reds=77397 |L|=7835 |Q|=2 |samples|=2007 |sv|^2=9790477
+# [info] [13400] cols=218 (990.5) reds=79284 |L|=7906 |Q|=0 |samples|=2076 |sv|^2=9790477
+# [info] [13600] cols=221 (993.6) reds=80415 |L|=7928 |Q|=8 |samples|=2109 |sv|^2=9790477
+# [info] [13800] cols=221 (998.6) reds=81857 |L|=7987 |Q|=0 |samples|=2160 |sv|^2=9790477
+# [info] [14000] cols=223 (1002.8) reds=83252 |L|=8027 |Q|=2 |samples|=2204 |sv|^2=9790477
+# [info] [14200] cols=227 (1002.8) reds=83633 |L|=7983 |Q|=42 |samples|=2204 |sv|^2=9790477
+# [info] [14400] cols=229 (1002.8) reds=83970 |L|=7990 |Q|=33 |samples|=2204 |sv|^2=9790477
+# [info] [14600] cols=233 (1002.8) reds=84339 |L|=7984 |Q|=35 |samples|=2204 |sv|^2=9790477
+# [info] [14800] cols=235 (1005.7) reds=85654 |L|=8056 |Q|=2 |samples|=2245 |sv|^2=9790477
+# [info] [15000] cols=237 (1012.3) reds=87657 |L|=8113 |Q|=11 |samples|=2313 |sv|^2=9790477
+# [info] [15200] cols=238 (1015.6) reds=88823 |L|=8150 |Q|=7 |samples|=2347 |sv|^2=9790477
+# [info] [15400] cols=240 (1017.8) reds=89719 |L|=8175 |Q|=4 |samples|=2371 |sv|^2=9790477
+# [info] [15600] cols=245 (1020) reds=90717 |L|=8197 |Q|=4 |samples|=2398 |sv|^2=9790477
+# [info] [15800] cols=249 (1024.9) reds=92290 |L|=8225 |Q|=24 |samples|=2450 |sv|^2=9790477
+# [info] [16000] cols=253 (1024.9) reds=92654 |L|=8218 |Q|=27 |samples|=2450 |sv|^2=9790477
+# [info] [16200] cols=258 (1024.9) reds=92985 |L|=8233 |Q|=7 |samples|=2450 |sv|^2=9790477
+# [info] [16400] cols=260 (1026.5) reds=93974 |L|=8257 |Q|=8 |samples|=2477 |sv|^2=9790477
+# [info] [16600] cols=261 (1028.7) reds=94883 |L|=8288 |Q|=0 |samples|=2501 |sv|^2=9790477
+# [info] [16800] cols=269 (1035.5) reds=97097 |L|=8355 |Q|=0 |samples|=2576 |sv|^2=9790477
+# [info] [17000] cols=279 (1041.7) reds=99207 |L|=8418 |Q|=0 |samples|=2649 |sv|^2=9790477
+# [info] [17200] cols=283 (1047) reds=100970 |L|=8465 |Q|=6 |samples|=2706 |sv|^2=9790477
+# [info] [17400] cols=290 (1050) reds=102125 |L|=8501 |Q|=0 |samples|=2743 |sv|^2=9790477
+# [info] [17600] cols=292 (1052.7) reds=103147 |L|=8528 |Q|=0 |samples|=2772 |sv|^2=9790477
+# [info] [17800] cols=300 (1059.7) reds=105196 |L|=8594 |Q|=2 |samples|=2848 |sv|^2=9790477
+# [info] [18000] cols=304 (1064.9) reds=106847 |L|=8640 |Q|=10 |samples|=2906 |sv|^2=9790477
+# [info] [18200] cols=311 (1066.8) reds=107883 |L|=8668 |Q|=0 |samples|=2931 |sv|^2=9790477
+# [info] [18400] cols=316 (1070.5) reds=109185 |L|=8702 |Q|=2 |samples|=2972 |sv|^2=9790477
+# [info] [18600] cols=325 (1079.5) reds=112000 |L|=8783 |Q|=13 |samples|=3073 |sv|^2=9790477
+# [info] [18800] cols=333 (1083.3) reds=113400 |L|=8816 |Q|=18 |samples|=3119 |sv|^2=9790477
+# [info] [19000] cols=338 (1084) reds=114008 |L|=8832 |Q|=8 |samples|=3130 |sv|^2=9790477
+# [info] [19200] cols=346 (1086.2) reds=115145 |L|=8854 |Q|=9 |samples|=3161 |sv|^2=9790477
+# [info] [19400] cols=361 (1088) reds=116276 |L|=8877 |Q|=3 |samples|=3193 |sv|^2=9790477
+# [info] [19600] cols=367 (1089.9) reds=117208 |L|=8892 |Q|=6 |samples|=3217 |sv|^2=9790477
+# [info] [19800] cols=382 (1091.3) reds=118373 |L|=8892 |Q|=22 |samples|=3248 |sv|^2=9790477
+# [info] [20000] cols=388 (1094.6) reds=119613 |L|=8947 |Q|=0 |samples|=3287 |sv|^2=9790477
+# [info] [20200] cols=399 (1101.9) reds=122008 |L|=9019 |Q|=1 |samples|=3371 |sv|^2=9790477
+# [info] [20400] cols=406 (1105.7) reds=123485 |L|=9056 |Q|=2 |samples|=3416 |sv|^2=9790477
+# [info] [20600] cols=419 (1110.8) reds=125416 |L|=9105 |Q|=3 |samples|=3479 |sv|^2=9790477
+# [info] [20800] cols=428 (1112.1) reds=126096 |L|=9108 |Q|=5 |samples|=3493 |sv|^2=9790477
+# [info] [21000] cols=435 (1112.1) reds=126734 |L|=9107 |Q|=8 |samples|=3502 |sv|^2=9790477
+# [info] [21200] cols=443 (1113.5) reds=127785 |L|=9136 |Q|=0 |samples|=3531 |sv|^2=9790477
+# [info] [21400] cols=452 (1119.9) reds=129941 |L|=9200 |Q|=0 |samples|=3604 |sv|^2=9790477
+# [info] [21600] cols=463 (1126.8) reds=132219 |L|=9265 |Q|=4 |samples|=3684 |sv|^2=9790477
+# [info] [21800] cols=479 (1131.8) reds=134147 |L|=9319 |Q|=0 |samples|=3750 |sv|^2=9790477
+# [info] [22000] cols=495 (1137.9) reds=136462 |L|=9380 |Q|=0 |samples|=3827 |sv|^2=9790477
+# [info] [22200] cols=511 (1144.7) reds=138951 |L|=9447 |Q|=0 |samples|=3910 |sv|^2=9790477
+# [info] [22400] cols=524 (1152.1) reds=141400 |L|=9521 |Q|=0 |samples|=3997 |sv|^2=9790477
+# [info] [22600] cols=545 (1156.5) reds=143454 |L|=9551 |Q|=11 |samples|=4059 |sv|^2=9790477
+# [info] [22800] cols=563 (1160.2) reds=145211 |L|=9603 |Q|=0 |samples|=4118 |sv|^2=9790477
+# [info] [23000] cols=578 (1163.8) reds=146888 |L|=9638 |Q|=1 |samples|=4169 |sv|^2=9790477
+# [info] [23200] cols=594 (1169.4) reds=149021 |L|=9693 |Q|=2 |samples|=4241 |sv|^2=9790477
+# [info] [23400] cols=611 (1173.6) reds=150824 |L|=9731 |Q|=1 |samples|=4295 |sv|^2=9790477
+# [info] [23600] cols=632 (1176.8) reds=152661 |L|=9769 |Q|=0 |samples|=4353 |sv|^2=9790477
+# [info] [23800] cols=651 (1184.4) reds=155397 |L|=9844 |Q|=0 |samples|=4447 |sv|^2=9790477
+# [info] [24000] cols=661 (1192.1) reds=157850 |L|=9922 |Q|=0 |samples|=4535 |sv|^2=9790477
+# [info] [24200] cols=688 (1196.8) reds=160153 |L|=9969 |Q|=0 |samples|=4609 |sv|^2=9790477
+# [info] [24400] cols=713 (1198.6) reds=161517 |L|=9975 |Q|=9 |samples|=4649 |sv|^2=9790477
+# [info] [24600] cols=741 (1202.6) reds=163681 |L|=10027 |Q|=0 |samples|=4720 |sv|^2=9790477
+# [info] [24800] cols=771 (1207.4) reds=166005 |L|=10073 |Q|=2 |samples|=4798 |sv|^2=9790477
+# [info] [25000] cols=801 (1211.8) reds=168292 |L|=10119 |Q|=0 |samples|=4872 |sv|^2=9790477
+# [info] [25200] cols=823 (1216.8) reds=170489 |L|=10165 |Q|=3 |samples|=4943 |sv|^2=9790477
+# [info] [25400] cols=843 (1219.9) reds=172196 |L|=10200 |Q|=0 |samples|=4995 |sv|^2=9790477
+# [info] [25600] cols=874 (1226.1) reds=174899 |L|=10259 |Q|=1 |samples|=5086 |sv|^2=9790477
+# [info] [25800] cols=900 (1232.9) reds=177713 |L|=10330 |Q|=0 |samples|=5182 |sv|^2=9790477
+# [info] [26000] cols=929 (1236.4) reds=179668 |L|=10365 |Q|=0 |samples|=5246 |sv|^2=9790477
+# [info] [26200] cols=962 (1245.1) reds=183060 |L|=10452 |Q|=0 |samples|=5366 |sv|^2=9790477
+# [info] [26400] cols=987 (1251) reds=185454 |L|=10511 |Q|=0 |samples|=5450 |sv|^2=9790477
+# [info] [26600] cols=1010 (1257.9) reds=188123 |L|=10580 |Q|=0 |samples|=5542 |sv|^2=9790477
+# [info] [26800] cols=1037 (1263.4) reds=190534 |L|=10635 |Q|=0 |samples|=5624 |sv|^2=9790477
+# [info] [27000] cols=1073 (1269.4) reds=193347 |L|=10695 |Q|=0 |samples|=5720 |sv|^2=9790477
+# [info] [27200] cols=1098 (1270.8) reds=194764 |L|=10709 |Q|=0 |samples|=5759 |sv|^2=9790477
+# [info] [27400] cols=1135 (1273.7) reds=196735 |L|=10731 |Q|=6 |samples|=5824 |sv|^2=9790477
+# [info] [27600] cols=1175 (1277.5) reds=199114 |L|=10776 |Q|=0 |samples|=5903 |sv|^2=9790477
+# [info] [27800] cols=1214 (1282.9) reds=201905 |L|=10829 |Q|=1 |samples|=5996 |sv|^2=9790477
+# [info] [28000] cols=1256 (1290.1) reds=205226 |L|=10898 |Q|=3 |samples|=6109 |sv|^2=9790477
+# [info] [28200] cols=1291 (1296.7) reds=208185 |L|=10967 |Q|=1 |samples|=6211 |sv|^2=9790477
+# [****] done!
+# [info] [28236] cols=1298 (1298) reds=208777 |L|=10980 |Q|=0 |samples|=6230
+# [info] max(|L|)=10980 log2(max|L|)/n=0.200337
+# [info] true max|L| = 4190
+# [info] true log2(max|L|)/n = 0.179593
+# [info] sv is
+# [info] |sv| = 3128.97 (9790477)
+# [info] running 2-sieve
+# [info] nc = 67
+# [info] nr = 67
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 1.64485e+07
+# [info] done initialization, size(List)=47
+# [info] done initialization, size(Queue)=20
+# [info] done initialization, mem_est=4269.94
+ayamayaqhy   23126    
+ # [info] [200] cols=1 (2514) reds=178526 |L|=23082 |Q|=9964 |samples|=0 |sv|^2=5640200
+# [info] [400] cols=4 (2514) reds=179047 |L|=22997 |Q|=10046 |samples|=0 |sv|^2=5640200
+# [info] [600] cols=6 (2514) reds=179568 |L|=22887 |Q|=10154 |samples|=0 |sv|^2=5640200
+# [info] [800] cols=8 (2514) reds=180049 |L|=22845 |Q|=10194 |samples|=0 |sv|^2=5640200
+# [info] [1000] cols=13 (2514) reds=180571 |L|=22770 |Q|=10264 |samples|=0 |sv|^2=5640200
+# [info] [1200] cols=19 (2514) reds=181102 |L|=22713 |Q|=10315 |samples|=0 |sv|^2=5640200
+# [info] [1400] cols=21 (2514) reds=181664 |L|=22609 |Q|=10417 |samples|=0 |sv|^2=5640200
+# [info] [1600] cols=24 (2514) reds=182194 |L|=22551 |Q|=10472 |samples|=0 |sv|^2=5640200
+# [info] [1800] cols=25 (2514) reds=182695 |L|=22493 |Q|=10529 |samples|=0 |sv|^2=5640200
+# [info] [2000] cols=27 (2514) reds=183156 |L|=22430 |Q|=10590 |samples|=0 |sv|^2=5640200
+# [info] [2200] cols=29 (2514) reds=183706 |L|=22332 |Q|=10686 |samples|=0 |sv|^2=5640200
+# [info] [2400] cols=32 (2514) reds=184227 |L|=22232 |Q|=10783 |samples|=0 |sv|^2=5640200
+# [info] [2600] cols=33 (2514) reds=184733 |L|=22181 |Q|=10833 |samples|=0 |sv|^2=5640200
+# [info] [2800] cols=34 (2514) reds=185261 |L|=22143 |Q|=10870 |samples|=0 |sv|^2=5640200
+# [info] [3000] cols=36 (2514) reds=185792 |L|=22098 |Q|=10913 |samples|=0 |sv|^2=5640200
+# [info] [3200] cols=39 (2514) reds=186306 |L|=22036 |Q|=10972 |samples|=0 |sv|^2=5640200
+# [info] [3400] cols=40 (2514) reds=186801 |L|=21991 |Q|=11016 |samples|=0 |sv|^2=5640200
+# [info] [3600] cols=42 (2514) reds=187243 |L|=21987 |Q|=11018 |samples|=0 |sv|^2=5640200
+# [info] [3800] cols=45 (2514) reds=187703 |L|=21957 |Q|=11045 |samples|=0 |sv|^2=5640200
+# [info] [4000] cols=54 (2514) reds=188120 |L|=21934 |Q|=11059 |samples|=0 |sv|^2=5640200
+# [info] [4200] cols=60 (2514) reds=188654 |L|=21881 |Q|=11106 |samples|=0 |sv|^2=5640200
+# [info] [4400] cols=65 (2514) reds=189117 |L|=21878 |Q|=11104 |samples|=0 |sv|^2=5640200
+# [info] [4600] cols=67 (2514) reds=189586 |L|=21833 |Q|=11147 |samples|=0 |sv|^2=5640200
+# [info] [4800] cols=68 (2514) reds=190044 |L|=21808 |Q|=11171 |samples|=0 |sv|^2=5640200
+# [info] [5000] cols=72 (2514) reds=190543 |L|=21788 |Q|=11187 |samples|=0 |sv|^2=5640200
+# [info] [5200] cols=75 (2514) reds=191026 |L|=21755 |Q|=11217 |samples|=0 |sv|^2=5640200
+# [info] [5400] cols=77 (2514) reds=191549 |L|=21721 |Q|=11249 |samples|=0 |sv|^2=5640200
+# [info] [5600] cols=81 (2514) reds=192023 |L|=21685 |Q|=11281 |samples|=0 |sv|^2=5640200
+# [info] [5800] cols=86 (2514) reds=192489 |L|=21653 |Q|=11308 |samples|=0 |sv|^2=5640200
+# [info] [6000] cols=88 (2514) reds=192942 |L|=21647 |Q|=11312 |samples|=0 |sv|^2=5640200
+# [info] [6200] cols=90 (2514) reds=193363 |L|=21681 |Q|=11276 |samples|=0 |sv|^2=5640200
+# [info] [6400] cols=90 (2514) reds=193706 |L|=21728 |Q|=11229 |samples|=0 |sv|^2=5640200
+# [info] [6600] cols=90 (2514) reds=194117 |L|=21775 |Q|=11182 |samples|=0 |sv|^2=5640200
+# [info] [6800] cols=91 (2514) reds=194559 |L|=21812 |Q|=11144 |samples|=0 |sv|^2=5640200
+# [info] [7000] cols=91 (2514) reds=195028 |L|=21863 |Q|=11093 |samples|=0 |sv|^2=5640200
+# [info] [7200] cols=92 (2514) reds=195407 |L|=21941 |Q|=11014 |samples|=0 |sv|^2=5640200
+# [info] [7400] cols=92 (2514) reds=195801 |L|=22027 |Q|=10928 |samples|=0 |sv|^2=5640200
+# [info] [7600] cols=92 (2514) reds=196201 |L|=22098 |Q|=10857 |samples|=0 |sv|^2=5640200
+# [info] [7800] cols=92 (2514) reds=196579 |L|=22181 |Q|=10774 |samples|=0 |sv|^2=5640200
+# [info] [8000] cols=92 (2514) reds=196976 |L|=22249 |Q|=10706 |samples|=0 |sv|^2=5640200
+# [info] [8200] cols=93 (2514) reds=197373 |L|=22326 |Q|=10628 |samples|=0 |sv|^2=5640200
+# [info] [8400] cols=94 (2514) reds=197816 |L|=22411 |Q|=10542 |samples|=0 |sv|^2=5640200
+# [info] [8600] cols=94 (2514) reds=198231 |L|=22498 |Q|=10455 |samples|=0 |sv|^2=5640200
+# [info] [8800] cols=94 (2514) reds=198588 |L|=22605 |Q|=10348 |samples|=0 |sv|^2=5640200
+# [info] [9000] cols=94 (2514) reds=198981 |L|=22667 |Q|=10286 |samples|=0 |sv|^2=5640200
+# [info] [9200] cols=94 (2514) reds=199363 |L|=22745 |Q|=10208 |samples|=0 |sv|^2=5640200
+# [info] [9400] cols=94 (2514) reds=199761 |L|=22810 |Q|=10143 |samples|=0 |sv|^2=5640200
+# [info] [9600] cols=94 (2514) reds=200163 |L|=22910 |Q|=10043 |samples|=0 |sv|^2=5640200
+# [info] [9800] cols=94 (2514) reds=200557 |L|=23007 |Q|=9946 |samples|=0 |sv|^2=5640200
+# [info] [10000] cols=94 (2514) reds=200991 |L|=23060 |Q|=9893 |samples|=0 |sv|^2=5640200
+# [info] [10200] cols=97 (2514) reds=201424 |L|=23095 |Q|=9855 |samples|=0 |sv|^2=5640200
+# [info] [10400] cols=98 (2514) reds=201854 |L|=23102 |Q|=9847 |samples|=0 |sv|^2=5640200
+# [info] [10600] cols=102 (2514) reds=202278 |L|=23127 |Q|=9818 |samples|=0 |sv|^2=5640200
+# [info] [10800] cols=105 (2517.6) reds=202695 |L|=23177 |Q|=9765 |samples|=0 |sv|^2=5640200
+# [info] [11000] cols=108 (2522.5) reds=203095 |L|=23226 |Q|=9713 |samples|=0 |sv|^2=5640200
+# [info] [11200] cols=110 (2524.7) reds=203479 |L|=23246 |Q|=9691 |samples|=0 |sv|^2=5640200
+# [info] [11400] cols=113 (2526) reds=203879 |L|=23255 |Q|=9679 |samples|=0 |sv|^2=5640200
+# [info] [11600] cols=115 (2526.8) reds=204312 |L|=23248 |Q|=9684 |samples|=0 |sv|^2=5640200
+# [info] [11800] cols=115 (2528.5) reds=204709 |L|=23280 |Q|=9652 |samples|=0 |sv|^2=5640200
+# [info] [12000] cols=116 (2530.1) reds=205138 |L|=23300 |Q|=9631 |samples|=0 |sv|^2=5640200
+# [info] [12200] cols=118 (2534.1) reds=205555 |L|=23337 |Q|=9592 |samples|=0 |sv|^2=5640200
+# [info] [12400] cols=121 (2536) reds=205990 |L|=23359 |Q|=9567 |samples|=0 |sv|^2=5640200
+# [info] [12600] cols=123 (2538.3) reds=206462 |L|=23375 |Q|=9549 |samples|=0 |sv|^2=5640200
+# [info] [12800] cols=128 (2539.3) reds=206887 |L|=23392 |Q|=9527 |samples|=0 |sv|^2=5640200
+# [info] [13000] cols=129 (2541.3) reds=207329 |L|=23403 |Q|=9515 |samples|=0 |sv|^2=5640200
+# [info] [13200] cols=131 (2541.4) reds=207780 |L|=23406 |Q|=9510 |samples|=0 |sv|^2=5640200
+# [info] [13400] cols=134 (2542.3) reds=208216 |L|=23422 |Q|=9491 |samples|=0 |sv|^2=5640200
+# [info] [13600] cols=136 (2543.9) reds=208656 |L|=23429 |Q|=9482 |samples|=0 |sv|^2=5640200
+# [info] [13800] cols=141 (2543.9) reds=209123 |L|=23416 |Q|=9490 |samples|=0 |sv|^2=5294358
+# [info] [14000] cols=143 (2544.8) reds=209564 |L|=23448 |Q|=9456 |samples|=0 |sv|^2=5294358
+# [info] [14200] cols=148 (2549.1) reds=209969 |L|=23488 |Q|=9411 |samples|=0 |sv|^2=5294358
+# [info] [14400] cols=152 (2550.6) reds=210416 |L|=23492 |Q|=9403 |samples|=0 |sv|^2=5294358
+# [info] [14600] cols=157 (2552.9) reds=210812 |L|=23527 |Q|=9363 |samples|=0 |sv|^2=5294358
+# [info] [14800] cols=159 (2555.7) reds=211264 |L|=23534 |Q|=9354 |samples|=0 |sv|^2=5294358
+# [info] [15000] cols=161 (2555.7) reds=211701 |L|=23552 |Q|=9334 |samples|=0 |sv|^2=5294358
+# [info] [15200] cols=163 (2555.9) reds=212145 |L|=23551 |Q|=9333 |samples|=0 |sv|^2=5294358
+# [info] [15400] cols=165 (2558.2) reds=212587 |L|=23583 |Q|=9299 |samples|=0 |sv|^2=5294358
+# [info] [15600] cols=170 (2560.7) reds=212998 |L|=23585 |Q|=9292 |samples|=0 |sv|^2=5294358
+# [info] [15800] cols=172 (2563.8) reds=213367 |L|=23636 |Q|=9239 |samples|=0 |sv|^2=5294358
+# [info] [16000] cols=174 (2569.1) reds=213784 |L|=23689 |Q|=9184 |samples|=0 |sv|^2=5294358
+# [info] [16200] cols=181 (2572.8) reds=214148 |L|=23723 |Q|=9143 |samples|=0 |sv|^2=5294358
+# [info] [16400] cols=185 (2573.1) reds=214585 |L|=23725 |Q|=9137 |samples|=0 |sv|^2=5294358
+# [info] [16600] cols=188 (2573.9) reds=215007 |L|=23720 |Q|=9139 |samples|=0 |sv|^2=5294358
+# [info] [16800] cols=191 (2577.5) reds=215395 |L|=23776 |Q|=9080 |samples|=0 |sv|^2=5294358
+# [info] [17000] cols=192 (2581.2) reds=215807 |L|=23810 |Q|=9045 |samples|=0 |sv|^2=5294358
+# [info] [17200] cols=195 (2584.7) reds=216208 |L|=23832 |Q|=9020 |samples|=0 |sv|^2=5294358
+# [info] [17400] cols=200 (2586.1) reds=216612 |L|=23856 |Q|=8991 |samples|=0 |sv|^2=5294358
+# [info] [17600] cols=200 (2593.5) reds=217013 |L|=23934 |Q|=8913 |samples|=0 |sv|^2=5294358
+# [info] [17800] cols=200 (2599.6) reds=217416 |L|=23997 |Q|=8850 |samples|=0 |sv|^2=5294358
+# [info] [18000] cols=201 (2601.9) reds=217784 |L|=24017 |Q|=8829 |samples|=0 |sv|^2=5294358
+# [info] [18200] cols=203 (2607.7) reds=218164 |L|=24076 |Q|=8768 |samples|=0 |sv|^2=5294358
+# [info] [18400] cols=204 (2615.1) reds=218518 |L|=24151 |Q|=8692 |samples|=0 |sv|^2=5294358
+# [info] [18600] cols=204 (2618.3) reds=218901 |L|=24182 |Q|=8661 |samples|=0 |sv|^2=5294358
+# [info] [18800] cols=205 (2626.2) reds=219238 |L|=24263 |Q|=8579 |samples|=0 |sv|^2=5294358
+# [info] [19000] cols=205 (2635.1) reds=219579 |L|=24351 |Q|=8491 |samples|=0 |sv|^2=5294358
+# [info] [19200] cols=205 (2641.5) reds=219916 |L|=24416 |Q|=8426 |samples|=0 |sv|^2=5294358
+# [info] [19400] cols=205 (2647.8) reds=220244 |L|=24479 |Q|=8363 |samples|=0 |sv|^2=5244812
+# [info] [19600] cols=205 (2652.9) reds=220605 |L|=24527 |Q|=8315 |samples|=0 |sv|^2=5244812
+# [info] [19800] cols=205 (2663.7) reds=220896 |L|=24638 |Q|=8204 |samples|=0 |sv|^2=5244812
+# [info] [20000] cols=208 (2668.5) reds=221245 |L|=24683 |Q|=8156 |samples|=0 |sv|^2=5244812
+# [info] [20200] cols=210 (2672.7) reds=221641 |L|=24714 |Q|=8123 |samples|=0 |sv|^2=5244812
+# [info] [20400] cols=213 (2675) reds=222062 |L|=24749 |Q|=8085 |samples|=0 |sv|^2=5244812
+# [info] [20600] cols=216 (2679.1) reds=222457 |L|=24792 |Q|=8039 |samples|=0 |sv|^2=5244812
+# [info] [20800] cols=218 (2681.6) reds=222846 |L|=24809 |Q|=8020 |samples|=0 |sv|^2=5244812
+# [info] [21000] cols=219 (2685.4) reds=223220 |L|=24852 |Q|=7976 |samples|=0 |sv|^2=5244812
+# [info] [21200] cols=222 (2687.1) reds=223599 |L|=24861 |Q|=7964 |samples|=0 |sv|^2=5244812
+# [info] [21400] cols=226 (2690) reds=223984 |L|=24901 |Q|=7920 |samples|=0 |sv|^2=5244812
+# [info] [21600] cols=231 (2694.4) reds=224327 |L|=24942 |Q|=7874 |samples|=0 |sv|^2=5244812
+# [info] [21800] cols=231 (2695.7) reds=224694 |L|=24956 |Q|=7860 |samples|=0 |sv|^2=5244812
+# [info] [22000] cols=231 (2698.4) reds=225099 |L|=24981 |Q|=7835 |samples|=0 |sv|^2=5244812
+# [info] [22200] cols=234 (2702.3) reds=225466 |L|=25024 |Q|=7789 |samples|=0 |sv|^2=5244812
+# [info] [22400] cols=236 (2705) reds=225864 |L|=25038 |Q|=7773 |samples|=0 |sv|^2=5244812
+# [info] [22600] cols=236 (2707.7) reds=226219 |L|=25076 |Q|=7735 |samples|=0 |sv|^2=5244812
+# [info] [22800] cols=238 (2713.3) reds=226624 |L|=25122 |Q|=7687 |samples|=0 |sv|^2=5244812
+# [info] [23000] cols=240 (2716.7) reds=226974 |L|=25168 |Q|=7639 |samples|=0 |sv|^2=5244812
+# [info] [23200] cols=244 (2721.6) reds=227341 |L|=25215 |Q|=7588 |samples|=0 |sv|^2=5244812
+# [info] [23400] cols=245 (2725.9) reds=227695 |L|=25257 |Q|=7545 |samples|=0 |sv|^2=5244812
+# [info] [23600] cols=246 (2730.9) reds=228040 |L|=25305 |Q|=7496 |samples|=0 |sv|^2=5244812
+# [info] [23800] cols=248 (2733.9) reds=228435 |L|=25338 |Q|=7461 |samples|=0 |sv|^2=5244812
+# [info] [24000] cols=251 (2735.2) reds=228841 |L|=25331 |Q|=7465 |samples|=0 |sv|^2=5244812
+# [info] [24200] cols=253 (2737) reds=229193 |L|=25370 |Q|=7424 |samples|=0 |sv|^2=5244812
+# [info] [24400] cols=253 (2739.1) reds=229572 |L|=25379 |Q|=7415 |samples|=0 |sv|^2=5244812
+# [info] [24600] cols=254 (2740.7) reds=229959 |L|=25407 |Q|=7386 |samples|=0 |sv|^2=5244812
+# [info] [24800] cols=256 (2744.8) reds=230325 |L|=25445 |Q|=7346 |samples|=0 |sv|^2=5244812
+# [info] [25000] cols=257 (2749.3) reds=230702 |L|=25492 |Q|=7298 |samples|=0 |sv|^2=5244812
+# [info] [25200] cols=258 (2753.8) reds=231038 |L|=25536 |Q|=7253 |samples|=0 |sv|^2=5244812
+# [info] [25400] cols=259 (2757.1) reds=231400 |L|=25570 |Q|=7218 |samples|=0 |sv|^2=5244812
+# [info] [25600] cols=262 (2763.3) reds=231731 |L|=25631 |Q|=7154 |samples|=0 |sv|^2=5244812
+# [info] [25800] cols=266 (2765.8) reds=232107 |L|=25659 |Q|=7122 |samples|=0 |sv|^2=5244812
+# [info] [26000] cols=271 (2769.9) reds=232496 |L|=25689 |Q|=7087 |samples|=0 |sv|^2=5244812
+# [info] [26200] cols=271 (2772.1) reds=232854 |L|=25704 |Q|=7072 |samples|=0 |sv|^2=5244812
+# [info] [26400] cols=272 (2775.3) reds=233214 |L|=25749 |Q|=7026 |samples|=0 |sv|^2=5244812
+# [info] [26600] cols=272 (2779.9) reds=233571 |L|=25800 |Q|=6975 |samples|=0 |sv|^2=5244812
+# [info] [26800] cols=272 (2786.9) reds=233927 |L|=25866 |Q|=6909 |samples|=0 |sv|^2=5244812
+# [info] [27000] cols=272 (2794.1) reds=234237 |L|=25940 |Q|=6835 |samples|=0 |sv|^2=5244812
+# [info] [27200] cols=272 (2797.7) reds=234574 |L|=25976 |Q|=6799 |samples|=0 |sv|^2=5244812
+# [info] [27400] cols=272 (2802.1) reds=234925 |L|=26020 |Q|=6755 |samples|=0 |sv|^2=5244812
+# [info] [27600] cols=272 (2805.3) reds=235296 |L|=26052 |Q|=6723 |samples|=0 |sv|^2=5244812
+# [info] [27800] cols=272 (2809.9) reds=235660 |L|=26099 |Q|=6676 |samples|=0 |sv|^2=5244812
+# [info] [28000] cols=273 (2816.7) reds=235963 |L|=26168 |Q|=6606 |samples|=0 |sv|^2=5244812
+# [info] [28200] cols=273 (2821.8) reds=236298 |L|=26217 |Q|=6557 |samples|=0 |sv|^2=5244812
+# [info] [28400] cols=274 (2825.6) reds=236679 |L|=26235 |Q|=6538 |samples|=0 |sv|^2=5244812
+# [info] [28600] cols=274 (2830.1) reds=237016 |L|=26291 |Q|=6482 |samples|=0 |sv|^2=5244812
+# [info] [28800] cols=276 (2835.8) reds=237367 |L|=26358 |Q|=6413 |samples|=0 |sv|^2=5244812
+# [info] [29000] cols=277 (2840.9) reds=237696 |L|=26407 |Q|=6363 |samples|=0 |sv|^2=5244812
+# [info] [29200] cols=278 (2845.8) reds=238017 |L|=26455 |Q|=6314 |samples|=0 |sv|^2=5244812
+# [info] [29400] cols=280 (2851.5) reds=238360 |L|=26510 |Q|=6257 |samples|=0 |sv|^2=5244812
+# [info] [29600] cols=282 (2854.8) reds=238709 |L|=26543 |Q|=6222 |samples|=0 |sv|^2=5244812
+# [info] [29800] cols=284 (2858.1) reds=239043 |L|=26573 |Q|=6190 |samples|=0 |sv|^2=5244812
+# [info] [30000] cols=287 (2862.9) reds=239380 |L|=26610 |Q|=6150 |samples|=0 |sv|^2=5072987
+# [info] [30200] cols=287 (2864.8) reds=239740 |L|=26639 |Q|=6121 |samples|=0 |sv|^2=5072987
+# [info] [30400] cols=288 (2868.3) reds=240070 |L|=26678 |Q|=6081 |samples|=0 |sv|^2=5072987
+# [info] [30600] cols=288 (2872) reds=240404 |L|=26718 |Q|=6041 |samples|=0 |sv|^2=5072987
+# [info] [30800] cols=291 (2875.2) reds=240740 |L|=26751 |Q|=6005 |samples|=0 |sv|^2=5072987
+# [info] [31000] cols=292 (2880) reds=241061 |L|=26797 |Q|=5958 |samples|=0 |sv|^2=5072987
+# [info] [31200] cols=292 (2886) reds=241394 |L|=26860 |Q|=5895 |samples|=0 |sv|^2=5072987
+# [info] [31400] cols=293 (2889.5) reds=241738 |L|=26883 |Q|=5871 |samples|=0 |sv|^2=5072987
+# [info] [31600] cols=293 (2891.6) reds=242074 |L|=26917 |Q|=5837 |samples|=0 |sv|^2=5072987
+# [info] [31800] cols=294 (2897.7) reds=242398 |L|=26970 |Q|=5783 |samples|=0 |sv|^2=5072987
+# [info] [32000] cols=294 (2901.4) reds=242739 |L|=27013 |Q|=5740 |samples|=0 |sv|^2=5072987
+# [info] [32200] cols=294 (2905.8) reds=243063 |L|=27050 |Q|=5703 |samples|=0 |sv|^2=5072987
+# [info] [32400] cols=294 (2908.1) reds=243421 |L|=27075 |Q|=5678 |samples|=0 |sv|^2=5072987
+# [info] [32600] cols=295 (2914.3) reds=243743 |L|=27138 |Q|=5614 |samples|=0 |sv|^2=5072987
+# [info] [32800] cols=297 (2919.4) reds=244078 |L|=27190 |Q|=5560 |samples|=0 |sv|^2=5072987
+# [info] [33000] cols=297 (2922.9) reds=244443 |L|=27226 |Q|=5524 |samples|=0 |sv|^2=5072987
+# [info] [33200] cols=299 (2924.1) reds=244821 |L|=27240 |Q|=5508 |samples|=0 |sv|^2=5072987
+# [info] [33400] cols=299 (2928.9) reds=245154 |L|=27289 |Q|=5459 |samples|=0 |sv|^2=5072987
+# [info] [33600] cols=299 (2936.6) reds=245467 |L|=27363 |Q|=5385 |samples|=0 |sv|^2=5072987
+# [info] [33800] cols=300 (2943) reds=245778 |L|=27431 |Q|=5316 |samples|=0 |sv|^2=5072987
+# [info] [34000] cols=300 (2947.4) reds=246118 |L|=27475 |Q|=5272 |samples|=0 |sv|^2=5072987
+# [info] [34200] cols=300 (2949.3) reds=246475 |L|=27481 |Q|=5266 |samples|=0 |sv|^2=5072987
+# [info] [34400] cols=300 (2951.6) reds=246848 |L|=27503 |Q|=5244 |samples|=0 |sv|^2=5072987
+# [info] [34600] cols=301 (2953.8) reds=247164 |L|=27537 |Q|=5209 |samples|=0 |sv|^2=5072987
+# [info] [34800] cols=302 (2958) reds=247470 |L|=27574 |Q|=5171 |samples|=0 |sv|^2=5072987
+# [info] [35000] cols=303 (2960.2) reds=247771 |L|=27603 |Q|=5141 |samples|=0 |sv|^2=5072987
+# [info] [35200] cols=303 (2965.1) reds=248118 |L|=27651 |Q|=5093 |samples|=0 |sv|^2=5072987
+# [info] [35400] cols=304 (2972) reds=248414 |L|=27718 |Q|=5025 |samples|=0 |sv|^2=5072987
+# [info] [35600] cols=304 (2975.1) reds=248716 |L|=27749 |Q|=4994 |samples|=0 |sv|^2=5072987
+# [info] [35800] cols=304 (2982.3) reds=249026 |L|=27821 |Q|=4922 |samples|=0 |sv|^2=5072987
+# [info] [36000] cols=304 (2985.3) reds=249390 |L|=27845 |Q|=4898 |samples|=0 |sv|^2=5072987
+# [info] [36200] cols=304 (2989.4) reds=249717 |L|=27894 |Q|=4849 |samples|=0 |sv|^2=5072987
+# [info] [36400] cols=304 (2993.4) reds=250044 |L|=27930 |Q|=4813 |samples|=0 |sv|^2=5072987
+# [info] [36600] cols=306 (3000.8) reds=250323 |L|=28009 |Q|=4732 |samples|=0 |sv|^2=5072987
+# [info] [36800] cols=307 (3006.8) reds=250611 |L|=28068 |Q|=4672 |samples|=0 |sv|^2=5072987
+# [info] [37000] cols=308 (3010.4) reds=250968 |L|=28104 |Q|=4635 |samples|=0 |sv|^2=5072987
+# [info] [37200] cols=309 (3015.8) reds=251283 |L|=28158 |Q|=4580 |samples|=0 |sv|^2=5072987
+# [info] [37400] cols=310 (3020) reds=251581 |L|=28200 |Q|=4537 |samples|=0 |sv|^2=5072987
+# [info] [37600] cols=312 (3025.4) reds=251909 |L|=28254 |Q|=4481 |samples|=0 |sv|^2=5072987
+# [info] [37800] cols=312 (3030.1) reds=252264 |L|=28301 |Q|=4434 |samples|=0 |sv|^2=5072987
+# [info] [38000] cols=313 (3032.4) reds=252609 |L|=28323 |Q|=4411 |samples|=0 |sv|^2=5072987
+# [info] [38200] cols=314 (3032.4) reds=252972 |L|=28323 |Q|=4410 |samples|=0 |sv|^2=5072987
+# [info] [38400] cols=314 (3034.6) reds=253304 |L|=28346 |Q|=4387 |samples|=0 |sv|^2=5072987
+# [info] [38600] cols=315 (3038.9) reds=253647 |L|=28385 |Q|=4347 |samples|=0 |sv|^2=5072987
+# [info] [38800] cols=316 (3042) reds=253977 |L|=28421 |Q|=4310 |samples|=0 |sv|^2=5072987
+# [info] [39000] cols=316 (3046.8) reds=254300 |L|=28469 |Q|=4262 |samples|=0 |sv|^2=5072987
+# [info] [39200] cols=316 (3052.1) reds=254629 |L|=28516 |Q|=4215 |samples|=0 |sv|^2=5072987
+# [info] [39400] cols=316 (3056.4) reds=254953 |L|=28565 |Q|=4166 |samples|=0 |sv|^2=5072987
+# [info] [39600] cols=316 (3061.7) reds=255289 |L|=28596 |Q|=4135 |samples|=0 |sv|^2=5072987
+# [info] [39800] cols=317 (3064.5) reds=255613 |L|=28642 |Q|=4088 |samples|=0 |sv|^2=5072987
+# [info] [40000] cols=318 (3070.5) reds=255935 |L|=28704 |Q|=4025 |samples|=0 |sv|^2=5072987
+# [info] [40200] cols=318 (3075.3) reds=256287 |L|=28748 |Q|=3981 |samples|=0 |sv|^2=5072987
+# [info] [40400] cols=318 (3080.7) reds=256588 |L|=28801 |Q|=3928 |samples|=0 |sv|^2=5072987
+# [info] [40600] cols=318 (3085.8) reds=256887 |L|=28859 |Q|=3870 |samples|=0 |sv|^2=5072987
+# [info] [40800] cols=318 (3092.5) reds=257204 |L|=28926 |Q|=3803 |samples|=0 |sv|^2=5072987
+# [info] [41000] cols=319 (3097.6) reds=257503 |L|=28976 |Q|=3752 |samples|=0 |sv|^2=5072987
+# [info] [41200] cols=319 (3099.3) reds=257863 |L|=28961 |Q|=3767 |samples|=0 |sv|^2=5072987
+# [info] [41400] cols=319 (3099.3) reds=258227 |L|=28950 |Q|=3778 |samples|=0 |sv|^2=5072987
+# [info] [41600] cols=319 (3101.2) reds=258521 |L|=29010 |Q|=3718 |samples|=0 |sv|^2=5072987
+# [info] [41800] cols=320 (3106.5) reds=258829 |L|=29066 |Q|=3661 |samples|=0 |sv|^2=5072987
+# [info] [42000] cols=320 (3110.8) reds=259163 |L|=29106 |Q|=3621 |samples|=0 |sv|^2=5072987
+# [info] [42200] cols=320 (3115.9) reds=259474 |L|=29155 |Q|=3572 |samples|=0 |sv|^2=5072987
+# [info] [42400] cols=320 (3120.5) reds=259778 |L|=29204 |Q|=3523 |samples|=0 |sv|^2=5072987
+# [info] [42600] cols=320 (3122.4) reds=260110 |L|=29199 |Q|=3528 |samples|=0 |sv|^2=5072987
+# [info] [42800] cols=320 (3125.4) reds=260403 |L|=29254 |Q|=3473 |samples|=0 |sv|^2=5072987
+# [info] [43000] cols=320 (3128.2) reds=260729 |L|=29277 |Q|=3450 |samples|=0 |sv|^2=5072987
+# [info] [43200] cols=320 (3131.9) reds=261050 |L|=29315 |Q|=3412 |samples|=0 |sv|^2=5072987
+# [info] [43400] cols=320 (3140.1) reds=261320 |L|=29401 |Q|=3326 |samples|=0 |sv|^2=5072987
+# [info] [43600] cols=320 (3147.2) reds=261622 |L|=29469 |Q|=3258 |samples|=0 |sv|^2=5072987
+# [info] [43800] cols=321 (3151) reds=261954 |L|=29510 |Q|=3216 |samples|=0 |sv|^2=5072987
+# [info] [44000] cols=321 (3155.5) reds=262253 |L|=29552 |Q|=3174 |samples|=0 |sv|^2=5072987
+# [info] [44200] cols=322 (3160.4) reds=262545 |L|=29605 |Q|=3120 |samples|=0 |sv|^2=5072987
+# [info] [44400] cols=322 (3166.6) reds=262839 |L|=29660 |Q|=3065 |samples|=0 |sv|^2=5072987
+# [info] [44600] cols=322 (3168.7) reds=263188 |L|=29682 |Q|=3043 |samples|=0 |sv|^2=5072987
+# [info] [44800] cols=322 (3171.6) reds=263522 |L|=29714 |Q|=3011 |samples|=0 |sv|^2=5072987
+# [info] [45000] cols=322 (3173.3) reds=263849 |L|=29734 |Q|=2991 |samples|=0 |sv|^2=5072987
+# [info] [45200] cols=322 (3178.1) reds=264125 |L|=29780 |Q|=2945 |samples|=0 |sv|^2=5072987
+# [info] [45400] cols=322 (3182) reds=264443 |L|=29815 |Q|=2910 |samples|=0 |sv|^2=5072987
+# [info] [45600] cols=322 (3186.5) reds=264739 |L|=29865 |Q|=2860 |samples|=0 |sv|^2=5072987
+# [info] [45800] cols=322 (3191) reds=265067 |L|=29908 |Q|=2817 |samples|=0 |sv|^2=5072987
+# [info] [46000] cols=322 (3193.7) reds=265381 |L|=29938 |Q|=2787 |samples|=0 |sv|^2=5072987
+# [info] [46200] cols=322 (3198.8) reds=265696 |L|=29989 |Q|=2736 |samples|=0 |sv|^2=5072987
+# [info] [46400] cols=323 (3203.9) reds=265984 |L|=30037 |Q|=2687 |samples|=0 |sv|^2=5072987
+# [info] [46600] cols=323 (3207.5) reds=266283 |L|=30071 |Q|=2653 |samples|=0 |sv|^2=5072987
+# [info] [46800] cols=323 (3211.6) reds=266607 |L|=30115 |Q|=2609 |samples|=0 |sv|^2=5072987
+# [info] [47000] cols=323 (3215.6) reds=266905 |L|=30157 |Q|=2567 |samples|=0 |sv|^2=5072987
+# [info] [47200] cols=323 (3221.2) reds=267189 |L|=30212 |Q|=2512 |samples|=0 |sv|^2=5072987
+# [info] [47400] cols=323 (3228.9) reds=267439 |L|=30290 |Q|=2434 |samples|=0 |sv|^2=5072987
+# [info] [47600] cols=323 (3234.1) reds=267731 |L|=30338 |Q|=2386 |samples|=0 |sv|^2=5072987
+# [info] [47800] cols=323 (3234.1) reds=268081 |L|=30323 |Q|=2401 |samples|=0 |sv|^2=5072987
+# [info] [48000] cols=323 (3236.5) reds=268393 |L|=30366 |Q|=2358 |samples|=0 |sv|^2=5072987
+# [info] [48200] cols=323 (3239.8) reds=268703 |L|=30398 |Q|=2326 |samples|=0 |sv|^2=5072987
+# [info] [48400] cols=324 (3241.3) reds=269075 |L|=30413 |Q|=2310 |samples|=0 |sv|^2=5072987
+# [info] [48600] cols=324 (3243) reds=269390 |L|=30423 |Q|=2300 |samples|=0 |sv|^2=5072987
+# [info] [48800] cols=324 (3247) reds=269677 |L|=30468 |Q|=2255 |samples|=0 |sv|^2=5072987
+# [info] [49000] cols=324 (3252.6) reds=269989 |L|=30523 |Q|=2200 |samples|=0 |sv|^2=5072987
+# [info] [49200] cols=324 (3253.7) reds=270306 |L|=30534 |Q|=2189 |samples|=0 |sv|^2=5072987
+# [info] [49400] cols=324 (3260.3) reds=270559 |L|=30604 |Q|=2119 |samples|=0 |sv|^2=5072987
+# [info] [49600] cols=324 (3264.9) reds=270901 |L|=30643 |Q|=2080 |samples|=0 |sv|^2=5072987
+# [info] [49800] cols=324 (3271.1) reds=271162 |L|=30712 |Q|=2011 |samples|=0 |sv|^2=5072987
+# [info] [50000] cols=324 (3272.8) reds=271521 |L|=30713 |Q|=2010 |samples|=0 |sv|^2=5072987
+# [info] [50200] cols=324 (3276.3) reds=271798 |L|=30763 |Q|=1960 |samples|=0 |sv|^2=5072987
+# [info] [50400] cols=324 (3281.7) reds=272099 |L|=30815 |Q|=1908 |samples|=0 |sv|^2=5072987
+# [info] [50600] cols=324 (3284.1) reds=272417 |L|=30842 |Q|=1881 |samples|=0 |sv|^2=5072987
+# [info] [50800] cols=324 (3288.8) reds=272727 |L|=30883 |Q|=1840 |samples|=0 |sv|^2=5072987
+# [info] [51000] cols=324 (3293.3) reds=272989 |L|=30922 |Q|=1801 |samples|=0 |sv|^2=5072987
+# [info] [51200] cols=325 (3297.7) reds=273314 |L|=30976 |Q|=1746 |samples|=0 |sv|^2=5072987
+# [info] [51400] cols=325 (3298.9) reds=273654 |L|=30980 |Q|=1742 |samples|=0 |sv|^2=5072987
+# [info] [51600] cols=325 (3300.2) reds=273960 |L|=30995 |Q|=1727 |samples|=0 |sv|^2=5072987
+# [info] [51800] cols=326 (3303.7) reds=274293 |L|=31023 |Q|=1698 |samples|=0 |sv|^2=5072987
+# [info] [52000] cols=326 (3307.2) reds=274606 |L|=31072 |Q|=1649 |samples|=0 |sv|^2=5072987
+# [info] [52200] cols=326 (3311.9) reds=274921 |L|=31116 |Q|=1605 |samples|=0 |sv|^2=5072987
+# [info] [52400] cols=326 (3311.9) reds=275265 |L|=31109 |Q|=1612 |samples|=0 |sv|^2=5072987
+# [info] [52600] cols=326 (3313.6) reds=275602 |L|=31136 |Q|=1585 |samples|=0 |sv|^2=5072987
+# [info] [52800] cols=326 (3314.9) reds=275929 |L|=31147 |Q|=1574 |samples|=0 |sv|^2=5072987
+# [info] [53000] cols=326 (3317.7) reds=276244 |L|=31170 |Q|=1551 |samples|=0 |sv|^2=5072987
+# [info] [53200] cols=326 (3318.9) reds=276566 |L|=31180 |Q|=1541 |samples|=0 |sv|^2=5072987
+# [info] [53400] cols=326 (3322.3) reds=276873 |L|=31224 |Q|=1497 |samples|=0 |sv|^2=5072987
+# [info] [53600] cols=326 (3326.8) reds=277177 |L|=31261 |Q|=1460 |samples|=0 |sv|^2=5072987
+# [info] [53800] cols=326 (3330.5) reds=277487 |L|=31298 |Q|=1423 |samples|=0 |sv|^2=5072987
+# [info] [54000] cols=326 (3333.1) reds=277790 |L|=31327 |Q|=1394 |samples|=0 |sv|^2=5072987
+# [info] [54200] cols=326 (3336) reds=278094 |L|=31358 |Q|=1363 |samples|=0 |sv|^2=5072987
+# [info] [54400] cols=326 (3341.3) reds=278425 |L|=31397 |Q|=1324 |samples|=0 |sv|^2=5072987
+# [info] [54600] cols=326 (3341.3) reds=278791 |L|=31407 |Q|=1314 |samples|=0 |sv|^2=5072987
+# [info] [54800] cols=326 (3345.8) reds=279093 |L|=31451 |Q|=1270 |samples|=0 |sv|^2=5072987
+# [info] [55000] cols=326 (3350.3) reds=279365 |L|=31502 |Q|=1219 |samples|=0 |sv|^2=5072987
+# [info] [55200] cols=326 (3351.7) reds=279707 |L|=31514 |Q|=1207 |samples|=0 |sv|^2=5072987
+# [info] [55400] cols=326 (3356.9) reds=280007 |L|=31566 |Q|=1155 |samples|=0 |sv|^2=5072987
+# [info] [55600] cols=326 (3357.1) reds=280345 |L|=31557 |Q|=1164 |samples|=0 |sv|^2=5072987
+# [info] [55800] cols=327 (3359.9) reds=280633 |L|=31595 |Q|=1125 |samples|=0 |sv|^2=5072987
+# [info] [56000] cols=327 (3364.6) reds=280960 |L|=31647 |Q|=1073 |samples|=0 |sv|^2=5072987
+# [info] [56200] cols=327 (3368.6) reds=281250 |L|=31687 |Q|=1033 |samples|=0 |sv|^2=5072987
+# [info] [56400] cols=327 (3372.2) reds=281535 |L|=31722 |Q|=998 |samples|=0 |sv|^2=5072987
+# [info] [56600] cols=327 (3375.3) reds=281854 |L|=31754 |Q|=966 |samples|=0 |sv|^2=5072987
+# [info] [56800] cols=327 (3378.5) reds=282149 |L|=31783 |Q|=937 |samples|=0 |sv|^2=5072987
+# [info] [57000] cols=327 (3381.3) reds=282453 |L|=31807 |Q|=913 |samples|=0 |sv|^2=5072987
+# [info] [57200] cols=327 (3383) reds=282833 |L|=31785 |Q|=935 |samples|=0 |sv|^2=4495807
+# [info] [57400] cols=327 (3383) reds=283125 |L|=31826 |Q|=894 |samples|=0 |sv|^2=4495807
+# [info] [57600] cols=328 (3386.2) reds=283435 |L|=31860 |Q|=859 |samples|=0 |sv|^2=4495807
+# [info] [57800] cols=328 (3388.5) reds=283771 |L|=31877 |Q|=842 |samples|=0 |sv|^2=4495807
+# [info] [58000] cols=329 (3389.7) reds=284094 |L|=31890 |Q|=828 |samples|=0 |sv|^2=4495807
+# [info] [58200] cols=329 (3393.2) reds=284400 |L|=31927 |Q|=791 |samples|=0 |sv|^2=4495807
+# [info] [58400] cols=331 (3396) reds=284701 |L|=31960 |Q|=756 |samples|=0 |sv|^2=4495807
+# [info] [58600] cols=331 (3397.3) reds=285034 |L|=31973 |Q|=743 |samples|=0 |sv|^2=4495807
+# [info] [58800] cols=331 (3401.7) reds=285326 |L|=32015 |Q|=701 |samples|=0 |sv|^2=4495807
+# [info] [59000] cols=332 (3407.7) reds=285593 |L|=32072 |Q|=643 |samples|=0 |sv|^2=4495807
+# [info] [59200] cols=333 (3411.3) reds=285891 |L|=32109 |Q|=605 |samples|=0 |sv|^2=4495807
+# [info] [59400] cols=333 (3413.9) reds=286210 |L|=32130 |Q|=584 |samples|=0 |sv|^2=4495807
+# [info] [59600] cols=334 (3417.1) reds=286488 |L|=32172 |Q|=541 |samples|=0 |sv|^2=4495807
+# [info] [59800] cols=334 (3419.8) reds=286821 |L|=32197 |Q|=516 |samples|=0 |sv|^2=4495807
+# [info] [60000] cols=334 (3423.9) reds=287114 |L|=32239 |Q|=474 |samples|=0 |sv|^2=4495807
+# [info] [60200] cols=334 (3429.7) reds=287436 |L|=32297 |Q|=416 |samples|=0 |sv|^2=4495807
+# [info] [60400] cols=334 (3432.4) reds=287758 |L|=32314 |Q|=399 |samples|=0 |sv|^2=4495807
+# [info] [60600] cols=334 (3433.8) reds=288076 |L|=32316 |Q|=397 |samples|=0 |sv|^2=4495807
+# [info] [60800] cols=335 (3435.9) reds=288371 |L|=32357 |Q|=355 |samples|=0 |sv|^2=4495807
+# [info] [61000] cols=335 (3438.5) reds=288686 |L|=32374 |Q|=338 |samples|=0 |sv|^2=4495807
+# [info] [61200] cols=335 (3440.2) reds=288986 |L|=32402 |Q|=310 |samples|=0 |sv|^2=4495807
+# [info] [61400] cols=335 (3443) reds=289319 |L|=32427 |Q|=285 |samples|=0 |sv|^2=4495807
+# [info] [61600] cols=337 (3443.3) reds=289665 |L|=32405 |Q|=305 |samples|=0 |sv|^2=4495807
+# [info] [61800] cols=338 (3443.3) reds=290027 |L|=32392 |Q|=317 |samples|=0 |sv|^2=4495807
+# [info] [62000] cols=338 (3443.3) reds=290355 |L|=32413 |Q|=296 |samples|=0 |sv|^2=4495807
+# [info] [62200] cols=339 (3445.3) reds=290630 |L|=32454 |Q|=254 |samples|=0 |sv|^2=4495807
+# [info] [62400] cols=339 (3447.5) reds=290933 |L|=32472 |Q|=236 |samples|=0 |sv|^2=4495807
+# [info] [62600] cols=339 (3451.5) reds=291238 |L|=32501 |Q|=207 |samples|=0 |sv|^2=4495807
+# [info] [62800] cols=340 (3453.1) reds=291552 |L|=32529 |Q|=178 |samples|=0 |sv|^2=4495807
+# [info] [63000] cols=342 (3458.5) reds=291863 |L|=32582 |Q|=123 |samples|=0 |sv|^2=4495807
+# [info] [63200] cols=343 (3463) reds=292181 |L|=32615 |Q|=89 |samples|=0 |sv|^2=4495807
+# [info] [63400] cols=344 (3463.3) reds=292503 |L|=32619 |Q|=84 |samples|=0 |sv|^2=4495807
+# [info] [63600] cols=345 (3466.1) reds=292812 |L|=32662 |Q|=40 |samples|=0 |sv|^2=4495807
+# [info] [63800] cols=345 (3471) reds=293417 |L|=32696 |Q|=15 |samples|=9 |sv|^2=4495807
+# [info] [64000] cols=345 (3476.9) reds=295448 |L|=32767 |Q|=3 |samples|=68 |sv|^2=4495807
+# [info] [64200] cols=346 (3481.1) reds=297146 |L|=32804 |Q|=8 |samples|=111 |sv|^2=4495807
+# [info] [64400] cols=346 (3488.9) reds=299732 |L|=32889 |Q|=1 |samples|=189 |sv|^2=4495807
+# [info] [64600] cols=346 (3493.6) reds=301513 |L|=32936 |Q|=1 |samples|=236 |sv|^2=4495807
+# [info] [64800] cols=347 (3502.8) reds=304647 |L|=33029 |Q|=0 |samples|=329 |sv|^2=4495807
+# [info] [65000] cols=349 (3513.1) reds=308187 |L|=33129 |Q|=3 |samples|=434 |sv|^2=4495807
+# [info] [65200] cols=351 (3522.4) reds=311274 |L|=33225 |Q|=0 |samples|=529 |sv|^2=4495807
+# [info] [65400] cols=351 (3523.1) reds=311813 |L|=33215 |Q|=17 |samples|=536 |sv|^2=4495807
+# [info] [65600] cols=351 (3526.5) reds=313137 |L|=33266 |Q|=0 |samples|=570 |sv|^2=4495807
+# [info] [65800] cols=351 (3528.4) reds=314037 |L|=33282 |Q|=3 |samples|=589 |sv|^2=4495807
+# [info] [66000] cols=353 (3535.9) reds=316704 |L|=33360 |Q|=0 |samples|=666 |sv|^2=4495807
+# [info] [66200] cols=355 (3539.5) reds=318180 |L|=33364 |Q|=32 |samples|=704 |sv|^2=4495807
+# [info] [66400] cols=356 (3540.4) reds=318789 |L|=33389 |Q|=16 |samples|=714 |sv|^2=4495807
+# [info] [66600] cols=356 (3540.4) reds=319154 |L|=33384 |Q|=21 |samples|=714 |sv|^2=4495807
+# [info] [66800] cols=358 (3540.4) reds=319517 |L|=33364 |Q|=39 |samples|=714 |sv|^2=4495807
+# [info] [67000] cols=360 (3544.4) reds=321128 |L|=33440 |Q|=5 |samples|=758 |sv|^2=4495807
+# [info] [67200] cols=362 (3549.3) reds=322893 |L|=33490 |Q|=4 |samples|=809 |sv|^2=4495807
+# [info] [67400] cols=364 (3550.8) reds=323703 |L|=33506 |Q|=3 |samples|=826 |sv|^2=4495807
+# [info] [67600] cols=365 (3551.8) reds=324388 |L|=33499 |Q|=19 |samples|=836 |sv|^2=4495807
+# [info] [67800] cols=365 (3556.4) reds=326133 |L|=33562 |Q|=3 |samples|=883 |sv|^2=4495807
+# [info] [68000] cols=365 (3560.3) reds=327703 |L|=33586 |Q|=18 |samples|=922 |sv|^2=4495807
+# [info] [68200] cols=367 (3565.2) reds=329417 |L|=33645 |Q|=8 |samples|=973 |sv|^2=4495807
+# [info] [68400] cols=367 (3567.4) reds=330386 |L|=33671 |Q|=4 |samples|=995 |sv|^2=4495807
+# [info] [68600] cols=367 (3570.6) reds=331695 |L|=33701 |Q|=6 |samples|=1027 |sv|^2=4495807
+# [info] [68800] cols=368 (3570.6) reds=332038 |L|=33691 |Q|=15 |samples|=1027 |sv|^2=4495807
+# [info] [69000] cols=368 (3573.9) reds=333361 |L|=33737 |Q|=3 |samples|=1061 |sv|^2=4495807
+# [info] [69200] cols=368 (3576.9) reds=334660 |L|=33746 |Q|=24 |samples|=1091 |sv|^2=4495807
+# [info] [69400] cols=369 (3577.6) reds=335232 |L|=33767 |Q|=10 |samples|=1099 |sv|^2=4495807
+# [info] [69600] cols=371 (3580.8) reds=336581 |L|=33809 |Q|=0 |samples|=1133 |sv|^2=4495807
+# [info] [69800] cols=374 (3589.4) reds=339608 |L|=33894 |Q|=1 |samples|=1222 |sv|^2=4495807
+# [info] [70000] cols=374 (3593) reds=341107 |L|=33891 |Q|=40 |samples|=1258 |sv|^2=4495807
+# [info] [70200] cols=374 (3593) reds=341431 |L|=33904 |Q|=27 |samples|=1258 |sv|^2=4495807
+# [info] [70400] cols=375 (3593) reds=341755 |L|=33918 |Q|=12 |samples|=1258 |sv|^2=4495807
+# [info] [70600] cols=375 (3593) reds=342110 |L|=33924 |Q|=6 |samples|=1258 |sv|^2=4495807
+# [info] [70800] cols=375 (3594.6) reds=342974 |L|=33931 |Q|=16 |samples|=1275 |sv|^2=4495807
+# [info] [71000] cols=376 (3599) reds=344609 |L|=33986 |Q|=5 |samples|=1320 |sv|^2=4495807
+# [info] [71200] cols=378 (3601.9) reds=345895 |L|=34009 |Q|=11 |samples|=1351 |sv|^2=4495807
+# [info] [71400] cols=379 (3604.5) reds=347015 |L|=34022 |Q|=23 |samples|=1377 |sv|^2=4495807
+# [info] [71600] cols=379 (3605.7) reds=347714 |L|=34057 |Q|=1 |samples|=1390 |sv|^2=4495807
+# [info] [71800] cols=380 (3608.3) reds=348952 |L|=34071 |Q|=13 |samples|=1417 |sv|^2=4495807
+# [info] [72000] cols=380 (3610.4) reds=349985 |L|=34095 |Q|=10 |samples|=1438 |sv|^2=4495807
+# [info] [72200] cols=380 (3612.2) reds=350909 |L|=34111 |Q|=12 |samples|=1456 |sv|^2=4495807
+# [info] [72400] cols=381 (3612.5) reds=351336 |L|=34104 |Q|=22 |samples|=1460 |sv|^2=4495807
+# [info] [72600] cols=381 (3615.3) reds=352455 |L|=34152 |Q|=2 |samples|=1488 |sv|^2=4495807
+# [info] [72800] cols=383 (3623.9) reds=355407 |L|=34240 |Q|=0 |samples|=1576 |sv|^2=4495807
+# [info] [73000] cols=384 (3628.6) reds=357147 |L|=34281 |Q|=6 |samples|=1624 |sv|^2=4495807
+# [info] [73200] cols=384 (3637.4) reds=360119 |L|=34374 |Q|=1 |samples|=1712 |sv|^2=4495807
+# [info] [73400] cols=386 (3643.4) reds=362252 |L|=34427 |Q|=8 |samples|=1774 |sv|^2=4495807
+# [info] [73600] cols=387 (3649.8) reds=364594 |L|=34497 |Q|=2 |samples|=1839 |sv|^2=4495807
+# [info] [73800] cols=390 (3658.9) reds=367671 |L|=34590 |Q|=0 |samples|=1933 |sv|^2=4495807
+# [info] [74000] cols=391 (3664) reds=369522 |L|=34633 |Q|=8 |samples|=1985 |sv|^2=4495807
+# [info] [74200] cols=392 (3664.5) reds=370037 |L|=34643 |Q|=3 |samples|=1991 |sv|^2=4495807
+# [info] [74400] cols=393 (3670.2) reds=371998 |L|=34703 |Q|=0 |samples|=2049 |sv|^2=4495807
+# [info] [74600] cols=393 (3677.3) reds=374511 |L|=34773 |Q|=1 |samples|=2120 |sv|^2=4495807
+# [info] [74800] cols=394 (3687.3) reds=377812 |L|=34874 |Q|=0 |samples|=2221 |sv|^2=4495807
+# [info] [75000] cols=394 (3695.8) reds=380851 |L|=34959 |Q|=0 |samples|=2306 |sv|^2=4495807
+# [info] [75200] cols=394 (3699.6) reds=382335 |L|=34958 |Q|=39 |samples|=2344 |sv|^2=4495807
+# [info] [75400] cols=394 (3699.6) reds=382664 |L|=34982 |Q|=15 |samples|=2344 |sv|^2=4495807
+# [info] [75600] cols=396 (3705) reds=384665 |L|=35047 |Q|=4 |samples|=2400 |sv|^2=4495807
+# [info] [75800] cols=397 (3710.9) reds=386892 |L|=35097 |Q|=12 |samples|=2459 |sv|^2=4495807
+# [info] [76000] cols=397 (3716.6) reds=389040 |L|=35166 |Q|=1 |samples|=2517 |sv|^2=4495807
+# [info] [76200] cols=398 (3725.2) reds=391984 |L|=35248 |Q|=5 |samples|=2604 |sv|^2=4495807
+# [info] [76400] cols=402 (3729.8) reds=393770 |L|=35288 |Q|=11 |samples|=2654 |sv|^2=4495807
+# [info] [76600] cols=403 (3735.8) reds=396036 |L|=35359 |Q|=0 |samples|=2715 |sv|^2=4495807
+# [info] [76800] cols=406 (3741.9) reds=398373 |L|=35405 |Q|=15 |samples|=2779 |sv|^2=4495807
+# [info] [77000] cols=406 (3741.9) reds=398734 |L|=35396 |Q|=24 |samples|=2779 |sv|^2=4495807
+# [info] [77200] cols=408 (3744.2) reds=399768 |L|=35435 |Q|=7 |samples|=2803 |sv|^2=4495807
+# [info] [77400] cols=408 (3747.1) reds=401045 |L|=35467 |Q|=5 |samples|=2833 |sv|^2=4495807
+# [info] [77600] cols=410 (3752) reds=403012 |L|=35507 |Q|=14 |samples|=2884 |sv|^2=4495807
+# [info] [77800] cols=410 (3752.1) reds=403376 |L|=35512 |Q|=10 |samples|=2885 |sv|^2=4495807
+# [info] [78000] cols=413 (3759.4) reds=406041 |L|=35594 |Q|=0 |samples|=2960 |sv|^2=4495807
+# [info] [78200] cols=415 (3761.7) reds=407129 |L|=35616 |Q|=2 |samples|=2986 |sv|^2=4495807
+# [info] [78400] cols=417 (3765.5) reds=408595 |L|=35656 |Q|=0 |samples|=3026 |sv|^2=4495807
+# [info] [78600] cols=418 (3770.4) reds=410505 |L|=35703 |Q|=2 |samples|=3076 |sv|^2=4495807
+# [info] [78800] cols=420 (3771.6) reds=411281 |L|=35701 |Q|=15 |samples|=3089 |sv|^2=4495807
+# [info] [79000] cols=421 (3773) reds=412093 |L|=35698 |Q|=32 |samples|=3104 |sv|^2=4495807
+# [info] [79200] cols=422 (3773) reds=412403 |L|=35716 |Q|=13 |samples|=3104 |sv|^2=4495807
+# [info] [79400] cols=423 (3773) reds=412751 |L|=35715 |Q|=13 |samples|=3104 |sv|^2=4495807
+# [info] [79600] cols=423 (3773) reds=413121 |L|=35694 |Q|=34 |samples|=3104 |sv|^2=4495807
+# [info] [79800] cols=423 (3774.4) reds=414041 |L|=35744 |Q|=1 |samples|=3121 |sv|^2=4495807
+# [info] [80000] cols=424 (3779) reds=415832 |L|=35776 |Q|=15 |samples|=3168 |sv|^2=4495807
+# [info] [80200] cols=425 (3779) reds=416172 |L|=35774 |Q|=16 |samples|=3168 |sv|^2=4495807
+# [info] [80400] cols=426 (3781.1) reds=417237 |L|=35794 |Q|=17 |samples|=3190 |sv|^2=4495807
+# [info] [80600] cols=426 (3782.2) reds=417966 |L|=35823 |Q|=0 |samples|=3202 |sv|^2=4495807
+# [info] [80800] cols=426 (3785.4) reds=419309 |L|=35855 |Q|=0 |samples|=3234 |sv|^2=4495807
+# [info] [81000] cols=426 (3788.6) reds=420600 |L|=35887 |Q|=0 |samples|=3266 |sv|^2=4495807
+# [info] [81200] cols=431 (3794.9) reds=423020 |L|=35935 |Q|=15 |samples|=3334 |sv|^2=4495807
+# [info] [81400] cols=433 (3796.1) reds=423762 |L|=35941 |Q|=20 |samples|=3347 |sv|^2=4495807
+# [info] [81600] cols=433 (3796.4) reds=424210 |L|=35963 |Q|=2 |samples|=3351 |sv|^2=4495807
+# [info] [81800] cols=434 (3799.3) reds=425443 |L|=35993 |Q|=1 |samples|=3381 |sv|^2=4495807
+# [info] [82000] cols=435 (3802) reds=426556 |L|=36008 |Q|=12 |samples|=3408 |sv|^2=4495807
+# [info] [82200] cols=436 (3802.6) reds=427138 |L|=36022 |Q|=5 |samples|=3416 |sv|^2=4495807
+# [info] [82400] cols=437 (3807.5) reds=429123 |L|=36068 |Q|=8 |samples|=3466 |sv|^2=4495807
+# [info] [82600] cols=439 (3812.9) reds=431101 |L|=36120 |Q|=8 |samples|=3520 |sv|^2=4495807
+# [info] [82800] cols=441 (3812.9) reds=431443 |L|=36116 |Q|=10 |samples|=3520 |sv|^2=4495807
+# [info] [83000] cols=442 (3812.9) reds=431807 |L|=36119 |Q|=6 |samples|=3520 |sv|^2=4495807
+# [info] [83200] cols=445 (3813.6) reds=432688 |L|=36137 |Q|=0 |samples|=3535 |sv|^2=4495807
+# [info] [83400] cols=446 (3816.1) reds=433830 |L|=36154 |Q|=7 |samples|=3560 |sv|^2=4495807
+# [info] [83600] cols=447 (3816.6) reds=434377 |L|=36164 |Q|=3 |samples|=3567 |sv|^2=4495807
+# [info] [83800] cols=448 (3820.9) reds=436043 |L|=36209 |Q|=1 |samples|=3611 |sv|^2=4495807
+# [info] [84000] cols=448 (3826.7) reds=438055 |L|=36266 |Q|=2 |samples|=3669 |sv|^2=4495807
+# [info] [84200] cols=453 (3833.1) reds=440478 |L|=36326 |Q|=6 |samples|=3738 |sv|^2=4495807
+# [info] [84400] cols=454 (3835.4) reds=441612 |L|=36323 |Q|=32 |samples|=3762 |sv|^2=4495807
+# [info] [84600] cols=455 (3836) reds=442112 |L|=36352 |Q|=8 |samples|=3768 |sv|^2=4495807
+# [info] [84800] cols=456 (3839.3) reds=443579 |L|=36389 |Q|=5 |samples|=3803 |sv|^2=4495807
+# [info] [85000] cols=458 (3846) reds=446068 |L|=36456 |Q|=5 |samples|=3872 |sv|^2=4495807
+# [info] [85200] cols=460 (3854.4) reds=449112 |L|=36541 |Q|=4 |samples|=3958 |sv|^2=4495807
+# [info] [85400] cols=463 (3862.2) reds=451832 |L|=36618 |Q|=5 |samples|=4039 |sv|^2=4495807
+# [info] [85600] cols=466 (3864) reds=452799 |L|=36634 |Q|=6 |samples|=4059 |sv|^2=4495807
+# [info] [85800] cols=467 (3867) reds=454173 |L|=36671 |Q|=0 |samples|=4091 |sv|^2=4495807
+# [info] [86000] cols=468 (3873.5) reds=456554 |L|=36733 |Q|=3 |samples|=4157 |sv|^2=4495807
+# [info] [86200] cols=471 (3879.2) reds=458742 |L|=36773 |Q|=20 |samples|=4217 |sv|^2=4495807
+# [info] [86400] cols=471 (3879.2) reds=459103 |L|=36766 |Q|=27 |samples|=4217 |sv|^2=4495807
+# [info] [86600] cols=472 (3879.2) reds=459470 |L|=36752 |Q|=40 |samples|=4217 |sv|^2=4495807
+# [info] [86800] cols=473 (3879.2) reds=459812 |L|=36767 |Q|=24 |samples|=4217 |sv|^2=4495807
+# [info] [87000] cols=475 (3879.2) reds=460197 |L|=36744 |Q|=45 |samples|=4217 |sv|^2=4495807
+# [info] [87200] cols=477 (3879.7) reds=460825 |L|=36798 |Q|=0 |samples|=4228 |sv|^2=4495807
+# [info] [87400] cols=477 (3881.6) reds=461794 |L|=36816 |Q|=1 |samples|=4247 |sv|^2=4495807
+# [info] [87600] cols=478 (3888.6) reds=464247 |L|=36867 |Q|=20 |samples|=4318 |sv|^2=4495807
+# [info] [87800] cols=478 (3888.6) reds=464622 |L|=36834 |Q|=53 |samples|=4318 |sv|^2=4495807
+# [info] [88000] cols=483 (3888.6) reds=464971 |L|=36834 |Q|=48 |samples|=4318 |sv|^2=4495807
+# [info] [88200] cols=484 (3888.6) reds=465323 |L|=36843 |Q|=38 |samples|=4318 |sv|^2=4495807
+# [info] [88400] cols=484 (3888.6) reds=465646 |L|=36861 |Q|=20 |samples|=4318 |sv|^2=4495807
+# [info] [88600] cols=490 (3888.8) reds=466373 |L|=36864 |Q|=23 |samples|=4330 |sv|^2=4495807
+# [info] [88800] cols=493 (3888.8) reds=466728 |L|=36858 |Q|=26 |samples|=4330 |sv|^2=4495807
+# [info] [89000] cols=494 (3888.8) reds=467071 |L|=36858 |Q|=25 |samples|=4330 |sv|^2=4495807
+# [info] [89200] cols=499 (3888.8) reds=467432 |L|=36835 |Q|=43 |samples|=4330 |sv|^2=4495807
+# [info] [89400] cols=500 (3888.8) reds=467807 |L|=36800 |Q|=77 |samples|=4330 |sv|^2=4495807
+# [info] [89600] cols=504 (3888.8) reds=468136 |L|=36830 |Q|=43 |samples|=4330 |sv|^2=4495807
+# [info] [89800] cols=506 (3888.8) reds=468452 |L|=36852 |Q|=19 |samples|=4330 |sv|^2=4495807
+# [info] [90000] cols=507 (3888.8) reds=468783 |L|=36851 |Q|=19 |samples|=4330 |sv|^2=4291261
+# [info] [90200] cols=507 (3888.8) reds=469142 |L|=36853 |Q|=17 |samples|=4330 |sv|^2=4291261
+# [info] [90400] cols=508 (3888.8) reds=469556 |L|=36870 |Q|=1 |samples|=4332 |sv|^2=4291261
+# [info] [90600] cols=510 (3891.6) reds=471412 |L|=36895 |Q|=22 |samples|=4380 |sv|^2=4291261
+# [info] [90800] cols=512 (3891.6) reds=471743 |L|=36909 |Q|=6 |samples|=4380 |sv|^2=4291261
+# [info] [91000] cols=514 (3893.7) reds=472844 |L|=36933 |Q|=5 |samples|=4405 |sv|^2=4291261
+# [info] [91200] cols=514 (3898) reds=474547 |L|=36974 |Q|=7 |samples|=4448 |sv|^2=4291261
+# [info] [91400] cols=516 (3901.7) reds=476201 |L|=37011 |Q|=6 |samples|=4486 |sv|^2=4291261
+# [info] [91600] cols=522 (3904.8) reds=477922 |L|=37038 |Q|=11 |samples|=4524 |sv|^2=4291261
+# [info] [91800] cols=523 (3910.9) reds=480191 |L|=37108 |Q|=2 |samples|=4586 |sv|^2=4291261
+# [info] [92000] cols=526 (3916.3) reds=482283 |L|=37164 |Q|=0 |samples|=4643 |sv|^2=4291261
+# [info] [92200] cols=528 (3920.1) reds=483937 |L|=37156 |Q|=46 |samples|=4683 |sv|^2=4291261
+# [info] [92400] cols=530 (3920.1) reds=484306 |L|=37146 |Q|=54 |samples|=4683 |sv|^2=4291261
+# [info] [92600] cols=532 (3920.1) reds=484669 |L|=37134 |Q|=64 |samples|=4683 |sv|^2=4291261
+# [info] [92800] cols=534 (3920.1) reds=484995 |L|=37165 |Q|=31 |samples|=4683 |sv|^2=4291261
+# [info] [93000] cols=535 (3920.1) reds=485343 |L|=37171 |Q|=24 |samples|=4683 |sv|^2=4291261
+# [info] [93200] cols=535 (3920.1) reds=485692 |L|=37160 |Q|=35 |samples|=4683 |sv|^2=4291261
+# [info] [93400] cols=535 (3920.1) reds=486059 |L|=37150 |Q|=45 |samples|=4683 |sv|^2=4291261
+# [info] [93600] cols=537 (3920.1) reds=486399 |L|=37133 |Q|=60 |samples|=4683 |sv|^2=4291261
+# [info] [93800] cols=539 (3920.1) reds=486729 |L|=37143 |Q|=48 |samples|=4683 |sv|^2=4291261
+# [info] [94000] cols=541 (3920.1) reds=487098 |L|=37129 |Q|=60 |samples|=4683 |sv|^2=4291261
+# [info] [94200] cols=545 (3920.1) reds=487493 |L|=37130 |Q|=55 |samples|=4683 |sv|^2=4291261
+# [info] [94400] cols=548 (3920.1) reds=487800 |L|=37152 |Q|=30 |samples|=4683 |sv|^2=4291261
+# [info] [94600] cols=550 (3920.1) reds=488171 |L|=37136 |Q|=44 |samples|=4683 |sv|^2=4291261
+# [info] [94800] cols=553 (3920.1) reds=488494 |L|=37151 |Q|=26 |samples|=4683 |sv|^2=4291261
+# [info] [95000] cols=556 (3920.1) reds=488836 |L|=37143 |Q|=31 |samples|=4683 |sv|^2=4291261
+# [info] [95200] cols=557 (3920.1) reds=489185 |L|=37162 |Q|=11 |samples|=4683 |sv|^2=4291261
+# [info] [95400] cols=562 (3920.1) reds=490560 |L|=37199 |Q|=1 |samples|=4715 |sv|^2=4291261
+# [info] [95600] cols=567 (3924.4) reds=492543 |L|=37245 |Q|=0 |samples|=4765 |sv|^2=4291261
+# [info] [95800] cols=569 (3926.4) reds=493598 |L|=37252 |Q|=12 |samples|=4786 |sv|^2=4291261
+# [info] [96000] cols=572 (3926.4) reds=493970 |L|=37241 |Q|=20 |samples|=4786 |sv|^2=4291261
+# [info] [96200] cols=575 (3930.6) reds=495834 |L|=37302 |Q|=5 |samples|=4835 |sv|^2=4291261
+# [info] [96400] cols=581 (3931.5) reds=496528 |L|=37310 |Q|=3 |samples|=4847 |sv|^2=4291261
+# [info] [96600] cols=586 (3933.7) reds=497788 |L|=37323 |Q|=15 |samples|=4877 |sv|^2=4291261
+# [info] [96800] cols=588 (3934.7) reds=498518 |L|=37333 |Q|=14 |samples|=4888 |sv|^2=4291261
+# [info] [97000] cols=589 (3934.7) reds=498877 |L|=37309 |Q|=37 |samples|=4888 |sv|^2=4291261
+# [info] [97200] cols=590 (3934.7) reds=499218 |L|=37307 |Q|=38 |samples|=4888 |sv|^2=4291261
+# [info] [97400] cols=597 (3934.7) reds=499632 |L|=37253 |Q|=85 |samples|=4888 |sv|^2=4291261
+# [info] [97600] cols=598 (3934.7) reds=499959 |L|=37256 |Q|=81 |samples|=4888 |sv|^2=4291261
+# [info] [97800] cols=600 (3934.7) reds=500314 |L|=37252 |Q|=83 |samples|=4888 |sv|^2=4291261
+# [info] [98000] cols=603 (3934.7) reds=500667 |L|=37244 |Q|=88 |samples|=4888 |sv|^2=4291261
+# [info] [98200] cols=606 (3934.7) reds=501015 |L|=37251 |Q|=78 |samples|=4888 |sv|^2=4291261
+# [info] [98400] cols=610 (3934.7) reds=501397 |L|=37232 |Q|=93 |samples|=4888 |sv|^2=4291261
+# [info] [98600] cols=615 (3934.7) reds=501753 |L|=37236 |Q|=84 |samples|=4888 |sv|^2=4291261
+# [info] [98800] cols=617 (3934.7) reds=502077 |L|=37247 |Q|=71 |samples|=4888 |sv|^2=4291261
+# [info] [99000] cols=619 (3934.7) reds=502407 |L|=37265 |Q|=51 |samples|=4888 |sv|^2=4291261
+# [info] [99200] cols=626 (3934.7) reds=502707 |L|=37301 |Q|=8 |samples|=4888 |sv|^2=4291261
+# [info] [99400] cols=628 (3934.7) reds=503281 |L|=37289 |Q|=24 |samples|=4894 |sv|^2=4291261
+# [info] [99600] cols=635 (3934.7) reds=503623 |L|=37284 |Q|=22 |samples|=4894 |sv|^2=4291261
+# [info] [99800] cols=640 (3934.7) reds=504017 |L|=37285 |Q|=16 |samples|=4894 |sv|^2=4291261
+# [info] [100000] cols=643 (3934.7) reds=505701 |L|=37334 |Q|=7 |samples|=4937 |sv|^2=4291261
+# [info] [100200] cols=648 (3934.7) reds=506162 |L|=37294 |Q|=44 |samples|=4939 |sv|^2=4291261
+# [info] [100400] cols=652 (3934.7) reds=506554 |L|=37269 |Q|=65 |samples|=4939 |sv|^2=4291261
+# [info] [100600] cols=655 (3934.7) reds=506886 |L|=37291 |Q|=40 |samples|=4939 |sv|^2=4291261
+# [info] [100800] cols=659 (3934.7) reds=507329 |L|=37331 |Q|=1 |samples|=4944 |sv|^2=4291261
+# [info] [101000] cols=666 (3936.6) reds=508936 |L|=37365 |Q|=2 |samples|=4986 |sv|^2=4291261
+# [info] [101200] cols=667 (3939.7) reds=510306 |L|=37381 |Q|=17 |samples|=5018 |sv|^2=4291261
+# [info] [101400] cols=671 (3940.2) reds=510833 |L|=37385 |Q|=14 |samples|=5023 |sv|^2=4291261
+# [info] [101600] cols=679 (3940.2) reds=511548 |L|=37401 |Q|=0 |samples|=5033 |sv|^2=4291261
+# [info] [101800] cols=684 (3946.6) reds=513996 |L|=37467 |Q|=0 |samples|=5104 |sv|^2=4291261
+# [info] [102000] cols=689 (3951.9) reds=515946 |L|=37492 |Q|=25 |samples|=5159 |sv|^2=4291261
+# [info] [102200] cols=691 (3952.1) reds=516522 |L|=37514 |Q|=8 |samples|=5166 |sv|^2=4291261
+# [info] [102400] cols=697 (3957.4) reds=518663 |L|=37560 |Q|=13 |samples|=5223 |sv|^2=4291261
+# [info] [102600] cols=700 (3960.4) reds=520153 |L|=37605 |Q|=0 |samples|=5258 |sv|^2=4291261
+# [info] [102800] cols=705 (3966.4) reds=522428 |L|=37663 |Q|=2 |samples|=5323 |sv|^2=4291261
+# [info] [103000] cols=709 (3974) reds=525316 |L|=37741 |Q|=0 |samples|=5403 |sv|^2=4291261
+# [info] [103200] cols=711 (3977) reds=526693 |L|=37771 |Q|=0 |samples|=5435 |sv|^2=4291261
+# [info] [103400] cols=715 (3980.8) reds=528321 |L|=37808 |Q|=1 |samples|=5477 |sv|^2=4291261
+# [info] [103600] cols=717 (3983) reds=529399 |L|=37807 |Q|=22 |samples|=5499 |sv|^2=4291261
+# [info] [103800] cols=723 (3983) reds=529739 |L|=37795 |Q|=28 |samples|=5499 |sv|^2=4291261
+# [info] [104000] cols=726 (3983) reds=530061 |L|=37815 |Q|=5 |samples|=5499 |sv|^2=4291261
+# [info] [104200] cols=730 (3990.5) reds=533250 |L|=37902 |Q|=4 |samples|=5589 |sv|^2=4291261
+# [info] [104400] cols=736 (3991.9) reds=534181 |L|=37911 |Q|=7 |samples|=5607 |sv|^2=4291261
+# [info] [104600] cols=743 (3999.4) reds=537209 |L|=37995 |Q|=0 |samples|=5691 |sv|^2=4291261
+# [info] [104800] cols=750 (4007.1) reds=540209 |L|=38065 |Q|=7 |samples|=5775 |sv|^2=4291261
+# [info] [105000] cols=756 (4009.9) reds=541607 |L|=38099 |Q|=1 |samples|=5809 |sv|^2=4291261
+# [info] [105200] cols=762 (4014.7) reds=543567 |L|=38145 |Q|=3 |samples|=5863 |sv|^2=4291261
+# [info] [105400] cols=766 (4016.8) reds=544761 |L|=38168 |Q|=1 |samples|=5888 |sv|^2=4291261
+# [info] [105600] cols=772 (4019.5) reds=546137 |L|=38190 |Q|=3 |samples|=5918 |sv|^2=4291261
+# [info] [105800] cols=774 (4020.7) reds=546990 |L|=38204 |Q|=2 |samples|=5933 |sv|^2=4291261
+# [info] [106000] cols=779 (4025.6) reds=548962 |L|=38237 |Q|=17 |samples|=5986 |sv|^2=4291261
+# [info] [106200] cols=781 (4026.5) reds=549796 |L|=38265 |Q|=1 |samples|=6000 |sv|^2=4291261
+# [info] [106400] cols=787 (4031) reds=551688 |L|=38311 |Q|=0 |samples|=6051 |sv|^2=4291261
+# [info] [106600] cols=792 (4035.4) reds=553470 |L|=38337 |Q|=16 |samples|=6098 |sv|^2=4291261
+# [info] [106800] cols=796 (4035.4) reds=553833 |L|=38341 |Q|=8 |samples|=6098 |sv|^2=4291261
+# [info] [107000] cols=803 (4038) reds=555432 |L|=38365 |Q|=15 |samples|=6136 |sv|^2=4291261
+# [info] [107200] cols=806 (4038.4) reds=556053 |L|=38376 |Q|=9 |samples|=6144 |sv|^2=4291261
+# [info] [107400] cols=812 (4039.5) reds=556949 |L|=38371 |Q|=24 |samples|=6160 |sv|^2=4291261
+# [info] [107600] cols=814 (4039.5) reds=557275 |L|=38370 |Q|=23 |samples|=6160 |sv|^2=4291261
+# [info] [107800] cols=818 (4039.5) reds=557625 |L|=38389 |Q|=0 |samples|=6160 |sv|^2=4291261
+# [info] [108000] cols=822 (4044) reds=559708 |L|=38441 |Q|=0 |samples|=6216 |sv|^2=4291261
+# [info] [108200] cols=838 (4050.6) reds=562702 |L|=38501 |Q|=6 |samples|=6298 |sv|^2=4291261
+# [info] [108400] cols=844 (4054.3) reds=564414 |L|=38526 |Q|=17 |samples|=6340 |sv|^2=4291261
+# [info] [108600] cols=851 (4055.1) reds=565256 |L|=38525 |Q|=25 |samples|=6354 |sv|^2=4291261
+# [info] [108800] cols=857 (4055.4) reds=565988 |L|=38549 |Q|=6 |samples|=6365 |sv|^2=4291261
+# [info] [109000] cols=862 (4055.4) reds=566341 |L|=38536 |Q|=14 |samples|=6365 |sv|^2=4291261
+# [info] [109200] cols=868 (4056.5) reds=567235 |L|=38549 |Q|=13 |samples|=6383 |sv|^2=4291261
+# [info] [109400] cols=873 (4060.8) reds=569264 |L|=38607 |Q|=2 |samples|=6435 |sv|^2=4291261
+# [info] [109600] cols=878 (4064.9) reds=571157 |L|=38648 |Q|=2 |samples|=6481 |sv|^2=4291261
+# [info] [109800] cols=883 (4070.7) reds=573595 |L|=38704 |Q|=4 |samples|=6544 |sv|^2=4291261
+# [info] [110000] cols=887 (4072.7) reds=574725 |L|=38721 |Q|=7 |samples|=6568 |sv|^2=4291261
+# [info] [110200] cols=897 (4076.8) reds=576669 |L|=38750 |Q|=15 |samples|=6615 |sv|^2=4291261
+# [info] [110400] cols=903 (4076.8) reds=577285 |L|=38746 |Q|=20 |samples|=6622 |sv|^2=4291261
+# [info] [110600] cols=914 (4077.9) reds=578316 |L|=38771 |Q|=6 |samples|=6644 |sv|^2=4291261
+# [info] [110800] cols=922 (4084.1) reds=581071 |L|=38836 |Q|=6 |samples|=6717 |sv|^2=4291261
+# [info] [111000] cols=933 (4086.3) reds=582431 |L|=38861 |Q|=2 |samples|=6749 |sv|^2=4291261
+# [info] [111200] cols=939 (4088.1) reds=583532 |L|=38875 |Q|=5 |samples|=6772 |sv|^2=4291261
+# [info] [111400] cols=950 (4096.3) reds=586901 |L|=38963 |Q|=1 |samples|=6867 |sv|^2=4291261
+# [info] [111600] cols=951 (4099.1) reds=588103 |L|=38989 |Q|=3 |samples|=6896 |sv|^2=4291261
+# [info] [111800] cols=957 (4105) reds=590562 |L|=39051 |Q|=0 |samples|=6961 |sv|^2=4291261
+# [info] [112000] cols=966 (4111.7) reds=593309 |L|=39115 |Q|=3 |samples|=7037 |sv|^2=4291261
+# [info] [112200] cols=973 (4118) reds=595915 |L|=39180 |Q|=1 |samples|=7107 |sv|^2=4291261
+# [info] [112400] cols=980 (4118.9) reds=596739 |L|=39182 |Q|=8 |samples|=7123 |sv|^2=4291261
+# [info] [112600] cols=988 (4125.1) reds=599349 |L|=39249 |Q|=3 |samples|=7193 |sv|^2=4291261
+# [info] [112800] cols=996 (4130.5) reds=601680 |L|=39304 |Q|=1 |samples|=7254 |sv|^2=4291261
+# [info] [113000] cols=1005 (4135.6) reds=604022 |L|=39353 |Q|=4 |samples|=7315 |sv|^2=4291261
+# [info] [113200] cols=1012 (4140.7) reds=606169 |L|=39407 |Q|=0 |samples|=7372 |sv|^2=4291261
+# [info] [113400] cols=1014 (4144.4) reds=607965 |L|=39432 |Q|=13 |samples|=7412 |sv|^2=4291261
+# [info] [113600] cols=1023 (4148.3) reds=609781 |L|=39477 |Q|=7 |samples|=7460 |sv|^2=4291261
+# [info] [113800] cols=1034 (4151) reds=611365 |L|=39511 |Q|=0 |samples|=7498 |sv|^2=4291261
+# [info] [114000] cols=1048 (4154.7) reds=613167 |L|=39534 |Q|=4 |samples|=7539 |sv|^2=4291261
+# [info] [114200] cols=1056 (4156.9) reds=614745 |L|=39549 |Q|=20 |samples|=7578 |sv|^2=4291261
+# [info] [114400] cols=1064 (4157.6) reds=615625 |L|=39575 |Q|=2 |samples|=7594 |sv|^2=4291261
+# [info] [114600] cols=1069 (4157.6) reds=615968 |L|=39554 |Q|=18 |samples|=7594 |sv|^2=4291261
+# [info] [114800] cols=1080 (4162.5) reds=618431 |L|=39620 |Q|=6 |samples|=7659 |sv|^2=4291261
+# [info] [115000] cols=1093 (4167.8) reds=620713 |L|=39671 |Q|=6 |samples|=7723 |sv|^2=4291261
+# [info] [115200] cols=1098 (4168.6) reds=621546 |L|=39672 |Q|=13 |samples|=7736 |sv|^2=4291261
+# [info] [115400] cols=1107 (4172.2) reds=623525 |L|=39721 |Q|=2 |samples|=7783 |sv|^2=4291261
+# [info] [115600] cols=1114 (4174.5) reds=624916 |L|=39745 |Q|=1 |samples|=7813 |sv|^2=4291261
+# [info] [115800] cols=1125 (4182.8) reds=628170 |L|=39829 |Q|=0 |samples|=7907 |sv|^2=4291261
+# [info] [116000] cols=1133 (4188.7) reds=630605 |L|=39884 |Q|=2 |samples|=7972 |sv|^2=4291261
+# [info] [116200] cols=1142 (4191.5) reds=632115 |L|=39909 |Q|=7 |samples|=8011 |sv|^2=4291261
+# [info] [116400] cols=1152 (4192.6) reds=633020 |L|=39917 |Q|=6 |samples|=8028 |sv|^2=4291261
+# [info] [116600] cols=1163 (4192.7) reds=633705 |L|=39915 |Q|=6 |samples|=8037 |sv|^2=4291261
+# [info] [116800] cols=1174 (4194.9) reds=635220 |L|=39948 |Q|=1 |samples|=8076 |sv|^2=4291261
+# [info] [117000] cols=1181 (4198.7) reds=637058 |L|=39976 |Q|=10 |samples|=8120 |sv|^2=4291261
+# [info] [117200] cols=1193 (4200.6) reds=638302 |L|=39989 |Q|=12 |samples|=8147 |sv|^2=4291261
+# [info] [117400] cols=1203 (4200.6) reds=639208 |L|=39994 |Q|=13 |samples|=8163 |sv|^2=4291261
+# [info] [117600] cols=1214 (4200.9) reds=639919 |L|=39988 |Q|=19 |samples|=8174 |sv|^2=4291261
+# [info] [117800] cols=1222 (4200.9) reds=640454 |L|=40002 |Q|=3 |samples|=8180 |sv|^2=4291261
+# [info] [118000] cols=1229 (4206.7) reds=643106 |L|=40065 |Q|=3 |samples|=8250 |sv|^2=4291261
+# [info] [118200] cols=1247 (4210.2) reds=645037 |L|=40099 |Q|=2 |samples|=8301 |sv|^2=4291261
+# [info] [118400] cols=1253 (4215.3) reds=647387 |L|=40152 |Q|=2 |samples|=8360 |sv|^2=4291261
+# [info] [118600] cols=1265 (4218) reds=648943 |L|=40181 |Q|=0 |samples|=8399 |sv|^2=4291261
+# [info] [118800] cols=1270 (4221.6) reds=650545 |L|=40215 |Q|=1 |samples|=8439 |sv|^2=4291261
+# [info] [119000] cols=1280 (4223) reds=651600 |L|=40205 |Q|=19 |samples|=8457 |sv|^2=4291261
+# [info] [119200] cols=1294 (4225) reds=653362 |L|=40251 |Q|=0 |samples|=8498 |sv|^2=4291261
+# [info] [119400] cols=1304 (4228.4) reds=654973 |L|=40284 |Q|=1 |samples|=8542 |sv|^2=4291261
+# [info] [119600] cols=1317 (4229.2) reds=656044 |L|=40287 |Q|=6 |samples|=8563 |sv|^2=4291261
+# [info] [119800] cols=1333 (4235.1) reds=658900 |L|=40350 |Q|=2 |samples|=8638 |sv|^2=4291261
+# [info] [120000] cols=1341 (4240) reds=661079 |L|=40400 |Q|=1 |samples|=8695 |sv|^2=4291261
+# [info] [120200] cols=1349 (4244.4) reds=663084 |L|=40445 |Q|=0 |samples|=8747 |sv|^2=4291261
+# [info] [120400] cols=1366 (4250.9) reds=666081 |L|=40498 |Q|=11 |samples|=8828 |sv|^2=4291261
+# [info] [120600] cols=1377 (4253.9) reds=667878 |L|=40540 |Q|=0 |samples|=8870 |sv|^2=4291261
+# [info] [120800] cols=1386 (4260.9) reds=670671 |L|=40603 |Q|=6 |samples|=8948 |sv|^2=4291261
+# [info] [121000] cols=1397 (4264) reds=672487 |L|=40638 |Q|=3 |samples|=8991 |sv|^2=4291261
+# [info] [121200] cols=1411 (4267.5) reds=674541 |L|=40676 |Q|=0 |samples|=9040 |sv|^2=4291261
+# [info] [121400] cols=1424 (4271.2) reds=676537 |L|=40713 |Q|=0 |samples|=9090 |sv|^2=4291261
+# [info] [121600] cols=1427 (4272.3) reds=677250 |L|=40707 |Q|=14 |samples|=9101 |sv|^2=4291261
+# [info] [121800] cols=1438 (4276.6) reds=679465 |L|=40767 |Q|=0 |samples|=9158 |sv|^2=4291261
+# [info] [122000] cols=1448 (4282.9) reds=682080 |L|=40829 |Q|=1 |samples|=9231 |sv|^2=4291261
+# [info] [122200] cols=1461 (4286.2) reds=683959 |L|=40862 |Q|=1 |samples|=9277 |sv|^2=4291261
+# [info] [122400] cols=1471 (4290.5) reds=686033 |L|=40905 |Q|=1 |samples|=9330 |sv|^2=4291261
+# [info] [122600] cols=1478 (4296) reds=688383 |L|=40961 |Q|=0 |samples|=9392 |sv|^2=4291261
+# [info] [122800] cols=1489 (4299.8) reds=690222 |L|=40996 |Q|=2 |samples|=9440 |sv|^2=4291261
+# [info] [123000] cols=1502 (4303.4) reds=692078 |L|=41029 |Q|=3 |samples|=9487 |sv|^2=4291261
+# [info] [123200] cols=1515 (4306.9) reds=694161 |L|=41070 |Q|=0 |samples|=9538 |sv|^2=4291261
+# [info] [123400] cols=1523 (4312) reds=696456 |L|=41118 |Q|=2 |samples|=9596 |sv|^2=4291261
+# [info] [123600] cols=1531 (4315) reds=698099 |L|=41139 |Q|=11 |samples|=9634 |sv|^2=4291261
+# [info] [123800] cols=1536 (4316.6) reds=699197 |L|=41156 |Q|=11 |samples|=9656 |sv|^2=4291261
+# [info] [124000] cols=1544 (4322.4) reds=701627 |L|=41218 |Q|=7 |samples|=9722 |sv|^2=4291261
+# [info] [124200] cols=1555 (4328.2) reds=704177 |L|=41281 |Q|=2 |samples|=9791 |sv|^2=4291261
+# [info] [124400] cols=1579 (4333.5) reds=706988 |L|=41331 |Q|=4 |samples|=9867 |sv|^2=4291261
+# [info] [124600] cols=1587 (4337.8) reds=709048 |L|=41379 |Q|=0 |samples|=9919 |sv|^2=4291261
+# [info] [124800] cols=1605 (4342.7) reds=711614 |L|=41428 |Q|=0 |samples|=9986 |sv|^2=4291261
+# [info] [125000] cols=1617 (4350.7) reds=714991 |L|=41508 |Q|=0 |samples|=10078 |sv|^2=4291261
+# [info] [125200] cols=1630 (4354.8) reds=717039 |L|=41546 |Q|=3 |samples|=10132 |sv|^2=4291261
+# [info] [125400] cols=1646 (4361.3) reds=720160 |L|=41614 |Q|=0 |samples|=10213 |sv|^2=4291261
+# [info] [125600] cols=1657 (4366.1) reds=722502 |L|=41659 |Q|=3 |samples|=10272 |sv|^2=4291261
+# [info] [125800] cols=1671 (4371.1) reds=724859 |L|=41697 |Q|=13 |samples|=10334 |sv|^2=4291261
+# [info] [126000] cols=1684 (4373.3) reds=726278 |L|=41728 |Q|=3 |samples|=10368 |sv|^2=4291261
+# [info] [126200] cols=1697 (4376.4) reds=728152 |L|=41764 |Q|=1 |samples|=10415 |sv|^2=4291261
+# [info] [126400] cols=1715 (4383.8) reds=731616 |L|=41839 |Q|=0 |samples|=10507 |sv|^2=4291261
+# [info] [126600] cols=1728 (4389) reds=734227 |L|=41890 |Q|=1 |samples|=10572 |sv|^2=4291261
+# [info] [126800] cols=1741 (4390.5) reds=735436 |L|=41900 |Q|=3 |samples|=10597 |sv|^2=4291261
+# [info] [127000] cols=1752 (4394.3) reds=737313 |L|=41923 |Q|=15 |samples|=10643 |sv|^2=4291261
+# [info] [127200] cols=1764 (4397.1) reds=739093 |L|=41971 |Q|=0 |samples|=10688 |sv|^2=4291261
+# [info] [127400] cols=1781 (4403.6) reds=742205 |L|=42036 |Q|=1 |samples|=10771 |sv|^2=4291261
+# [info] [127600] cols=1797 (4408.3) reds=744709 |L|=42083 |Q|=0 |samples|=10833 |sv|^2=4291261
+# [info] [127800] cols=1810 (4412.1) reds=746726 |L|=42121 |Q|=1 |samples|=10885 |sv|^2=4291261
+# [info] [128000] cols=1825 (4418.4) reds=749619 |L|=42181 |Q|=4 |samples|=10963 |sv|^2=4291261
+# [info] [128200] cols=1843 (4421.7) reds=751658 |L|=42216 |Q|=2 |samples|=11014 |sv|^2=4291261
+# [info] [128400] cols=1857 (4428.6) reds=754762 |L|=42282 |Q|=5 |samples|=11097 |sv|^2=4291261
+# [info] [128600] cols=1873 (4435.7) reds=758119 |L|=42358 |Q|=0 |samples|=11184 |sv|^2=4291261
+# [info] [128800] cols=1883 (4440.1) reds=760238 |L|=42385 |Q|=14 |samples|=11235 |sv|^2=4291261
+# [info] [129000] cols=1903 (4442.7) reds=762189 |L|=42427 |Q|=1 |samples|=11284 |sv|^2=4291261
+# [info] [129200] cols=1920 (4446.6) reds=764386 |L|=42464 |Q|=2 |samples|=11339 |sv|^2=4291261
+# [info] [129400] cols=1948 (4450.7) reds=767017 |L|=42507 |Q|=0 |samples|=11408 |sv|^2=4291261
+# [info] [129600] cols=1963 (4456.1) reds=769759 |L|=42556 |Q|=5 |samples|=11477 |sv|^2=4291261
+# [info] [129800] cols=1985 (4461.2) reds=772626 |L|=42613 |Q|=0 |samples|=11551 |sv|^2=4291261
+# [info] [130000] cols=2001 (4469.3) reds=776093 |L|=42694 |Q|=0 |samples|=11648 |sv|^2=4291261
+# [info] [130200] cols=2018 (4474.4) reds=778627 |L|=42712 |Q|=30 |samples|=11713 |sv|^2=4291261
+# [info] [130400] cols=2040 (4475.3) reds=780120 |L|=42753 |Q|=1 |samples|=11747 |sv|^2=4291261
+# [info] [130600] cols=2057 (4482.2) reds=783253 |L|=42818 |Q|=4 |samples|=11832 |sv|^2=4291261
+# [info] [130800] cols=2074 (4486.8) reds=785659 |L|=42863 |Q|=5 |samples|=11895 |sv|^2=4291261
+# [info] [131000] cols=2088 (4492.4) reds=788366 |L|=42920 |Q|=4 |samples|=11965 |sv|^2=4291261
+# [info] [131200] cols=2105 (4494.7) reds=790020 |L|=42944 |Q|=4 |samples|=12006 |sv|^2=4291261
+# [info] [131400] cols=2117 (4496.6) reds=791429 |L|=42963 |Q|=4 |samples|=12037 |sv|^2=4291261
+# [info] [131600] cols=2135 (4503.6) reds=794757 |L|=43031 |Q|=6 |samples|=12125 |sv|^2=4291261
+# [info] [131800] cols=2150 (4507.4) reds=796792 |L|=43074 |Q|=0 |samples|=12177 |sv|^2=4291261
+# [info] [132000] cols=2165 (4510.4) reds=798597 |L|=43093 |Q|=9 |samples|=12220 |sv|^2=4291261
+# [info] [132200] cols=2186 (4514.2) reds=800849 |L|=43139 |Q|=3 |samples|=12281 |sv|^2=4291261
+# [info] [132400] cols=2209 (4517) reds=803026 |L|=43170 |Q|=1 |samples|=12333 |sv|^2=4291261
+# [info] [132600] cols=2225 (4523.1) reds=805833 |L|=43229 |Q|=3 |samples|=12410 |sv|^2=4291261
+# [info] [132800] cols=2246 (4526.6) reds=808010 |L|=43262 |Q|=3 |samples|=12464 |sv|^2=4291261
+# [info] [133000] cols=2268 (4530) reds=809952 |L|=43276 |Q|=16 |samples|=12513 |sv|^2=4291261
+# [info] [133200] cols=2285 (4533.8) reds=812542 |L|=43338 |Q|=1 |samples|=12577 |sv|^2=4291261
+# [info] [133400] cols=2303 (4539.1) reds=815076 |L|=43382 |Q|=2 |samples|=12640 |sv|^2=4291261
+# [info] [133600] cols=2324 (4543.8) reds=817903 |L|=43437 |Q|=2 |samples|=12716 |sv|^2=4291261
+# [info] [133800] cols=2342 (4549.3) reds=820509 |L|=43490 |Q|=4 |samples|=12789 |sv|^2=4291261
+# [info] [134000] cols=2359 (4553.9) reds=823040 |L|=43539 |Q|=1 |samples|=12852 |sv|^2=4291261
+# [info] [134200] cols=2380 (4557.8) reds=825385 |L|=43577 |Q|=2 |samples|=12912 |sv|^2=4291261
+# [info] [134400] cols=2399 (4562.7) reds=827930 |L|=43623 |Q|=5 |samples|=12980 |sv|^2=4291261
+# [info] [134600] cols=2421 (4567.2) reds=830541 |L|=43673 |Q|=0 |samples|=13047 |sv|^2=4291261
+# [info] [134800] cols=2442 (4576.8) reds=834749 |L|=43769 |Q|=0 |samples|=13164 |sv|^2=4291261
+# [info] [135000] cols=2460 (4581.9) reds=837338 |L|=43820 |Q|=0 |samples|=13233 |sv|^2=4291261
+# [info] [135200] cols=2476 (4587.5) reds=839935 |L|=43869 |Q|=6 |samples|=13304 |sv|^2=4291261
+# [info] [135400] cols=2498 (4592.5) reds=842704 |L|=43925 |Q|=1 |samples|=13377 |sv|^2=4291261
+# [info] [135600] cols=2520 (4597.9) reds=845508 |L|=43976 |Q|=3 |samples|=13452 |sv|^2=4291261
+# [info] [135800] cols=2548 (4600.9) reds=847681 |L|=44009 |Q|=0 |samples|=13510 |sv|^2=4291261
+# [info] [136000] cols=2565 (4608.2) reds=851064 |L|=44077 |Q|=6 |samples|=13601 |sv|^2=4291261
+# [info] [136200] cols=2591 (4613.3) reds=853976 |L|=44118 |Q|=15 |samples|=13677 |sv|^2=4291261
+# [info] [136400] cols=2615 (4615.9) reds=855976 |L|=44160 |Q|=0 |samples|=13728 |sv|^2=4291261
+# [info] [136600] cols=2633 (4619.8) reds=858337 |L|=44196 |Q|=2 |samples|=13784 |sv|^2=4291261
+# [info] [136800] cols=2650 (4623.6) reds=860617 |L|=44234 |Q|=2 |samples|=13839 |sv|^2=4291261
+# [info] [137000] cols=2669 (4627.7) reds=862971 |L|=44274 |Q|=3 |samples|=13899 |sv|^2=4291261
+# [info] [137200] cols=2687 (4633.2) reds=865695 |L|=44329 |Q|=3 |samples|=13972 |sv|^2=4291261
+# [info] [137400] cols=2705 (4641.5) reds=869444 |L|=44408 |Q|=6 |samples|=14072 |sv|^2=4291261
+# [info] [137600] cols=2729 (4643.3) reds=871307 |L|=44434 |Q|=0 |samples|=14116 |sv|^2=4291261
+# [info] [137800] cols=2755 (4647.9) reds=874013 |L|=44479 |Q|=1 |samples|=14188 |sv|^2=4291261
+# [info] [138000] cols=2779 (4654.7) reds=877388 |L|=44537 |Q|=10 |samples|=14279 |sv|^2=4291261
+# [info] [138200] cols=2803 (4659.6) reds=880284 |L|=44593 |Q|=4 |samples|=14353 |sv|^2=4291261
+# [info] [138400] cols=2830 (4666.8) reds=883786 |L|=44669 |Q|=0 |samples|=14452 |sv|^2=4291261
+# [info] [138600] cols=2848 (4672.7) reds=886707 |L|=44724 |Q|=2 |samples|=14527 |sv|^2=4291261
+# [info] [138800] cols=2863 (4677.3) reds=889237 |L|=44773 |Q|=1 |samples|=14590 |sv|^2=4291261
+# [info] [139000] cols=2894 (4683.7) reds=892800 |L|=44836 |Q|=2 |samples|=14685 |sv|^2=4291261
+# [info] [139200] cols=2915 (4687.4) reds=895108 |L|=44875 |Q|=0 |samples|=14743 |sv|^2=4291261
+# [info] [139400] cols=2931 (4689.3) reds=896678 |L|=44888 |Q|=6 |samples|=14778 |sv|^2=4291261
+# [info] [139600] cols=2964 (4693.6) reds=899641 |L|=44935 |Q|=1 |samples|=14853 |sv|^2=4291261
+# [info] [139800] cols=2989 (4697.8) reds=902278 |L|=44978 |Q|=0 |samples|=14920 |sv|^2=4291261
+# [info] [140000] cols=3011 (4700.6) reds=904251 |L|=45006 |Q|=0 |samples|=14970 |sv|^2=4291261
+# [info] [140200] cols=3037 (4706.5) reds=907479 |L|=45062 |Q|=4 |samples|=15056 |sv|^2=4291261
+# [info] [140400] cols=3067 (4713.1) reds=911038 |L|=45132 |Q|=0 |samples|=15152 |sv|^2=4291261
+# [info] [140600] cols=3090 (4717.4) reds=913613 |L|=45174 |Q|=1 |samples|=15218 |sv|^2=4291261
+# [info] [140800] cols=3111 (4724.1) reds=916963 |L|=45242 |Q|=0 |samples|=15306 |sv|^2=4291261
+# [info] [141000] cols=3136 (4728.4) reds=919533 |L|=45282 |Q|=1 |samples|=15372 |sv|^2=4291261
+# [info] [141200] cols=3157 (4734.3) reds=922628 |L|=45339 |Q|=4 |samples|=15453 |sv|^2=4291261
+# [info] [141400] cols=3190 (4736.3) reds=924734 |L|=45361 |Q|=1 |samples|=15505 |sv|^2=4291261
+# [info] [141600] cols=3223 (4743.2) reds=928756 |L|=45433 |Q|=0 |samples|=15609 |sv|^2=4291261
+# [info] [141800] cols=3243 (4748.5) reds=931468 |L|=45479 |Q|=5 |samples|=15680 |sv|^2=4291261
+# [info] [142000] cols=3257 (4753.5) reds=934125 |L|=45527 |Q|=8 |samples|=15745 |sv|^2=4291261
+# [info] [142200] cols=3271 (4755.5) reds=935685 |L|=45556 |Q|=0 |samples|=15780 |sv|^2=4291261
+# [info] [142400] cols=3297 (4762) reds=938980 |L|=45619 |Q|=2 |samples|=15871 |sv|^2=4291261
+# [info] [142600] cols=3324 (4767.3) reds=942102 |L|=45674 |Q|=0 |samples|=15951 |sv|^2=4291261
+# [info] [142800] cols=3350 (4772.3) reds=945090 |L|=45724 |Q|=0 |samples|=16027 |sv|^2=4291261
+# [info] [143000] cols=3375 (4781) reds=949143 |L|=45811 |Q|=0 |samples|=16139 |sv|^2=4291261
+# [info] [143200] cols=3400 (4787.8) reds=952536 |L|=45878 |Q|=0 |samples|=16231 |sv|^2=4291261
+# [info] [143400] cols=3430 (4794.1) reds=956009 |L|=45941 |Q|=1 |samples|=16325 |sv|^2=4291261
+# [info] [143600] cols=3464 (4798.8) reds=959041 |L|=45985 |Q|=3 |samples|=16405 |sv|^2=4291261
+# [info] [143800] cols=3494 (4804.6) reds=962438 |L|=46045 |Q|=2 |samples|=16494 |sv|^2=4291261
+# [info] [144000] cols=3524 (4808.8) reds=965250 |L|=46087 |Q|=2 |samples|=16566 |sv|^2=4291261
+# [info] [144200] cols=3562 (4814) reds=968528 |L|=46140 |Q|=0 |samples|=16655 |sv|^2=4291261
+# [info] [144400] cols=3587 (4821.7) reds=972057 |L|=46217 |Q|=0 |samples|=16757 |sv|^2=4291261
+# [info] [144600] cols=3618 (4827.7) reds=975318 |L|=46274 |Q|=3 |samples|=16848 |sv|^2=4291261
+# [info] [144800] cols=3648 (4835.1) reds=979080 |L|=46351 |Q|=0 |samples|=16952 |sv|^2=4291261
+# [info] [145000] cols=3676 (4844) reds=983330 |L|=46437 |Q|=4 |samples|=17070 |sv|^2=4291261
+# [info] [145200] cols=3704 (4850.2) reds=986710 |L|=46502 |Q|=1 |samples|=17160 |sv|^2=4291261
+# [info] [145400] cols=3734 (4854.5) reds=989538 |L|=46546 |Q|=0 |samples|=17233 |sv|^2=4291261
+# [info] [145600] cols=3756 (4861.9) reds=993129 |L|=46619 |Q|=1 |samples|=17329 |sv|^2=4291261
+# [info] [145800] cols=3787 (4870.4) reds=997343 |L|=46702 |Q|=3 |samples|=17445 |sv|^2=4291261
+# [info] [146000] cols=3809 (4872.4) reds=999205 |L|=46724 |Q|=1 |samples|=17487 |sv|^2=4291261
+# [info] [146200] cols=3830 (4877.9) reds=1001970 |L|=46775 |Q|=2 |samples|=17560 |sv|^2=4291261
+# [info] [146400] cols=3863 (4882.1) reds=1004990 |L|=46820 |Q|=1 |samples|=17637 |sv|^2=4291261
+# [info] [146600] cols=3895 (4889.4) reds=1008774 |L|=46894 |Q|=0 |samples|=17742 |sv|^2=4291261
+# [info] [146800] cols=3925 (4892.9) reds=1011249 |L|=46930 |Q|=0 |samples|=17808 |sv|^2=4291261
+# [info] [147000] cols=3963 (4898.6) reds=1014613 |L|=46985 |Q|=1 |samples|=17902 |sv|^2=4291261
+# [info] [147200] cols=3991 (4904.1) reds=1017686 |L|=47039 |Q|=2 |samples|=17985 |sv|^2=4291261
+# [info] [147400] cols=4027 (4911.3) reds=1021699 |L|=47113 |Q|=1 |samples|=18094 |sv|^2=4291261
+# [info] [147600] cols=4067 (4917.9) reds=1025436 |L|=47179 |Q|=1 |samples|=18200 |sv|^2=4291261
+# [info] [147800] cols=4100 (4925.5) reds=1029430 |L|=47255 |Q|=1 |samples|=18309 |sv|^2=4291261
+# [info] [148000] cols=4142 (4929.6) reds=1032561 |L|=47295 |Q|=2 |samples|=18392 |sv|^2=4291261
+# [info] [148200] cols=4177 (4931.9) reds=1034908 |L|=47317 |Q|=0 |samples|=18447 |sv|^2=4291261
+# [info] [148400] cols=4206 (4937) reds=1037886 |L|=47367 |Q|=3 |samples|=18529 |sv|^2=4291261
+# [info] [148600] cols=4239 (4941.3) reds=1040747 |L|=47412 |Q|=2 |samples|=18606 |sv|^2=4291261
+# [info] [148800] cols=4266 (4947.8) reds=1044230 |L|=47479 |Q|=0 |samples|=18698 |sv|^2=4291261
+# [info] [149000] cols=4291 (4954.9) reds=1047810 |L|=47549 |Q|=1 |samples|=18794 |sv|^2=4291261
+# [info] [149200] cols=4321 (4960.5) reds=1051041 |L|=47606 |Q|=0 |samples|=18880 |sv|^2=4291261
+# [info] [149400] cols=4362 (4966.9) reds=1054739 |L|=47670 |Q|=0 |samples|=18985 |sv|^2=4291261
+# [info] [149600] cols=4401 (4975) reds=1059073 |L|=47749 |Q|=1 |samples|=19104 |sv|^2=4291261
+# [info] [149800] cols=4439 (4982.7) reds=1063152 |L|=47827 |Q|=0 |samples|=19219 |sv|^2=4291261
+# [info] [150000] cols=4469 (4987.8) reds=1066335 |L|=47877 |Q|=2 |samples|=19301 |sv|^2=4291261
+# [info] [150200] cols=4505 (4994.9) reds=1070234 |L|=47948 |Q|=0 |samples|=19406 |sv|^2=4291261
+# [info] [150400] cols=4540 (4997.3) reds=1072643 |L|=47974 |Q|=0 |samples|=19467 |sv|^2=4291261
+# [info] [150600] cols=4572 (5004.3) reds=1076456 |L|=48044 |Q|=0 |samples|=19569 |sv|^2=4291261
+# [info] [150800] cols=4604 (5006.8) reds=1078501 |L|=48053 |Q|=7 |samples|=19617 |sv|^2=4291261
+# [info] [151000] cols=4648 (5009.8) reds=1081659 |L|=48098 |Q|=1 |samples|=19700 |sv|^2=4291261
+# [info] [151200] cols=4698 (5013.5) reds=1084966 |L|=48133 |Q|=2 |samples|=19786 |sv|^2=4291261
+# [info] [151400] cols=4734 (5019.3) reds=1088357 |L|=48194 |Q|=0 |samples|=19881 |sv|^2=4291261
+# [info] [151600] cols=4768 (5023.9) reds=1091532 |L|=48240 |Q|=0 |samples|=19961 |sv|^2=4291261
+# [info] [151800] cols=4809 (5029.6) reds=1095169 |L|=48295 |Q|=0 |samples|=20057 |sv|^2=4291261
+# [info] [152000] cols=4836 (5034.6) reds=1098138 |L|=48347 |Q|=0 |samples|=20136 |sv|^2=4291261
+# [info] [152200] cols=4869 (5042.3) reds=1102338 |L|=48422 |Q|=1 |samples|=20245 |sv|^2=4291261
+# [info] [152400] cols=4894 (5046.4) reds=1104988 |L|=48464 |Q|=1 |samples|=20312 |sv|^2=4291261
+# [info] [152600] cols=4922 (5053.2) reds=1108526 |L|=48533 |Q|=0 |samples|=20408 |sv|^2=4291261
+# [info] [152800] cols=4960 (5056.5) reds=1111164 |L|=48565 |Q|=1 |samples|=20479 |sv|^2=4291261
+# [info] [153000] cols=5006 (5061.9) reds=1114973 |L|=48618 |Q|=2 |samples|=20579 |sv|^2=4291261
+# [info] [153200] cols=5044 (5069.9) reds=1119235 |L|=48694 |Q|=6 |samples|=20697 |sv|^2=4291261
+# [****] done!
+# [info] [153324] cols=5073 (5073) reds=1121385 |L|=48729 |Q|=0 |samples|=20755
+# [info] max(|L|)=48730 log2(max|L|)/n=0.232426
+# [info] true max|L| = 36888
+# [info] true log2(max|L|)/n = 0.226431
+# [info] sv is
+# [info] |sv| = 2071.54 (4291261)

@@ -1,0 +1,17 @@
+LLL success
+# [info] running 2-sieve
+# [info] nc = 23
+# [info] nr = 23
+# [info] t = log(nr) = 2
+# [info] maxbistar2 = 1.93876e+06
+# [info] done initialization, size(List)=23
+# [info] done initialization, size(Queue)=0
+# [info] done initialization, mem_est=17.6305
+# [info] [200] cols=141 (206.3) reds=266 |L|=63 |Q|=0 |samples|=181 |sv|^2=1741634
+# [****] done!
+# [info] [287] cols=208 (207.4) reds=421 |L|=74 |Q|=0 |samples|=259
+# [info] max(|L|)=74 log2(max|L|)/n=0.269976
+# [info] true max|L| = 23
+# [info] true log2(max|L|)/n = 0.196677
+# [info] sv is
+# [info] |sv| = 1319.71 (1741634)
